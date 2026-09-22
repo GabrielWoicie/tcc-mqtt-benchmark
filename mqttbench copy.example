@@ -1,0 +1,49 @@
+# Edite este arquivo e execute .\mqttbench.exe na mesma pasta.
+# Formato: campo=valor. Comentários devem ficar em linhas próprias com #.
+# Não use aspas nos valores. Salve em UTF-8. Tempos aceitam ms, s, m e h.
+# Campos omitidos usam os mesmos padrões da linha de comando.
+
+# Tipo de teste: message (mensagens) ou connections (conexões simultâneas).
+mode=message
+
+# Identificador opcional do experimento e numero da repeticao (>= 1).
+scenario-id=PILOT-MOSQ-C005-Q2-R1
+repetition=1
+
+# Endereço do broker MQTT. Substitua IP_PUBLICO_EMQX pelo IP real.
+broker=
+# Nome do broker nos arquivos de resultados (ex.: emqx ou mosquitto).
+broker-name=mosquitto
+# Número de publishers em message; número de conexões em connections.
+# Em message há também uma conexão extra para coletar as mensagens.
+clients=5
+# Novas conexões por segundo durante a subida da carga; 0 = sem limite.
+connect-rate=100
+# Pasta de resultados, relativa à pasta em que o programa é executado.
+out=results
+# Credenciais opcionais. Deixe vazio se o broker não exigir autenticação.
+username=
+password=
+# Ignorar validação do certificado TLS: use true apenas em testes controlados.
+tls-insecure=false
+
+# Campos exclusivos de message: comente estas linhas ao usar connections.
+# Qualidade de serviço MQTT: 0, 1 ou 2.
+publish-pattern=staggered
+qos=2
+# Mensagens por segundo POR publisher. Ex.: 5 clientes x 1 = 5 msg/s.
+rate=1
+# Aquecimento: envia mensagens, mas não as inclui nas estatísticas.
+warmup=5s
+# Duração da janela de medição, sem contar aquecimento e drain.
+duration=15s
+# Espera por mensagens em trânsito após a janela de medição.
+drain=3s
+# Tamanho aproximado do payload JSON em bytes; mínimo 64.
+payload-bytes=256
+# Prefixo dos tópicos. O programa acrescenta identificadores de execução.
+topic-prefix=tcc/benchmark
+
+# Campo exclusivo de connections: descomente ao usar mode=connections.
+# Tempo mantendo as conexões abertas após terminar a subida da carga.
+# hold=60s

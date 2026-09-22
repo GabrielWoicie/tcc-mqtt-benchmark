@@ -1,0 +1,2 @@
+broker,qos,clients_connected,rate_per_client,payload_bytes,duration_s,publish_success,received_unique,lost,duplicates,delivery_rate_pct,publish_throughput_msg_s,receive_throughput_msg_s,latency_avg_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,latency_max_ms,tool_version,scenario_id,repetition,publish_pattern
+emqx,1,5,1,256,15,75,75,0,0,100.000000,5.000000,5.000000,156.421788,155.864900,158.093270,158.350596,158.542700,0.3.0,PILOT-EMQX-C005-Q1-R1,1,staggered
