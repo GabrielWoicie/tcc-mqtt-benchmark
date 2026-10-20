@@ -1,0 +1,32 @@
+{
+  "scenario_id": "PILOT-EMQX-CONN-C1000-R1",
+  "repetition": 1,
+  "publish_pattern": "",
+  "tool_version": "0.3.0",
+  "mode": "connections",
+  "broker_name": "emqx",
+  "broker_url": "mqtt://3.149.235.72:1883",
+  "mqtt_version": "5.0",
+  "clients_requested": 1000,
+  "clients_connected": 997,
+  "connection_failures": 3,
+  "requested_connect_rate_per_s": 100,
+  "actual_successful_connect_rate_per_s": 63.178596424808774,
+  "connection_window_seconds": 15.7806608,
+  "hold_seconds": 60,
+  "connection_latency": {
+    "count": 997,
+    "min_ms": 290.2582,
+    "avg_ms": 301.364068,
+    "p50_ms": 301.0622,
+    "p95_ms": 306.51184,
+    "p99_ms": 315.021152,
+    "max_ms": 729.9686
+  },
+  "started_at_utc": "2026-10-20T01:09:02.8476048Z",
+  "finished_at_utc": "2026-10-20T01:10:18.6497776Z",
+  "generator_os": "windows",
+  "generator_arch": "amd64",
+  "go_version": "go1.26.4",
+  "result_directory": "results\\PILOT-EMQX-CONN-C1000-R1_emqx_20261020T010902846770300Z"
+}
