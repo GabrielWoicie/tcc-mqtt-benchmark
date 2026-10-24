@@ -1,0 +1,32 @@
+{
+  "scenario_id": "CONN-MOSQ-C2500-R3",
+  "repetition": 3,
+  "publish_pattern": "",
+  "tool_version": "0.3.0",
+  "mode": "connections",
+  "broker_name": "mosquitto",
+  "broker_url": "mqtt://3.149.235.134:1883",
+  "mqtt_version": "5.0",
+  "clients_requested": 2500,
+  "clients_connected": 2499,
+  "connection_failures": 1,
+  "requested_connect_rate_per_s": 100,
+  "actual_successful_connect_rate_per_s": 94.0530865654334,
+  "connection_window_seconds": 26.5701009,
+  "hold_seconds": 60,
+  "connection_latency": {
+    "count": 2499,
+    "min_ms": 294.1487,
+    "avg_ms": 298.966677,
+    "p50_ms": 299.0673,
+    "p95_ms": 303.70241,
+    "p99_ms": 304.69521,
+    "max_ms": 305.9347
+  },
+  "started_at_utc": "2026-10-24T07:07:07.9223061Z",
+  "finished_at_utc": "2026-10-24T07:08:34.521376Z",
+  "generator_os": "windows",
+  "generator_arch": "amd64",
+  "go_version": "go1.26.4",
+  "result_directory": "results\\CONN-MOSQ-C2500-R3_mosquitto_20261024T070707921780000Z"
+}

@@ -1,0 +1,2 @@
+broker,qos,clients_connected,rate_per_client,payload_bytes,duration_s,publish_success,received_unique,lost,duplicates,delivery_rate_pct,publish_throughput_msg_s,receive_throughput_msg_s,latency_avg_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,latency_max_ms,tool_version,scenario_id,repetition,publish_pattern
+mosquitto,2,500,1,256,60,30000,3400,26600,0,11.333333,500.000000,56.666667,15296.621708,15296.405400,15306.180290,15310.688052,15319.269900,0.3.0,MSG-MOSQ-C500-Q2-R1,1,staggered

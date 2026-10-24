@@ -1,0 +1,32 @@
+{
+  "scenario_id": "CONN-EMQX-C500-R1",
+  "repetition": 1,
+  "publish_pattern": "",
+  "tool_version": "0.3.0",
+  "mode": "connections",
+  "broker_name": "emqx",
+  "broker_url": "mqtt://18.191.162.215:1883",
+  "mqtt_version": "5.0",
+  "clients_requested": 500,
+  "clients_connected": 500,
+  "connection_failures": 0,
+  "requested_connect_rate_per_s": 100,
+  "actual_successful_connect_rate_per_s": 94.30909318656977,
+  "connection_window_seconds": 5.3017157,
+  "hold_seconds": 60,
+  "connection_latency": {
+    "count": 500,
+    "min_ms": 308.6208,
+    "avg_ms": 312.383061,
+    "p50_ms": 311.3087,
+    "p95_ms": 315.434985,
+    "p99_ms": 315.874574,
+    "max_ms": 316.8093
+  },
+  "started_at_utc": "2026-10-24T03:32:24.8125904Z",
+  "finished_at_utc": "2026-10-24T03:33:30.1249274Z",
+  "generator_os": "windows",
+  "generator_arch": "amd64",
+  "go_version": "go1.26.4",
+  "result_directory": "results\\CONN-EMQX-C500-R1_emqx_20261024T033224811515100Z"
+}

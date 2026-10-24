@@ -1,0 +1,2 @@
+broker,qos,clients_connected,rate_per_client,payload_bytes,duration_s,publish_success,received_unique,lost,duplicates,delivery_rate_pct,publish_throughput_msg_s,receive_throughput_msg_s,latency_avg_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,latency_max_ms,tool_version,scenario_id,repetition,publish_pattern
+emqx,1,500,1,256,60,30000,12911,17089,0,43.036667,500.000000,215.183333,2235.805272,2128.546000,3133.403900,4605.326540,5013.916200,0.3.0,MSG-EMQX-C500-Q1-R2,2,staggered

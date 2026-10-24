@@ -1,0 +1,2501 @@
+client_index,success,connection_latency_ms,error
+0,true,301.173000,
+1,true,299.626000,
+2,true,296.030300,
+3,true,299.213900,
+4,true,303.031200,
+5,true,296.329500,
+6,true,299.634500,
+7,true,300.887900,
+8,true,294.543500,
+9,true,298.507700,
+10,true,298.636900,
+11,true,299.075600,
+12,true,296.405300,
+13,true,300.143700,
+14,true,297.311800,
+15,true,296.698900,
+16,true,294.790000,
+17,true,299.641800,
+18,true,299.686600,
+19,true,296.120100,
+20,true,296.319400,
+21,true,300.310900,
+22,true,296.413900,
+23,true,299.811400,
+24,true,296.456300,
+25,true,301.430700,
+26,true,296.063300,
+27,true,298.678200,
+28,true,299.701300,
+29,true,295.270400,
+30,true,298.357900,
+31,true,295.661600,
+32,true,299.090700,
+33,true,299.685100,
+34,true,299.840400,
+35,true,295.976400,
+36,true,299.386900,
+37,true,296.922000,
+38,true,302.545000,
+39,true,294.595400,
+40,true,298.666600,
+41,true,295.952500,
+42,true,299.730300,
+43,true,295.866200,
+44,true,295.739400,
+45,true,298.442100,
+46,true,295.787800,
+47,true,300.378700,
+48,true,296.526400,
+49,true,295.655200,
+50,true,299.996800,
+51,true,298.667600,
+52,true,302.575100,
+53,true,299.033000,
+54,true,300.274200,
+55,true,296.645000,
+56,true,295.838600,
+57,true,299.675100,
+58,true,296.072100,
+59,true,295.865700,
+60,true,295.560600,
+61,true,299.036000,
+62,true,296.425300,
+63,true,299.004900,
+64,true,295.556300,
+65,true,296.193400,
+66,true,296.027900,
+67,true,296.480600,
+68,true,296.269600,
+69,true,296.287300,
+70,true,300.003500,
+71,true,298.906600,
+72,true,300.074600,
+73,true,299.851800,
+74,true,300.116900,
+75,true,299.775900,
+76,true,299.380900,
+77,true,299.831800,
+78,true,298.147800,
+79,true,296.117200,
+80,true,295.781500,
+81,true,299.538900,
+82,true,295.794600,
+83,true,295.519100,
+84,true,295.299600,
+85,true,299.149400,
+86,true,296.289900,
+87,true,296.480100,
+88,true,297.050500,
+89,true,302.709100,
+90,true,296.131700,
+91,true,295.876800,
+92,true,298.448200,
+93,true,298.513700,
+94,true,297.511900,
+95,true,303.720800,
+96,true,298.681000,
+97,true,295.675100,
+98,true,298.377700,
+99,true,295.998300,
+100,true,296.093400,
+101,true,298.917000,
+102,true,299.325000,
+103,true,295.927000,
+104,true,299.665500,
+105,true,295.538700,
+106,true,295.577400,
+107,true,298.965800,
+108,true,296.117000,
+109,true,298.921800,
+110,true,296.347400,
+111,true,295.332300,
+112,true,299.349100,
+113,true,295.471300,
+114,true,299.968300,
+115,true,298.473800,
+116,true,303.948900,
+117,true,303.339500,
+118,true,303.443100,
+119,true,302.557200,
+120,true,302.472300,
+121,true,295.430700,
+122,true,300.046600,
+123,true,298.560500,
+124,true,296.397900,
+125,true,300.203900,
+126,true,298.002900,
+127,true,300.145700,
+128,true,298.623300,
+129,true,295.806200,
+130,true,296.792800,
+131,true,300.919500,
+132,true,299.438000,
+133,true,295.861600,
+134,true,296.242300,
+135,true,303.546500,
+136,true,299.108800,
+137,true,303.321000,
+138,true,299.180400,
+139,true,295.850800,
+140,true,296.165600,
+141,true,302.921300,
+142,true,295.698800,
+143,true,302.790200,
+144,true,296.760900,
+145,true,295.194600,
+146,true,296.833300,
+147,true,299.336500,
+148,true,296.120100,
+149,true,296.775000,
+150,true,296.239400,
+151,true,296.054400,
+152,true,298.888800,
+153,true,299.127700,
+154,true,296.127900,
+155,true,294.445800,
+156,true,295.739800,
+157,true,296.289800,
+158,true,296.723000,
+159,true,302.856600,
+160,true,296.646600,
+161,true,295.450300,
+162,true,295.841400,
+163,true,295.901100,
+164,true,299.906700,
+165,true,296.736200,
+166,true,299.456100,
+167,true,298.232400,
+168,true,299.523300,
+169,true,295.775000,
+170,true,299.786700,
+171,true,299.007200,
+172,true,294.799000,
+173,true,299.097200,
+174,true,304.422800,
+175,true,301.469100,
+176,true,299.254100,
+177,true,298.339600,
+178,true,298.216300,
+179,true,296.710200,
+180,true,298.254400,
+181,true,296.198600,
+182,true,303.660300,
+183,true,300.153400,
+184,true,298.571800,
+185,true,298.221800,
+186,true,301.250100,
+187,true,295.672700,
+188,true,303.703300,
+189,true,296.174600,
+190,true,299.326900,
+191,true,299.456400,
+192,true,304.535800,
+193,true,303.880800,
+194,true,298.031300,
+195,true,299.048400,
+196,true,295.982100,
+197,true,299.068300,
+198,true,298.931700,
+199,true,296.399400,
+200,true,296.330900,
+201,true,296.208200,
+202,true,295.700700,
+203,true,299.462700,
+204,true,299.840300,
+205,true,300.126000,
+206,true,299.493200,
+207,true,302.705400,
+208,true,299.836700,
+209,true,295.235300,
+210,true,296.489600,
+211,true,300.450300,
+212,true,296.697000,
+213,true,299.609100,
+214,true,295.900300,
+215,true,299.327500,
+216,true,302.346900,
+217,true,298.767900,
+218,true,295.963100,
+219,true,300.085900,
+220,true,296.809300,
+221,true,295.500100,
+222,true,300.196200,
+223,true,295.795600,
+224,true,295.892800,
+225,true,298.859900,
+226,true,298.525500,
+227,true,298.692800,
+228,true,303.014700,
+229,true,299.529900,
+230,true,295.215500,
+231,true,299.782200,
+232,true,295.296700,
+233,true,295.609500,
+234,true,302.318200,
+235,true,299.839400,
+236,true,298.237700,
+237,true,295.354000,
+238,true,298.061200,
+239,true,299.797700,
+240,true,295.697700,
+241,true,296.026600,
+242,true,296.028600,
+243,true,295.463800,
+244,true,299.890200,
+245,true,301.896900,
+246,true,300.654600,
+247,true,299.276300,
+248,true,299.598600,
+249,true,298.848400,
+250,true,296.962400,
+251,true,295.982800,
+252,true,295.674700,
+253,true,298.606700,
+254,true,299.205300,
+255,true,298.841000,
+256,true,296.236400,
+257,true,296.338200,
+258,true,294.804100,
+259,true,296.167300,
+260,true,298.917000,
+261,true,296.482500,
+262,true,297.523100,
+263,true,299.976200,
+264,true,296.033200,
+265,true,302.983100,
+266,true,302.677000,
+267,true,296.577200,
+268,true,296.621900,
+269,true,295.986100,
+270,true,298.433600,
+271,true,299.758900,
+272,true,299.135900,
+273,true,303.670800,
+274,true,302.925800,
+275,true,295.687300,
+276,true,301.300800,
+277,true,295.648300,
+278,true,296.678200,
+279,true,295.050000,
+280,true,296.477500,
+281,true,296.221500,
+282,true,296.846200,
+283,true,295.663000,
+284,true,301.573800,
+285,true,299.413300,
+286,true,296.610400,
+287,true,299.401100,
+288,true,296.483500,
+289,true,302.848700,
+290,true,298.756400,
+291,true,296.154800,
+292,true,296.038000,
+293,true,298.370400,
+294,true,299.922800,
+295,true,296.397800,
+296,true,298.051400,
+297,true,294.559900,
+298,true,296.830100,
+299,true,299.811200,
+300,true,298.715100,
+301,true,296.098300,
+302,true,299.560700,
+303,true,299.202800,
+304,true,298.509900,
+305,true,296.779700,
+306,true,301.459500,
+307,true,295.898400,
+308,true,295.621100,
+309,true,302.329100,
+310,true,295.095700,
+311,true,296.146300,
+312,true,299.701800,
+313,true,299.251600,
+314,true,299.216100,
+315,true,296.133400,
+316,true,298.276200,
+317,true,300.213800,
+318,true,300.117200,
+319,true,296.151800,
+320,true,294.857900,
+321,true,298.318800,
+322,true,299.191300,
+323,true,300.147200,
+324,true,300.401100,
+325,true,300.036500,
+326,true,295.858100,
+327,true,300.709300,
+328,true,298.689000,
+329,true,297.237500,
+330,true,298.236300,
+331,true,296.017400,
+332,true,304.319600,
+333,true,302.940600,
+334,true,299.602400,
+335,true,295.599200,
+336,true,297.137100,
+337,true,295.525500,
+338,true,302.381500,
+339,true,298.738000,
+340,true,300.387600,
+341,true,299.637000,
+342,true,296.218500,
+343,true,300.472700,
+344,true,297.872400,
+345,true,302.493100,
+346,true,296.493600,
+347,true,299.778000,
+348,true,303.813000,
+349,true,299.827400,
+350,true,295.214800,
+351,true,303.480800,
+352,true,295.674800,
+353,true,299.800300,
+354,true,296.156800,
+355,true,299.676000,
+356,true,296.657100,
+357,true,299.638600,
+358,true,299.937000,
+359,true,302.055300,
+360,true,301.013700,
+361,true,298.786400,
+362,true,299.640300,
+363,true,299.326900,
+364,true,299.386400,
+365,true,296.195400,
+366,true,303.357600,
+367,true,300.792000,
+368,true,296.933400,
+369,true,296.276800,
+370,true,298.493500,
+371,true,299.030600,
+372,true,296.279700,
+373,true,301.414300,
+374,true,296.016900,
+375,true,295.514700,
+376,true,302.067100,
+377,true,304.118400,
+378,true,299.429200,
+379,true,295.390800,
+380,true,295.986500,
+381,true,300.775100,
+382,true,296.683900,
+383,true,298.428400,
+384,true,296.138600,
+385,true,303.238700,
+386,true,299.075200,
+387,true,296.948000,
+388,true,304.021800,
+389,true,295.911100,
+390,true,296.856700,
+391,true,296.247400,
+392,true,303.494400,
+393,true,300.125500,
+394,true,298.690800,
+395,true,295.474600,
+396,true,300.115900,
+397,true,294.393600,
+398,true,294.984400,
+399,true,295.161400,
+400,true,298.140200,
+401,true,295.962700,
+402,true,302.353600,
+403,true,296.100800,
+404,true,301.679500,
+405,true,295.867800,
+406,true,295.284000,
+407,true,299.977400,
+408,true,299.546200,
+409,true,296.088800,
+410,true,296.265900,
+411,true,296.125600,
+412,true,296.586500,
+413,true,296.386600,
+414,true,299.598300,
+415,true,303.916800,
+416,true,294.773800,
+417,true,299.515800,
+418,true,295.320400,
+419,true,299.316900,
+420,true,295.819900,
+421,true,295.074000,
+422,true,302.537100,
+423,true,298.260400,
+424,true,296.038200,
+425,true,295.230300,
+426,true,297.984300,
+427,true,295.648800,
+428,true,299.113400,
+429,true,299.816300,
+430,true,299.462100,
+431,true,295.953400,
+432,true,300.096900,
+433,true,295.937700,
+434,true,299.029600,
+435,true,296.632900,
+436,true,299.651600,
+437,true,296.531500,
+438,true,300.168000,
+439,true,299.536100,
+440,true,299.277900,
+441,true,303.448100,
+442,true,300.157100,
+443,true,296.169100,
+444,true,295.290800,
+445,true,302.808900,
+446,true,303.019900,
+447,true,295.331300,
+448,true,302.817400,
+449,true,300.340000,
+450,true,296.856100,
+451,true,299.610600,
+452,true,298.901900,
+453,true,304.144600,
+454,true,299.433900,
+455,true,296.107300,
+456,true,298.150400,
+457,true,300.921500,
+458,true,298.093700,
+459,true,304.208600,
+460,true,300.899400,
+461,true,299.940200,
+462,true,298.469100,
+463,true,299.327200,
+464,true,296.262300,
+465,true,301.578400,
+466,true,295.620500,
+467,true,295.957500,
+468,true,300.894200,
+469,true,299.059500,
+470,true,296.576700,
+471,true,303.905500,
+472,true,295.857100,
+473,true,298.759200,
+474,true,299.767900,
+475,true,301.120900,
+476,true,303.017900,
+477,true,295.187600,
+478,true,297.136800,
+479,true,296.376900,
+480,true,300.555700,
+481,true,295.907500,
+482,true,294.886700,
+483,true,296.870300,
+484,true,300.035900,
+485,true,296.337300,
+486,true,295.687900,
+487,true,298.098000,
+488,true,296.116500,
+489,true,299.208600,
+490,true,296.791100,
+491,true,296.580300,
+492,true,303.264200,
+493,true,295.467100,
+494,true,300.262800,
+495,true,301.139900,
+496,true,302.390600,
+497,true,296.319100,
+498,true,298.430900,
+499,true,295.757000,
+500,true,302.924400,
+501,true,298.933900,
+502,true,298.938400,
+503,true,298.797700,
+504,true,300.359200,
+505,true,295.916300,
+506,true,297.486900,
+507,true,299.640000,
+508,true,304.067800,
+509,true,299.183900,
+510,true,299.775200,
+511,true,296.686300,
+512,true,300.060000,
+513,true,297.005100,
+514,true,299.802400,
+515,true,300.021300,
+516,true,299.222800,
+517,true,299.942200,
+518,true,295.709500,
+519,true,296.532300,
+520,true,296.182100,
+521,true,299.737000,
+522,true,300.348700,
+523,true,295.618100,
+524,true,295.335600,
+525,true,299.929900,
+526,true,298.621200,
+527,true,299.830400,
+528,true,299.039100,
+529,true,298.528800,
+530,true,299.672200,
+531,true,296.513300,
+532,true,295.606300,
+533,true,299.690400,
+534,true,295.934800,
+535,true,299.673100,
+536,true,300.309700,
+537,true,299.563100,
+538,true,299.957900,
+539,true,298.426200,
+540,true,300.325300,
+541,true,296.219900,
+542,true,303.337900,
+543,true,298.958700,
+544,true,297.035000,
+545,true,301.346700,
+546,true,299.429500,
+547,true,302.953400,
+548,true,299.390400,
+549,true,295.669900,
+550,true,298.564200,
+551,true,300.169200,
+552,true,298.787700,
+553,true,296.030300,
+554,true,296.088400,
+555,true,299.728900,
+556,true,295.419500,
+557,true,299.291500,
+558,true,303.240200,
+559,true,298.410000,
+560,true,299.079600,
+561,true,299.901100,
+562,true,300.664600,
+563,true,299.443500,
+564,true,300.014000,
+565,true,300.520400,
+566,true,298.839300,
+567,true,296.889100,
+568,true,296.510100,
+569,true,296.956800,
+570,true,296.105400,
+571,true,295.721900,
+572,true,296.369100,
+573,true,302.971700,
+574,true,295.345400,
+575,true,296.404300,
+576,true,295.905700,
+577,true,300.034300,
+578,true,298.770000,
+579,true,295.818700,
+580,true,298.819100,
+581,true,299.530500,
+582,true,297.406300,
+583,true,299.636200,
+584,true,295.881700,
+585,true,298.857500,
+586,true,295.808300,
+587,true,297.485200,
+588,true,299.917300,
+589,true,303.465900,
+590,true,300.446300,
+591,true,298.984200,
+592,true,296.215600,
+593,true,296.630200,
+594,true,296.270800,
+595,true,296.031900,
+596,true,302.360300,
+597,true,300.316400,
+598,true,299.328000,
+599,true,298.518900,
+600,true,302.396100,
+601,true,295.544100,
+602,true,303.818500,
+603,true,298.469500,
+604,true,300.109100,
+605,true,299.680500,
+606,true,301.816300,
+607,true,298.748700,
+608,true,295.089200,
+609,true,295.629700,
+610,true,296.159700,
+611,true,295.936700,
+612,true,300.137600,
+613,true,296.739300,
+614,true,296.194700,
+615,true,301.885700,
+616,true,298.229900,
+617,true,298.866300,
+618,true,295.766400,
+619,true,299.017700,
+620,true,299.026600,
+621,true,295.782000,
+622,true,296.660300,
+623,true,297.276800,
+624,true,295.756700,
+625,true,299.029700,
+626,true,296.281600,
+627,true,300.772900,
+628,true,295.881200,
+629,true,299.551700,
+630,true,296.514500,
+631,true,295.684600,
+632,true,298.513300,
+633,true,298.461200,
+634,true,302.660400,
+635,true,298.049800,
+636,true,295.893400,
+637,true,296.486600,
+638,true,295.358000,
+639,true,300.466600,
+640,true,296.746200,
+641,true,300.751100,
+642,true,302.360800,
+643,true,296.867300,
+644,true,295.709000,
+645,true,295.934300,
+646,true,298.871700,
+647,true,298.776300,
+648,true,299.135100,
+649,true,295.604700,
+650,true,295.994500,
+651,true,300.071800,
+652,true,302.935700,
+653,true,302.475800,
+654,true,300.856300,
+655,true,298.945700,
+656,true,304.024500,
+657,true,295.369500,
+658,true,295.609100,
+659,true,298.931600,
+660,true,295.981000,
+661,true,299.024200,
+662,true,299.712600,
+663,true,299.709000,
+664,true,296.241100,
+665,true,298.221900,
+666,true,298.717400,
+667,true,299.359300,
+668,true,300.258700,
+669,true,298.487200,
+670,true,299.946700,
+671,true,302.674500,
+672,true,303.207300,
+673,true,295.549600,
+674,true,299.792200,
+675,true,302.134900,
+676,true,294.912100,
+677,true,302.175200,
+678,true,299.641600,
+679,true,296.202700,
+680,true,299.975300,
+681,true,295.041500,
+682,true,296.331900,
+683,true,296.103600,
+684,true,299.441700,
+685,true,300.000200,
+686,true,295.531300,
+687,true,300.278000,
+688,true,307.370900,
+689,true,295.455200,
+690,true,297.081600,
+691,true,295.644200,
+692,true,296.787700,
+693,true,299.419000,
+694,true,296.456900,
+695,true,302.249200,
+696,true,295.439100,
+697,true,300.441800,
+698,true,295.780500,
+699,true,297.009600,
+700,true,295.937400,
+701,true,298.641000,
+702,true,300.502200,
+703,true,298.493000,
+704,true,299.095000,
+705,true,299.751800,
+706,true,296.165300,
+707,true,296.124400,
+708,true,295.689200,
+709,true,295.720900,
+710,true,295.755000,
+711,true,300.454900,
+712,true,303.643900,
+713,true,298.037800,
+714,true,294.771300,
+715,true,303.437600,
+716,true,303.339300,
+717,true,301.840200,
+718,true,295.312400,
+719,true,296.895000,
+720,true,301.793100,
+721,true,296.747600,
+722,true,296.041600,
+723,true,295.214500,
+724,true,299.049700,
+725,true,300.309100,
+726,true,296.479000,
+727,true,295.675100,
+728,true,298.580500,
+729,true,297.100300,
+730,true,296.913200,
+731,true,296.949800,
+732,true,299.896600,
+733,true,303.159300,
+734,true,299.433300,
+735,true,296.289400,
+736,true,303.540600,
+737,true,299.223200,
+738,true,303.144200,
+739,true,299.283700,
+740,true,297.066000,
+741,true,296.858200,
+742,true,299.624800,
+743,true,299.273600,
+744,true,298.530600,
+745,true,299.739100,
+746,true,295.292900,
+747,true,299.160000,
+748,true,296.445700,
+749,true,297.082500,
+750,true,295.973100,
+751,true,301.186600,
+752,true,299.040400,
+753,true,295.518400,
+754,true,297.587800,
+755,true,303.786000,
+756,true,298.953300,
+757,true,300.773700,
+758,true,296.537500,
+759,true,299.627100,
+760,true,295.604400,
+761,true,296.615800,
+762,true,296.062200,
+763,true,298.963700,
+764,true,295.934200,
+765,true,304.103500,
+766,true,295.658500,
+767,true,296.762000,
+768,true,299.677800,
+769,true,299.125100,
+770,true,298.685600,
+771,true,299.669700,
+772,true,296.541700,
+773,true,299.152400,
+774,true,300.539200,
+775,true,300.114300,
+776,true,295.167900,
+777,true,302.787800,
+778,true,300.192700,
+779,true,295.794100,
+780,true,300.249100,
+781,true,298.555800,
+782,true,298.951000,
+783,true,295.961800,
+784,true,301.906300,
+785,true,303.361200,
+786,true,299.346200,
+787,true,298.616800,
+788,true,301.624300,
+789,true,296.171700,
+790,true,296.083400,
+791,true,298.709600,
+792,true,304.422800,
+793,true,299.911700,
+794,true,296.873100,
+795,true,303.328300,
+796,true,295.112400,
+797,true,299.337500,
+798,true,299.847500,
+799,true,295.671800,
+800,true,296.385100,
+801,true,296.893300,
+802,true,296.610000,
+803,true,300.835600,
+804,true,295.178500,
+805,true,303.102500,
+806,true,295.831000,
+807,true,300.473600,
+808,true,300.252900,
+809,true,297.982000,
+810,true,296.561700,
+811,true,295.770600,
+812,true,299.033200,
+813,true,295.198100,
+814,true,296.065800,
+815,true,299.635800,
+816,true,299.081300,
+817,true,295.129500,
+818,true,295.873300,
+819,true,295.813000,
+820,true,296.325100,
+821,true,297.961100,
+822,true,296.176200,
+823,true,297.384500,
+824,true,299.027000,
+825,true,296.107900,
+826,true,299.224900,
+827,true,295.774100,
+828,true,296.007300,
+829,true,299.393600,
+830,true,303.535100,
+831,true,301.851200,
+832,true,298.547400,
+833,true,298.498700,
+834,true,303.423200,
+835,true,294.943700,
+836,true,300.060800,
+837,true,300.079600,
+838,true,295.931800,
+839,true,303.653300,
+840,true,295.175100,
+841,true,299.720100,
+842,true,299.694500,
+843,true,296.404000,
+844,true,303.800300,
+845,true,295.317500,
+846,true,298.540500,
+847,true,299.255800,
+848,true,295.325100,
+849,true,299.395600,
+850,true,296.391100,
+851,true,299.823900,
+852,true,296.517200,
+853,true,295.852000,
+854,true,298.771200,
+855,true,300.801800,
+856,true,296.075800,
+857,true,299.414700,
+858,true,300.276300,
+859,true,296.597400,
+860,true,296.415100,
+861,true,299.623700,
+862,true,296.594700,
+863,true,297.558800,
+864,true,296.243500,
+865,true,298.664900,
+866,true,302.857900,
+867,true,300.399800,
+868,true,295.111600,
+869,true,296.136100,
+870,true,295.745200,
+871,true,296.731500,
+872,true,297.063400,
+873,true,300.625900,
+874,true,297.146900,
+875,true,300.016400,
+876,true,295.908500,
+877,true,302.612000,
+878,true,300.172000,
+879,true,299.091100,
+880,true,295.945500,
+881,true,295.848200,
+882,true,296.242800,
+883,true,296.348800,
+884,true,300.648900,
+885,true,296.342800,
+886,true,295.766800,
+887,true,297.263800,
+888,true,299.596200,
+889,true,299.043100,
+890,true,299.138000,
+891,true,299.035500,
+892,true,299.903100,
+893,true,299.457900,
+894,true,298.721800,
+895,true,298.404300,
+896,true,295.852600,
+897,true,301.487300,
+898,true,295.302900,
+899,true,300.917600,
+900,true,295.611300,
+901,true,298.634200,
+902,true,298.658300,
+903,true,301.430500,
+904,true,300.279000,
+905,true,296.111900,
+906,true,296.326000,
+907,true,295.864500,
+908,true,304.267600,
+909,true,303.289600,
+910,true,299.734300,
+911,true,303.627900,
+912,true,300.183800,
+913,true,296.417800,
+914,true,299.966200,
+915,true,298.922800,
+916,true,304.288000,
+917,true,299.106500,
+918,true,295.888700,
+919,true,302.325700,
+920,true,299.851000,
+921,true,303.407900,
+922,true,296.679100,
+923,true,299.229500,
+924,true,295.724100,
+925,true,300.430600,
+926,true,299.589700,
+927,true,297.156900,
+928,true,296.751000,
+929,true,298.899100,
+930,true,300.164400,
+931,true,296.332900,
+932,true,295.326900,
+933,true,296.330400,
+934,true,295.666800,
+935,true,298.823300,
+936,true,298.383600,
+937,true,296.050400,
+938,true,299.882700,
+939,true,295.998500,
+940,true,303.860100,
+941,true,303.138900,
+942,true,299.441700,
+943,true,299.452800,
+944,true,298.677800,
+945,true,298.128800,
+946,true,295.627400,
+947,true,303.093100,
+948,true,295.290500,
+949,true,298.950500,
+950,true,296.320200,
+951,true,299.651200,
+952,true,300.846700,
+953,true,303.432100,
+954,true,299.678600,
+955,true,295.952800,
+956,true,295.329600,
+957,true,300.331500,
+958,true,302.172000,
+959,true,298.727900,
+960,true,295.978000,
+961,true,299.917800,
+962,true,302.741900,
+963,true,296.274100,
+964,true,295.755600,
+965,true,303.595500,
+966,true,299.325600,
+967,true,299.982000,
+968,true,296.739100,
+969,true,302.023600,
+970,true,295.381600,
+971,true,299.144100,
+972,true,298.998000,
+973,true,296.447300,
+974,true,300.209900,
+975,true,299.591500,
+976,true,298.389500,
+977,true,300.135400,
+978,true,303.808500,
+979,true,303.896300,
+980,true,296.008300,
+981,true,295.908900,
+982,true,296.344700,
+983,true,298.518200,
+984,true,296.071100,
+985,true,299.308200,
+986,true,296.474000,
+987,true,299.297100,
+988,true,299.222900,
+989,true,295.467800,
+990,true,297.114800,
+991,true,302.339900,
+992,true,297.041800,
+993,true,304.190500,
+994,true,300.177800,
+995,true,298.406700,
+996,true,302.044400,
+997,true,303.253700,
+998,true,302.014600,
+999,true,299.351300,
+1000,true,304.634200,
+1001,true,298.640800,
+1002,true,296.760300,
+1003,true,299.794900,
+1004,true,298.783100,
+1005,true,295.213400,
+1006,true,296.063900,
+1007,true,299.249500,
+1008,true,296.709700,
+1009,true,296.948900,
+1010,true,299.332400,
+1011,true,300.342900,
+1012,true,300.316500,
+1013,true,300.565300,
+1014,true,300.055300,
+1015,true,298.760500,
+1016,true,299.295900,
+1017,false,300.174600,MQTT CONNECT failed: EOF
+1018,false,302.299900,MQTT CONNECT failed: EOF
+1019,false,295.754000,MQTT CONNECT failed: read tcp 192.168.0.102:51288->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1020,false,296.218600,MQTT CONNECT failed: read tcp 192.168.0.102:51289->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1021,false,299.717600,MQTT CONNECT failed: EOF
+1022,false,295.816800,MQTT CONNECT failed: read tcp 192.168.0.102:51291->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1023,false,303.981400,MQTT CONNECT failed: read tcp 192.168.0.102:51292->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1024,false,299.548500,MQTT CONNECT failed: read tcp 192.168.0.102:51293->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1025,false,299.184200,MQTT CONNECT failed: EOF
+1026,false,296.168800,MQTT CONNECT failed: read tcp 192.168.0.102:51295->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1027,false,299.665500,MQTT CONNECT failed: EOF
+1028,false,296.545200,MQTT CONNECT failed: read tcp 192.168.0.102:51297->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1029,false,297.800700,MQTT CONNECT failed: EOF
+1030,false,296.440200,MQTT CONNECT failed: read tcp 192.168.0.102:51299->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1031,false,295.729700,MQTT CONNECT failed: EOF
+1032,false,297.757500,MQTT CONNECT failed: read tcp 192.168.0.102:51301->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1033,false,298.794600,MQTT CONNECT failed: EOF
+1034,false,299.877800,MQTT CONNECT failed: read tcp 192.168.0.102:51303->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1035,false,295.734000,MQTT CONNECT failed: read tcp 192.168.0.102:51304->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1036,false,297.103800,MQTT CONNECT failed: read tcp 192.168.0.102:51305->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1037,false,296.101000,MQTT CONNECT failed: read tcp 192.168.0.102:51306->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1038,false,296.136100,MQTT CONNECT failed: EOF
+1039,false,296.618600,MQTT CONNECT failed: read tcp 192.168.0.102:51308->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1040,false,299.134200,MQTT CONNECT failed: read tcp 192.168.0.102:51309->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1041,false,295.423500,MQTT CONNECT failed: read tcp 192.168.0.102:51310->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1042,false,299.999600,MQTT CONNECT failed: read tcp 192.168.0.102:51311->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1043,false,299.412400,MQTT CONNECT failed: read tcp 192.168.0.102:51312->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1044,false,300.566000,MQTT CONNECT failed: read tcp 192.168.0.102:51313->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1045,false,298.904300,MQTT CONNECT failed: read tcp 192.168.0.102:51314->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1046,false,296.243200,MQTT CONNECT failed: EOF
+1047,false,304.010400,MQTT CONNECT failed: read tcp 192.168.0.102:51316->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1048,false,300.134400,MQTT CONNECT failed: EOF
+1049,false,298.984900,MQTT CONNECT failed: EOF
+1050,false,295.350300,MQTT CONNECT failed: read tcp 192.168.0.102:51319->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1051,false,296.598100,MQTT CONNECT failed: read tcp 192.168.0.102:51320->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1052,false,299.720800,MQTT CONNECT failed: read tcp 192.168.0.102:51321->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1053,false,299.052500,MQTT CONNECT failed: read tcp 192.168.0.102:51322->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1054,false,299.272200,MQTT CONNECT failed: read tcp 192.168.0.102:51323->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1055,false,296.296800,MQTT CONNECT failed: read tcp 192.168.0.102:51324->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1056,false,298.703300,MQTT CONNECT failed: read tcp 192.168.0.102:51325->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1057,false,300.091100,MQTT CONNECT failed: read tcp 192.168.0.102:51326->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1058,false,299.086900,MQTT CONNECT failed: read tcp 192.168.0.102:51327->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1059,false,296.325000,MQTT CONNECT failed: read tcp 192.168.0.102:51328->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1060,false,300.051000,MQTT CONNECT failed: read tcp 192.168.0.102:51329->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1061,false,304.423400,MQTT CONNECT failed: read tcp 192.168.0.102:51330->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1062,false,296.373500,MQTT CONNECT failed: read tcp 192.168.0.102:51331->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1063,false,295.985500,MQTT CONNECT failed: read tcp 192.168.0.102:51332->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1064,false,301.647000,MQTT CONNECT failed: EOF
+1065,false,298.679800,MQTT CONNECT failed: read tcp 192.168.0.102:51334->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1066,false,297.581100,MQTT CONNECT failed: read tcp 192.168.0.102:51335->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1067,false,295.845400,MQTT CONNECT failed: read tcp 192.168.0.102:51336->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1068,false,299.901200,MQTT CONNECT failed: read tcp 192.168.0.102:51337->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1069,false,295.908100,MQTT CONNECT failed: read tcp 192.168.0.102:51338->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1070,false,296.964700,MQTT CONNECT failed: read tcp 192.168.0.102:51339->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1071,false,298.698400,MQTT CONNECT failed: read tcp 192.168.0.102:51340->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1072,false,299.722100,MQTT CONNECT failed: read tcp 192.168.0.102:51341->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1073,false,300.005600,MQTT CONNECT failed: read tcp 192.168.0.102:51342->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1074,false,299.921000,MQTT CONNECT failed: read tcp 192.168.0.102:51343->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1075,false,296.382400,MQTT CONNECT failed: read tcp 192.168.0.102:51344->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1076,false,298.812000,MQTT CONNECT failed: read tcp 192.168.0.102:51345->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1077,false,304.086300,MQTT CONNECT failed: read tcp 192.168.0.102:51346->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1078,false,296.300000,MQTT CONNECT failed: read tcp 192.168.0.102:51347->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1079,false,300.645600,MQTT CONNECT failed: read tcp 192.168.0.102:51348->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1080,false,300.475000,MQTT CONNECT failed: read tcp 192.168.0.102:51349->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1081,false,296.560700,MQTT CONNECT failed: read tcp 192.168.0.102:51350->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1082,false,298.514600,MQTT CONNECT failed: read tcp 192.168.0.102:51351->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1083,false,298.746000,MQTT CONNECT failed: read tcp 192.168.0.102:51352->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1084,false,296.779700,MQTT CONNECT failed: read tcp 192.168.0.102:51353->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1085,false,296.073600,MQTT CONNECT failed: read tcp 192.168.0.102:51354->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1086,false,298.574800,MQTT CONNECT failed: read tcp 192.168.0.102:51355->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1087,false,296.135900,MQTT CONNECT failed: read tcp 192.168.0.102:51356->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1088,false,295.923800,MQTT CONNECT failed: read tcp 192.168.0.102:51357->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1089,false,296.455700,MQTT CONNECT failed: read tcp 192.168.0.102:51358->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1090,false,298.720700,MQTT CONNECT failed: read tcp 192.168.0.102:51359->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1091,false,295.952800,MQTT CONNECT failed: read tcp 192.168.0.102:51360->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1092,false,296.582100,MQTT CONNECT failed: read tcp 192.168.0.102:51361->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1093,false,295.379300,MQTT CONNECT failed: read tcp 192.168.0.102:51362->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1094,false,303.900100,MQTT CONNECT failed: read tcp 192.168.0.102:51363->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1095,false,299.345100,MQTT CONNECT failed: read tcp 192.168.0.102:51364->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1096,false,295.967600,MQTT CONNECT failed: read tcp 192.168.0.102:51365->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1097,false,295.660900,MQTT CONNECT failed: read tcp 192.168.0.102:51366->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1098,false,296.564000,MQTT CONNECT failed: read tcp 192.168.0.102:51367->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1099,false,297.095600,MQTT CONNECT failed: read tcp 192.168.0.102:51368->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1100,false,298.876500,MQTT CONNECT failed: read tcp 192.168.0.102:51369->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1101,false,296.462100,MQTT CONNECT failed: read tcp 192.168.0.102:51370->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1102,false,302.842800,MQTT CONNECT failed: EOF
+1103,false,300.386700,MQTT CONNECT failed: read tcp 192.168.0.102:51372->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1104,false,296.866100,MQTT CONNECT failed: read tcp 192.168.0.102:51373->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1105,false,296.266300,MQTT CONNECT failed: read tcp 192.168.0.102:51374->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1106,false,296.023900,MQTT CONNECT failed: read tcp 192.168.0.102:51375->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1107,false,298.773600,MQTT CONNECT failed: read tcp 192.168.0.102:51376->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1108,false,300.436700,MQTT CONNECT failed: read tcp 192.168.0.102:51377->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1109,false,296.064100,MQTT CONNECT failed: read tcp 192.168.0.102:51378->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1110,false,298.833800,MQTT CONNECT failed: read tcp 192.168.0.102:51379->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1111,false,296.455400,MQTT CONNECT failed: read tcp 192.168.0.102:51380->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1112,false,299.151200,MQTT CONNECT failed: read tcp 192.168.0.102:51381->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1113,false,296.123900,MQTT CONNECT failed: read tcp 192.168.0.102:51382->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1114,false,299.500400,MQTT CONNECT failed: read tcp 192.168.0.102:51383->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1115,false,296.191800,MQTT CONNECT failed: read tcp 192.168.0.102:51384->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1116,false,295.493600,MQTT CONNECT failed: read tcp 192.168.0.102:51385->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1117,false,299.692800,MQTT CONNECT failed: read tcp 192.168.0.102:51386->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1118,false,299.653800,MQTT CONNECT failed: read tcp 192.168.0.102:51387->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1119,false,298.095100,MQTT CONNECT failed: read tcp 192.168.0.102:51388->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1120,false,300.101200,MQTT CONNECT failed: read tcp 192.168.0.102:51389->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1121,false,297.075000,MQTT CONNECT failed: read tcp 192.168.0.102:51390->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1122,false,296.853300,MQTT CONNECT failed: read tcp 192.168.0.102:51391->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1123,false,297.322800,MQTT CONNECT failed: read tcp 192.168.0.102:51392->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1124,false,296.426400,MQTT CONNECT failed: read tcp 192.168.0.102:51393->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1125,false,298.513100,MQTT CONNECT failed: read tcp 192.168.0.102:51394->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1126,false,296.064000,MQTT CONNECT failed: read tcp 192.168.0.102:51395->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1127,false,296.861600,MQTT CONNECT failed: read tcp 192.168.0.102:51396->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1128,false,297.024800,MQTT CONNECT failed: read tcp 192.168.0.102:51397->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1129,false,298.875700,MQTT CONNECT failed: read tcp 192.168.0.102:51398->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1130,false,297.081600,MQTT CONNECT failed: read tcp 192.168.0.102:51399->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1131,false,297.068500,MQTT CONNECT failed: read tcp 192.168.0.102:51400->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1132,false,298.552500,MQTT CONNECT failed: read tcp 192.168.0.102:51401->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1133,false,303.016800,MQTT CONNECT failed: read tcp 192.168.0.102:51402->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1134,false,296.500400,MQTT CONNECT failed: read tcp 192.168.0.102:51403->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1135,false,298.652400,MQTT CONNECT failed: read tcp 192.168.0.102:51404->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1136,false,296.776200,MQTT CONNECT failed: read tcp 192.168.0.102:51405->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1137,false,300.075800,MQTT CONNECT failed: read tcp 192.168.0.102:51406->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1138,false,296.506700,MQTT CONNECT failed: read tcp 192.168.0.102:51407->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1139,false,295.925300,MQTT CONNECT failed: read tcp 192.168.0.102:51408->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1140,false,298.162000,MQTT CONNECT failed: read tcp 192.168.0.102:51409->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1141,false,295.862000,MQTT CONNECT failed: EOF
+1142,false,299.735600,MQTT CONNECT failed: read tcp 192.168.0.102:51411->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1143,false,296.493000,MQTT CONNECT failed: read tcp 192.168.0.102:51412->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1144,false,303.166700,MQTT CONNECT failed: read tcp 192.168.0.102:51413->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1145,false,296.547400,MQTT CONNECT failed: read tcp 192.168.0.102:51414->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1146,false,296.117600,MQTT CONNECT failed: read tcp 192.168.0.102:51415->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1147,false,295.796600,MQTT CONNECT failed: read tcp 192.168.0.102:51416->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1148,false,299.406800,MQTT CONNECT failed: read tcp 192.168.0.102:51417->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1149,false,299.227600,MQTT CONNECT failed: read tcp 192.168.0.102:51418->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1150,false,295.917300,MQTT CONNECT failed: read tcp 192.168.0.102:51419->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1151,false,299.895200,MQTT CONNECT failed: read tcp 192.168.0.102:51420->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1152,false,302.137700,MQTT CONNECT failed: read tcp 192.168.0.102:51421->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1153,false,299.580800,MQTT CONNECT failed: EOF
+1154,false,299.620900,MQTT CONNECT failed: read tcp 192.168.0.102:51423->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1155,false,299.771500,MQTT CONNECT failed: read tcp 192.168.0.102:51424->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1156,false,295.678700,MQTT CONNECT failed: read tcp 192.168.0.102:51425->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1157,false,296.307700,MQTT CONNECT failed: read tcp 192.168.0.102:51426->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1158,false,296.741100,MQTT CONNECT failed: read tcp 192.168.0.102:51427->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1159,false,300.307000,MQTT CONNECT failed: read tcp 192.168.0.102:51428->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1160,false,296.385500,MQTT CONNECT failed: read tcp 192.168.0.102:51429->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1161,false,296.477300,MQTT CONNECT failed: read tcp 192.168.0.102:51430->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1162,false,299.914000,MQTT CONNECT failed: read tcp 192.168.0.102:51431->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1163,false,298.993500,MQTT CONNECT failed: read tcp 192.168.0.102:51432->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1164,false,303.032900,MQTT CONNECT failed: read tcp 192.168.0.102:51433->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1165,false,303.363000,MQTT CONNECT failed: read tcp 192.168.0.102:51434->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1166,false,298.975800,MQTT CONNECT failed: read tcp 192.168.0.102:51435->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1167,false,296.175900,MQTT CONNECT failed: read tcp 192.168.0.102:51436->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1168,false,299.355200,MQTT CONNECT failed: EOF
+1169,false,299.310500,MQTT CONNECT failed: read tcp 192.168.0.102:51438->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1170,false,302.036500,MQTT CONNECT failed: EOF
+1171,false,296.123300,MQTT CONNECT failed: read tcp 192.168.0.102:51440->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1172,false,297.101800,MQTT CONNECT failed: read tcp 192.168.0.102:51441->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1173,false,298.801400,MQTT CONNECT failed: read tcp 192.168.0.102:51442->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1174,false,298.983300,MQTT CONNECT failed: read tcp 192.168.0.102:51443->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1175,false,299.791700,MQTT CONNECT failed: read tcp 192.168.0.102:51444->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1176,false,298.857200,MQTT CONNECT failed: read tcp 192.168.0.102:51445->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1177,false,296.505900,MQTT CONNECT failed: read tcp 192.168.0.102:51446->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1178,false,300.240200,MQTT CONNECT failed: read tcp 192.168.0.102:51447->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1179,false,298.912400,MQTT CONNECT failed: read tcp 192.168.0.102:51448->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1180,false,299.758400,MQTT CONNECT failed: read tcp 192.168.0.102:51449->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1181,false,296.064500,MQTT CONNECT failed: read tcp 192.168.0.102:51450->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1182,false,295.533100,MQTT CONNECT failed: read tcp 192.168.0.102:51451->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1183,false,301.705600,MQTT CONNECT failed: read tcp 192.168.0.102:51452->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1184,false,301.827400,MQTT CONNECT failed: EOF
+1185,false,300.461100,MQTT CONNECT failed: read tcp 192.168.0.102:51454->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1186,false,296.386400,MQTT CONNECT failed: read tcp 192.168.0.102:51455->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1187,false,296.899400,MQTT CONNECT failed: read tcp 192.168.0.102:51456->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1188,false,295.975800,MQTT CONNECT failed: read tcp 192.168.0.102:51457->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1189,false,296.478800,MQTT CONNECT failed: read tcp 192.168.0.102:51458->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1190,false,300.474600,MQTT CONNECT failed: EOF
+1191,false,300.602500,MQTT CONNECT failed: read tcp 192.168.0.102:51460->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1192,false,296.191300,MQTT CONNECT failed: read tcp 192.168.0.102:51461->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1193,false,298.830100,MQTT CONNECT failed: read tcp 192.168.0.102:51462->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1194,false,299.375300,MQTT CONNECT failed: read tcp 192.168.0.102:51463->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1195,false,296.031500,MQTT CONNECT failed: read tcp 192.168.0.102:51464->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1196,false,297.924900,MQTT CONNECT failed: read tcp 192.168.0.102:51465->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1197,false,298.834100,MQTT CONNECT failed: EOF
+1198,false,296.201400,MQTT CONNECT failed: read tcp 192.168.0.102:51467->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1199,false,299.858200,MQTT CONNECT failed: read tcp 192.168.0.102:51468->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1200,false,299.355500,MQTT CONNECT failed: read tcp 192.168.0.102:51469->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1201,false,295.681100,MQTT CONNECT failed: read tcp 192.168.0.102:51470->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1202,false,299.842900,MQTT CONNECT failed: read tcp 192.168.0.102:51471->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1203,false,300.352900,MQTT CONNECT failed: read tcp 192.168.0.102:51472->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1204,false,300.065000,MQTT CONNECT failed: EOF
+1205,false,296.936200,MQTT CONNECT failed: read tcp 192.168.0.102:51474->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1206,false,296.795500,MQTT CONNECT failed: read tcp 192.168.0.102:51475->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1207,false,302.578200,MQTT CONNECT failed: read tcp 192.168.0.102:51476->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1208,false,304.017700,MQTT CONNECT failed: read tcp 192.168.0.102:51477->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1209,false,296.684400,MQTT CONNECT failed: read tcp 192.168.0.102:51478->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1210,false,299.335500,MQTT CONNECT failed: EOF
+1211,false,298.990000,MQTT CONNECT failed: EOF
+1212,false,301.964700,MQTT CONNECT failed: EOF
+1213,false,299.717100,MQTT CONNECT failed: read tcp 192.168.0.102:51482->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1214,false,303.380400,MQTT CONNECT failed: read tcp 192.168.0.102:51483->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1215,false,300.184500,MQTT CONNECT failed: EOF
+1216,false,299.615500,MQTT CONNECT failed: read tcp 192.168.0.102:51773->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1217,false,300.047700,MQTT CONNECT failed: read tcp 192.168.0.102:51774->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1218,false,296.448400,MQTT CONNECT failed: EOF
+1219,false,296.606500,MQTT CONNECT failed: read tcp 192.168.0.102:51776->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1220,false,303.437000,MQTT CONNECT failed: read tcp 192.168.0.102:51777->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1221,false,300.069300,MQTT CONNECT failed: read tcp 192.168.0.102:51778->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1222,false,296.305900,MQTT CONNECT failed: read tcp 192.168.0.102:51779->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1223,false,296.661700,MQTT CONNECT failed: read tcp 192.168.0.102:51780->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1224,false,295.490800,MQTT CONNECT failed: EOF
+1225,false,296.903300,MQTT CONNECT failed: read tcp 192.168.0.102:51782->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1226,false,300.664000,MQTT CONNECT failed: EOF
+1227,false,296.827400,MQTT CONNECT failed: read tcp 192.168.0.102:51784->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1228,false,296.684900,MQTT CONNECT failed: read tcp 192.168.0.102:51785->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1229,false,299.883600,MQTT CONNECT failed: EOF
+1230,false,297.400700,MQTT CONNECT failed: EOF
+1231,false,299.696000,MQTT CONNECT failed: read tcp 192.168.0.102:51788->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1232,false,299.188200,MQTT CONNECT failed: EOF
+1233,false,295.161400,MQTT CONNECT failed: read tcp 192.168.0.102:51790->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1234,false,299.524900,MQTT CONNECT failed: EOF
+1235,false,296.256400,MQTT CONNECT failed: EOF
+1236,false,299.546300,MQTT CONNECT failed: read tcp 192.168.0.102:51793->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1237,false,302.930300,MQTT CONNECT failed: read tcp 192.168.0.102:51794->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1238,false,301.094800,MQTT CONNECT failed: read tcp 192.168.0.102:51795->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1239,false,299.138400,MQTT CONNECT failed: EOF
+1240,false,297.684400,MQTT CONNECT failed: EOF
+1241,false,299.907000,MQTT CONNECT failed: EOF
+1242,false,300.739500,MQTT CONNECT failed: read tcp 192.168.0.102:51799->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1243,false,300.177400,MQTT CONNECT failed: read tcp 192.168.0.102:51800->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1244,false,299.596900,MQTT CONNECT failed: EOF
+1245,false,299.797100,MQTT CONNECT failed: read tcp 192.168.0.102:51802->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1246,false,295.925100,MQTT CONNECT failed: EOF
+1247,false,298.839800,MQTT CONNECT failed: EOF
+1248,false,299.849100,MQTT CONNECT failed: EOF
+1249,false,300.586700,MQTT CONNECT failed: EOF
+1250,false,295.051400,MQTT CONNECT failed: EOF
+1251,false,296.525700,MQTT CONNECT failed: EOF
+1252,false,299.314200,MQTT CONNECT failed: read tcp 192.168.0.102:51809->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1253,false,303.720100,MQTT CONNECT failed: EOF
+1254,false,300.403600,MQTT CONNECT failed: read tcp 192.168.0.102:51811->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1255,false,297.054300,MQTT CONNECT failed: EOF
+1256,false,296.103300,MQTT CONNECT failed: EOF
+1257,false,299.914200,MQTT CONNECT failed: EOF
+1258,false,298.727700,MQTT CONNECT failed: EOF
+1259,false,297.028100,MQTT CONNECT failed: EOF
+1260,false,300.134200,MQTT CONNECT failed: read tcp 192.168.0.102:51817->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1261,false,297.993300,MQTT CONNECT failed: read tcp 192.168.0.102:51818->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1262,false,298.987300,MQTT CONNECT failed: EOF
+1263,false,295.880300,MQTT CONNECT failed: EOF
+1264,false,298.890700,MQTT CONNECT failed: EOF
+1265,false,295.903400,MQTT CONNECT failed: EOF
+1266,false,301.820000,MQTT CONNECT failed: read tcp 192.168.0.102:51823->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1267,false,299.913200,MQTT CONNECT failed: read tcp 192.168.0.102:51824->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1268,false,303.576600,MQTT CONNECT failed: read tcp 192.168.0.102:51825->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1269,false,298.731700,MQTT CONNECT failed: EOF
+1270,false,300.975000,MQTT CONNECT failed: read tcp 192.168.0.102:51827->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1271,false,299.675500,MQTT CONNECT failed: EOF
+1272,false,299.228100,MQTT CONNECT failed: EOF
+1273,false,295.737700,MQTT CONNECT failed: EOF
+1274,false,297.944400,MQTT CONNECT failed: EOF
+1275,false,299.665400,MQTT CONNECT failed: EOF
+1276,false,300.165500,MQTT CONNECT failed: EOF
+1277,false,299.040800,MQTT CONNECT failed: read tcp 192.168.0.102:51834->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1278,false,298.911400,MQTT CONNECT failed: EOF
+1279,false,299.658400,MQTT CONNECT failed: read tcp 192.168.0.102:51836->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1280,false,295.677700,MQTT CONNECT failed: read tcp 192.168.0.102:51837->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1281,false,298.304100,MQTT CONNECT failed: EOF
+1282,false,299.547600,MQTT CONNECT failed: EOF
+1283,false,299.371500,MQTT CONNECT failed: read tcp 192.168.0.102:51840->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1284,false,300.277000,MQTT CONNECT failed: EOF
+1285,false,300.110100,MQTT CONNECT failed: EOF
+1286,false,302.916200,MQTT CONNECT failed: EOF
+1287,false,298.987300,MQTT CONNECT failed: read tcp 192.168.0.102:51844->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1288,false,295.846200,MQTT CONNECT failed: read tcp 192.168.0.102:51845->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1289,false,299.207800,MQTT CONNECT failed: read tcp 192.168.0.102:51846->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1290,false,296.416200,MQTT CONNECT failed: read tcp 192.168.0.102:51847->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1291,false,295.095600,MQTT CONNECT failed: read tcp 192.168.0.102:51848->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1292,false,300.486600,MQTT CONNECT failed: EOF
+1293,false,296.299500,MQTT CONNECT failed: EOF
+1294,false,296.511000,MQTT CONNECT failed: read tcp 192.168.0.102:51851->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1295,false,303.232800,MQTT CONNECT failed: EOF
+1296,false,298.786200,MQTT CONNECT failed: EOF
+1297,false,298.699700,MQTT CONNECT failed: read tcp 192.168.0.102:51854->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1298,false,299.501700,MQTT CONNECT failed: EOF
+1299,false,302.984700,MQTT CONNECT failed: EOF
+1300,false,299.622400,MQTT CONNECT failed: EOF
+1301,false,299.809800,MQTT CONNECT failed: EOF
+1302,false,296.504900,MQTT CONNECT failed: read tcp 192.168.0.102:51859->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1303,false,297.039300,MQTT CONNECT failed: read tcp 192.168.0.102:51860->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1304,false,303.408500,MQTT CONNECT failed: read tcp 192.168.0.102:51861->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1305,false,295.684000,MQTT CONNECT failed: EOF
+1306,false,296.442000,MQTT CONNECT failed: EOF
+1307,false,299.917500,MQTT CONNECT failed: EOF
+1308,false,294.550200,MQTT CONNECT failed: EOF
+1309,false,295.826000,MQTT CONNECT failed: EOF
+1310,false,297.346300,MQTT CONNECT failed: EOF
+1311,false,297.187300,MQTT CONNECT failed: read tcp 192.168.0.102:51868->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1312,false,295.439500,MQTT CONNECT failed: read tcp 192.168.0.102:51869->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1313,false,303.544800,MQTT CONNECT failed: EOF
+1314,false,296.258800,MQTT CONNECT failed: EOF
+1315,false,300.719600,MQTT CONNECT failed: read tcp 192.168.0.102:51872->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1316,false,295.953600,MQTT CONNECT failed: EOF
+1317,false,299.446300,MQTT CONNECT failed: read tcp 192.168.0.102:51874->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1318,false,295.347300,MQTT CONNECT failed: EOF
+1319,false,296.922600,MQTT CONNECT failed: read tcp 192.168.0.102:51876->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1320,false,301.493300,MQTT CONNECT failed: EOF
+1321,false,296.447000,MQTT CONNECT failed: EOF
+1322,false,295.799100,MQTT CONNECT failed: EOF
+1323,false,300.262000,MQTT CONNECT failed: EOF
+1324,false,294.498000,MQTT CONNECT failed: EOF
+1325,false,300.000600,MQTT CONNECT failed: read tcp 192.168.0.102:51882->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1326,false,295.055300,MQTT CONNECT failed: EOF
+1327,false,299.584700,MQTT CONNECT failed: read tcp 192.168.0.102:51884->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1328,false,296.382200,MQTT CONNECT failed: EOF
+1329,false,294.690000,MQTT CONNECT failed: read tcp 192.168.0.102:51886->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1330,false,299.172500,MQTT CONNECT failed: EOF
+1331,false,300.450900,MQTT CONNECT failed: read tcp 192.168.0.102:51888->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1332,false,299.785400,MQTT CONNECT failed: EOF
+1333,false,300.257200,MQTT CONNECT failed: read tcp 192.168.0.102:51890->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1334,false,296.574300,MQTT CONNECT failed: EOF
+1335,false,295.551700,MQTT CONNECT failed: EOF
+1336,false,298.535000,MQTT CONNECT failed: EOF
+1337,false,295.604600,MQTT CONNECT failed: EOF
+1338,false,296.197700,MQTT CONNECT failed: EOF
+1339,false,296.195700,MQTT CONNECT failed: EOF
+1340,false,298.662600,MQTT CONNECT failed: EOF
+1341,false,298.447900,MQTT CONNECT failed: read tcp 192.168.0.102:51898->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1342,false,299.380600,MQTT CONNECT failed: read tcp 192.168.0.102:51899->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1343,false,296.136800,MQTT CONNECT failed: read tcp 192.168.0.102:51900->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1344,false,299.790100,MQTT CONNECT failed: read tcp 192.168.0.102:51901->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1345,false,298.275500,MQTT CONNECT failed: EOF
+1346,false,297.063900,MQTT CONNECT failed: read tcp 192.168.0.102:51903->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1347,false,299.145400,MQTT CONNECT failed: read tcp 192.168.0.102:51904->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1348,false,296.085500,MQTT CONNECT failed: read tcp 192.168.0.102:51905->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1349,false,299.088000,MQTT CONNECT failed: read tcp 192.168.0.102:51906->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1350,false,298.535900,MQTT CONNECT failed: read tcp 192.168.0.102:51907->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1351,false,299.105100,MQTT CONNECT failed: read tcp 192.168.0.102:51908->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1352,false,303.415300,MQTT CONNECT failed: read tcp 192.168.0.102:51909->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1353,false,298.791600,MQTT CONNECT failed: read tcp 192.168.0.102:51910->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1354,false,299.651500,MQTT CONNECT failed: read tcp 192.168.0.102:51911->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1355,false,297.223100,MQTT CONNECT failed: read tcp 192.168.0.102:51912->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1356,false,295.839700,MQTT CONNECT failed: EOF
+1357,false,297.393400,MQTT CONNECT failed: EOF
+1358,false,296.564100,MQTT CONNECT failed: read tcp 192.168.0.102:51915->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1359,false,299.067000,MQTT CONNECT failed: EOF
+1360,false,301.413500,MQTT CONNECT failed: EOF
+1361,false,303.988100,MQTT CONNECT failed: read tcp 192.168.0.102:51918->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1362,false,299.550700,MQTT CONNECT failed: EOF
+1363,false,296.301700,MQTT CONNECT failed: read tcp 192.168.0.102:51920->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1364,false,295.629500,MQTT CONNECT failed: EOF
+1365,false,296.559900,MQTT CONNECT failed: read tcp 192.168.0.102:51922->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1366,false,302.107100,MQTT CONNECT failed: EOF
+1367,false,303.076500,MQTT CONNECT failed: EOF
+1368,false,296.358300,MQTT CONNECT failed: EOF
+1369,false,300.230100,MQTT CONNECT failed: read tcp 192.168.0.102:51926->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1370,false,299.408900,MQTT CONNECT failed: EOF
+1371,false,299.693200,MQTT CONNECT failed: EOF
+1372,false,295.767500,MQTT CONNECT failed: EOF
+1373,false,298.818500,MQTT CONNECT failed: EOF
+1374,false,296.651400,MQTT CONNECT failed: read tcp 192.168.0.102:51931->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1375,false,296.208200,MQTT CONNECT failed: EOF
+1376,false,300.401100,MQTT CONNECT failed: read tcp 192.168.0.102:51933->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1377,false,300.078800,MQTT CONNECT failed: read tcp 192.168.0.102:51934->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1378,false,297.148300,MQTT CONNECT failed: EOF
+1379,false,302.393000,MQTT CONNECT failed: EOF
+1380,false,296.099300,MQTT CONNECT failed: EOF
+1381,false,300.404700,MQTT CONNECT failed: EOF
+1382,false,296.156500,MQTT CONNECT failed: EOF
+1383,false,300.266200,MQTT CONNECT failed: EOF
+1384,false,298.955000,MQTT CONNECT failed: EOF
+1385,false,299.149400,MQTT CONNECT failed: EOF
+1386,false,298.672500,MQTT CONNECT failed: EOF
+1387,false,295.892600,MQTT CONNECT failed: read tcp 192.168.0.102:51944->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1388,false,303.240100,MQTT CONNECT failed: read tcp 192.168.0.102:51945->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1389,false,298.970300,MQTT CONNECT failed: EOF
+1390,false,299.137600,MQTT CONNECT failed: EOF
+1391,false,296.427000,MQTT CONNECT failed: EOF
+1392,false,298.775100,MQTT CONNECT failed: EOF
+1393,false,296.177600,MQTT CONNECT failed: read tcp 192.168.0.102:51950->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1394,false,296.654500,MQTT CONNECT failed: EOF
+1395,false,295.258900,MQTT CONNECT failed: read tcp 192.168.0.102:51952->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1396,false,295.970200,MQTT CONNECT failed: EOF
+1397,false,299.467500,MQTT CONNECT failed: EOF
+1398,false,295.846500,MQTT CONNECT failed: EOF
+1399,false,298.682900,MQTT CONNECT failed: EOF
+1400,false,298.702200,MQTT CONNECT failed: EOF
+1401,false,295.953100,MQTT CONNECT failed: EOF
+1402,false,295.993200,MQTT CONNECT failed: EOF
+1403,false,296.027000,MQTT CONNECT failed: EOF
+1404,false,296.310200,MQTT CONNECT failed: EOF
+1405,false,299.085300,MQTT CONNECT failed: EOF
+1406,false,299.648800,MQTT CONNECT failed: EOF
+1407,false,299.790500,MQTT CONNECT failed: read tcp 192.168.0.102:51964->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1408,false,300.061700,MQTT CONNECT failed: read tcp 192.168.0.102:51965->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1409,false,298.793200,MQTT CONNECT failed: read tcp 192.168.0.102:51966->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1410,false,296.142600,MQTT CONNECT failed: EOF
+1411,false,296.006400,MQTT CONNECT failed: EOF
+1412,false,296.071200,MQTT CONNECT failed: EOF
+1413,false,299.149100,MQTT CONNECT failed: EOF
+1414,false,299.873400,MQTT CONNECT failed: read tcp 192.168.0.102:51971->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1415,false,295.469800,MQTT CONNECT failed: EOF
+1416,false,296.651900,MQTT CONNECT failed: read tcp 192.168.0.102:51973->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1417,false,295.514200,MQTT CONNECT failed: EOF
+1418,false,299.562000,MQTT CONNECT failed: EOF
+1419,false,295.424500,MQTT CONNECT failed: read tcp 192.168.0.102:51976->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1420,false,298.512200,MQTT CONNECT failed: EOF
+1421,false,297.129300,MQTT CONNECT failed: EOF
+1422,false,298.848100,MQTT CONNECT failed: EOF
+1423,false,295.930700,MQTT CONNECT failed: EOF
+1424,false,302.914300,MQTT CONNECT failed: read tcp 192.168.0.102:51981->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1425,false,298.939800,MQTT CONNECT failed: EOF
+1426,false,299.467500,MQTT CONNECT failed: read tcp 192.168.0.102:51983->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1427,false,303.983100,MQTT CONNECT failed: EOF
+1428,false,299.030500,MQTT CONNECT failed: EOF
+1429,false,295.914400,MQTT CONNECT failed: EOF
+1430,false,299.410100,MQTT CONNECT failed: read tcp 192.168.0.102:51987->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1431,false,295.769000,MQTT CONNECT failed: read tcp 192.168.0.102:51988->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1432,false,295.369800,MQTT CONNECT failed: read tcp 192.168.0.102:51989->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1433,false,299.181800,MQTT CONNECT failed: EOF
+1434,false,296.824000,MQTT CONNECT failed: read tcp 192.168.0.102:51991->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1435,false,300.332600,MQTT CONNECT failed: EOF
+1436,false,295.813500,MQTT CONNECT failed: EOF
+1437,false,296.789200,MQTT CONNECT failed: EOF
+1438,false,299.976100,MQTT CONNECT failed: read tcp 192.168.0.102:51995->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1439,false,296.251400,MQTT CONNECT failed: EOF
+1440,false,304.212200,MQTT CONNECT failed: read tcp 192.168.0.102:51997->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1441,false,302.431900,MQTT CONNECT failed: EOF
+1442,false,302.429700,MQTT CONNECT failed: read tcp 192.168.0.102:51999->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1443,false,302.868100,MQTT CONNECT failed: read tcp 192.168.0.102:52000->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1444,false,296.387700,MQTT CONNECT failed: read tcp 192.168.0.102:52001->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1445,false,300.946700,MQTT CONNECT failed: EOF
+1446,false,295.659800,MQTT CONNECT failed: EOF
+1447,false,303.897700,MQTT CONNECT failed: read tcp 192.168.0.102:52004->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1448,false,296.732200,MQTT CONNECT failed: read tcp 192.168.0.102:52005->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1449,false,299.342200,MQTT CONNECT failed: read tcp 192.168.0.102:52006->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1450,false,296.354200,MQTT CONNECT failed: EOF
+1451,false,298.670600,MQTT CONNECT failed: EOF
+1452,false,295.487500,MQTT CONNECT failed: read tcp 192.168.0.102:52009->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1453,false,296.524100,MQTT CONNECT failed: EOF
+1454,false,303.651400,MQTT CONNECT failed: read tcp 192.168.0.102:52011->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1455,false,295.809100,MQTT CONNECT failed: EOF
+1456,false,296.047100,MQTT CONNECT failed: EOF
+1457,false,295.869200,MQTT CONNECT failed: EOF
+1458,false,296.802100,MQTT CONNECT failed: EOF
+1459,false,297.845300,MQTT CONNECT failed: EOF
+1460,false,296.526700,MQTT CONNECT failed: read tcp 192.168.0.102:52017->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1461,false,296.639700,MQTT CONNECT failed: read tcp 192.168.0.102:52018->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1462,false,296.394900,MQTT CONNECT failed: EOF
+1463,false,298.342000,MQTT CONNECT failed: EOF
+1464,false,299.557400,MQTT CONNECT failed: EOF
+1465,false,298.428300,MQTT CONNECT failed: read tcp 192.168.0.102:52022->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1466,false,296.556700,MQTT CONNECT failed: EOF
+1467,false,298.969400,MQTT CONNECT failed: read tcp 192.168.0.102:52024->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1468,false,299.718600,MQTT CONNECT failed: EOF
+1469,false,296.335300,MQTT CONNECT failed: EOF
+1470,false,296.002500,MQTT CONNECT failed: read tcp 192.168.0.102:52027->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1471,false,296.859300,MQTT CONNECT failed: read tcp 192.168.0.102:52028->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1472,false,295.604900,MQTT CONNECT failed: EOF
+1473,false,302.463300,MQTT CONNECT failed: EOF
+1474,false,298.845500,MQTT CONNECT failed: read tcp 192.168.0.102:52031->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1475,false,295.880300,MQTT CONNECT failed: EOF
+1476,false,298.254300,MQTT CONNECT failed: read tcp 192.168.0.102:52033->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1477,false,300.029400,MQTT CONNECT failed: EOF
+1478,false,299.588000,MQTT CONNECT failed: read tcp 192.168.0.102:52035->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1479,false,295.861300,MQTT CONNECT failed: EOF
+1480,false,296.430200,MQTT CONNECT failed: EOF
+1481,false,294.607100,MQTT CONNECT failed: EOF
+1482,false,295.680900,MQTT CONNECT failed: EOF
+1483,false,296.237900,MQTT CONNECT failed: EOF
+1484,false,299.799900,MQTT CONNECT failed: EOF
+1485,false,299.913000,MQTT CONNECT failed: EOF
+1486,false,295.990400,MQTT CONNECT failed: EOF
+1487,false,296.508700,MQTT CONNECT failed: read tcp 192.168.0.102:52044->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1488,false,296.091000,MQTT CONNECT failed: read tcp 192.168.0.102:52045->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1489,false,295.981000,MQTT CONNECT failed: read tcp 192.168.0.102:52046->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1490,false,298.379100,MQTT CONNECT failed: read tcp 192.168.0.102:52047->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1491,false,299.921200,MQTT CONNECT failed: read tcp 192.168.0.102:52048->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1492,false,296.501100,MQTT CONNECT failed: EOF
+1493,false,295.457300,MQTT CONNECT failed: EOF
+1494,false,299.260000,MQTT CONNECT failed: read tcp 192.168.0.102:52051->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1495,false,298.979000,MQTT CONNECT failed: EOF
+1496,false,296.252300,MQTT CONNECT failed: read tcp 192.168.0.102:52053->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1497,false,296.485200,MQTT CONNECT failed: read tcp 192.168.0.102:52054->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1498,false,295.760400,MQTT CONNECT failed: read tcp 192.168.0.102:52055->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1499,false,299.792900,MQTT CONNECT failed: EOF
+1500,false,296.084000,MQTT CONNECT failed: read tcp 192.168.0.102:52057->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1501,false,298.695700,MQTT CONNECT failed: EOF
+1502,false,296.620400,MQTT CONNECT failed: read tcp 192.168.0.102:52059->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1503,false,297.005200,MQTT CONNECT failed: EOF
+1504,false,295.717800,MQTT CONNECT failed: EOF
+1505,false,298.411100,MQTT CONNECT failed: EOF
+1506,false,295.842600,MQTT CONNECT failed: EOF
+1507,false,295.646900,MQTT CONNECT failed: EOF
+1508,false,294.884700,MQTT CONNECT failed: EOF
+1509,false,295.397800,MQTT CONNECT failed: EOF
+1510,false,300.235000,MQTT CONNECT failed: EOF
+1511,false,295.943400,MQTT CONNECT failed: EOF
+1512,false,296.447700,MQTT CONNECT failed: EOF
+1513,false,296.441300,MQTT CONNECT failed: EOF
+1514,false,301.457500,MQTT CONNECT failed: EOF
+1515,false,299.901800,MQTT CONNECT failed: EOF
+1516,false,299.010100,MQTT CONNECT failed: EOF
+1517,false,299.911600,MQTT CONNECT failed: EOF
+1518,false,295.918500,MQTT CONNECT failed: EOF
+1519,false,302.728900,MQTT CONNECT failed: EOF
+1520,false,300.400700,MQTT CONNECT failed: read tcp 192.168.0.102:52077->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1521,false,295.949300,MQTT CONNECT failed: EOF
+1522,false,299.921400,MQTT CONNECT failed: EOF
+1523,false,296.301100,MQTT CONNECT failed: EOF
+1524,false,296.639000,MQTT CONNECT failed: EOF
+1525,false,301.289800,MQTT CONNECT failed: EOF
+1526,false,298.314700,MQTT CONNECT failed: EOF
+1527,false,294.986600,MQTT CONNECT failed: EOF
+1528,false,299.211500,MQTT CONNECT failed: EOF
+1529,false,297.165400,MQTT CONNECT failed: EOF
+1530,false,299.781400,MQTT CONNECT failed: EOF
+1531,false,296.269600,MQTT CONNECT failed: read tcp 192.168.0.102:52088->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1532,false,299.748700,MQTT CONNECT failed: EOF
+1533,false,300.135100,MQTT CONNECT failed: EOF
+1534,false,300.181600,MQTT CONNECT failed: read tcp 192.168.0.102:52091->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1535,false,303.425400,MQTT CONNECT failed: read tcp 192.168.0.102:52092->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1536,false,301.269700,MQTT CONNECT failed: read tcp 192.168.0.102:52093->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1537,false,302.773100,MQTT CONNECT failed: EOF
+1538,false,298.751700,MQTT CONNECT failed: EOF
+1539,false,298.060600,MQTT CONNECT failed: read tcp 192.168.0.102:52096->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1540,false,296.383500,MQTT CONNECT failed: EOF
+1541,false,303.369900,MQTT CONNECT failed: read tcp 192.168.0.102:52098->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1542,false,295.964000,MQTT CONNECT failed: EOF
+1543,false,297.765300,MQTT CONNECT failed: read tcp 192.168.0.102:52100->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1544,false,298.605700,MQTT CONNECT failed: EOF
+1545,false,302.644700,MQTT CONNECT failed: EOF
+1546,false,298.717800,MQTT CONNECT failed: read tcp 192.168.0.102:52103->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1547,false,295.715000,MQTT CONNECT failed: read tcp 192.168.0.102:52104->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1548,false,296.915700,MQTT CONNECT failed: read tcp 192.168.0.102:52105->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1549,false,300.147600,MQTT CONNECT failed: read tcp 192.168.0.102:52106->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1550,false,296.528000,MQTT CONNECT failed: read tcp 192.168.0.102:52107->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1551,false,299.784800,MQTT CONNECT failed: read tcp 192.168.0.102:52108->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1552,false,301.735600,MQTT CONNECT failed: EOF
+1553,false,295.933400,MQTT CONNECT failed: read tcp 192.168.0.102:52110->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1554,false,295.713500,MQTT CONNECT failed: read tcp 192.168.0.102:52111->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1555,false,294.736900,MQTT CONNECT failed: EOF
+1556,false,295.776100,MQTT CONNECT failed: EOF
+1557,false,300.047100,MQTT CONNECT failed: read tcp 192.168.0.102:52114->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1558,false,297.894400,MQTT CONNECT failed: read tcp 192.168.0.102:52115->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1559,false,299.403700,MQTT CONNECT failed: EOF
+1560,false,298.556600,MQTT CONNECT failed: read tcp 192.168.0.102:52117->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1561,false,299.772800,MQTT CONNECT failed: EOF
+1562,false,295.867200,MQTT CONNECT failed: EOF
+1563,false,296.660900,MQTT CONNECT failed: EOF
+1564,false,300.600600,MQTT CONNECT failed: EOF
+1565,false,300.216100,MQTT CONNECT failed: EOF
+1566,false,300.255800,MQTT CONNECT failed: read tcp 192.168.0.102:52123->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1567,false,296.420800,MQTT CONNECT failed: EOF
+1568,false,295.748500,MQTT CONNECT failed: read tcp 192.168.0.102:52125->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1569,false,296.597400,MQTT CONNECT failed: read tcp 192.168.0.102:52126->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1570,false,300.250300,MQTT CONNECT failed: EOF
+1571,false,295.787800,MQTT CONNECT failed: read tcp 192.168.0.102:52128->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1572,false,296.484400,MQTT CONNECT failed: read tcp 192.168.0.102:52129->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1573,false,301.752500,MQTT CONNECT failed: EOF
+1574,false,296.305600,MQTT CONNECT failed: read tcp 192.168.0.102:52131->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1575,false,299.896600,MQTT CONNECT failed: read tcp 192.168.0.102:52132->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1576,false,300.491600,MQTT CONNECT failed: EOF
+1577,false,303.173300,MQTT CONNECT failed: read tcp 192.168.0.102:52135->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1578,false,293.858900,MQTT CONNECT failed: EOF
+1579,false,298.908200,MQTT CONNECT failed: EOF
+1580,false,299.270800,MQTT CONNECT failed: EOF
+1581,false,295.644700,MQTT CONNECT failed: EOF
+1582,false,299.367900,MQTT CONNECT failed: read tcp 192.168.0.102:52140->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1583,false,297.262600,MQTT CONNECT failed: EOF
+1584,false,299.013500,MQTT CONNECT failed: read tcp 192.168.0.102:52142->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1585,false,300.245100,MQTT CONNECT failed: read tcp 192.168.0.102:52143->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1586,false,302.373800,MQTT CONNECT failed: read tcp 192.168.0.102:52144->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1587,false,295.329000,MQTT CONNECT failed: EOF
+1588,false,295.804500,MQTT CONNECT failed: EOF
+1589,false,297.666500,MQTT CONNECT failed: EOF
+1590,false,296.888500,MQTT CONNECT failed: EOF
+1591,false,300.966600,MQTT CONNECT failed: EOF
+1592,false,300.126000,MQTT CONNECT failed: read tcp 192.168.0.102:52150->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1593,false,295.806000,MQTT CONNECT failed: read tcp 192.168.0.102:52151->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1594,false,298.491300,MQTT CONNECT failed: EOF
+1595,false,296.841100,MQTT CONNECT failed: read tcp 192.168.0.102:52153->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1596,false,295.810300,MQTT CONNECT failed: EOF
+1597,false,296.760100,MQTT CONNECT failed: EOF
+1598,false,299.218800,MQTT CONNECT failed: EOF
+1599,false,299.093400,MQTT CONNECT failed: EOF
+1600,false,296.272900,MQTT CONNECT failed: read tcp 192.168.0.102:52158->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1601,false,299.007800,MQTT CONNECT failed: read tcp 192.168.0.102:52159->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1602,false,299.935800,MQTT CONNECT failed: EOF
+1603,false,303.660900,MQTT CONNECT failed: read tcp 192.168.0.102:52161->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1604,false,294.940700,MQTT CONNECT failed: read tcp 192.168.0.102:52162->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1605,false,298.421700,MQTT CONNECT failed: EOF
+1606,false,302.076300,MQTT CONNECT failed: read tcp 192.168.0.102:52164->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1607,false,296.197100,MQTT CONNECT failed: EOF
+1608,false,295.801800,MQTT CONNECT failed: EOF
+1609,false,296.780000,MQTT CONNECT failed: EOF
+1610,false,295.389500,MQTT CONNECT failed: read tcp 192.168.0.102:52168->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1611,false,296.265800,MQTT CONNECT failed: EOF
+1612,false,301.372800,MQTT CONNECT failed: read tcp 192.168.0.102:52170->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1613,false,299.456200,MQTT CONNECT failed: EOF
+1614,false,295.415300,MQTT CONNECT failed: EOF
+1615,false,296.514400,MQTT CONNECT failed: EOF
+1616,false,299.718400,MQTT CONNECT failed: EOF
+1617,false,296.439300,MQTT CONNECT failed: EOF
+1618,false,296.438400,MQTT CONNECT failed: read tcp 192.168.0.102:52176->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1619,false,300.406400,MQTT CONNECT failed: read tcp 192.168.0.102:52177->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1620,false,296.228800,MQTT CONNECT failed: EOF
+1621,false,295.861600,MQTT CONNECT failed: EOF
+1622,false,296.189800,MQTT CONNECT failed: read tcp 192.168.0.102:52180->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1623,false,299.190100,MQTT CONNECT failed: EOF
+1624,false,295.502200,MQTT CONNECT failed: EOF
+1625,false,295.556500,MQTT CONNECT failed: EOF
+1626,false,298.607000,MQTT CONNECT failed: read tcp 192.168.0.102:52184->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1627,false,296.015100,MQTT CONNECT failed: read tcp 192.168.0.102:52185->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1628,false,304.510500,MQTT CONNECT failed: read tcp 192.168.0.102:52186->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1629,false,296.092200,MQTT CONNECT failed: read tcp 192.168.0.102:52187->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1630,false,295.017400,MQTT CONNECT failed: EOF
+1631,false,300.450000,MQTT CONNECT failed: read tcp 192.168.0.102:52189->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1632,false,295.346600,MQTT CONNECT failed: read tcp 192.168.0.102:52190->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1633,false,303.440600,MQTT CONNECT failed: read tcp 192.168.0.102:52191->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1634,false,299.481300,MQTT CONNECT failed: EOF
+1635,false,299.398700,MQTT CONNECT failed: EOF
+1636,false,296.656200,MQTT CONNECT failed: read tcp 192.168.0.102:52194->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1637,false,300.519400,MQTT CONNECT failed: EOF
+1638,false,298.371100,MQTT CONNECT failed: EOF
+1639,false,303.905400,MQTT CONNECT failed: read tcp 192.168.0.102:52197->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1640,false,295.201200,MQTT CONNECT failed: read tcp 192.168.0.102:52198->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1641,false,295.927700,MQTT CONNECT failed: EOF
+1642,false,296.388400,MQTT CONNECT failed: read tcp 192.168.0.102:52200->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1643,false,299.815100,MQTT CONNECT failed: read tcp 192.168.0.102:52201->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1644,false,296.378700,MQTT CONNECT failed: read tcp 192.168.0.102:52202->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1645,false,299.093700,MQTT CONNECT failed: read tcp 192.168.0.102:52203->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1646,false,303.622600,MQTT CONNECT failed: read tcp 192.168.0.102:52204->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1647,false,300.407300,MQTT CONNECT failed: read tcp 192.168.0.102:52205->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1648,false,302.083900,MQTT CONNECT failed: EOF
+1649,false,299.647200,MQTT CONNECT failed: read tcp 192.168.0.102:52207->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1650,false,296.683200,MQTT CONNECT failed: read tcp 192.168.0.102:52208->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1651,false,299.885800,MQTT CONNECT failed: read tcp 192.168.0.102:52209->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1652,false,295.960800,MQTT CONNECT failed: read tcp 192.168.0.102:52210->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1653,false,298.349100,MQTT CONNECT failed: read tcp 192.168.0.102:52211->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1654,false,299.217600,MQTT CONNECT failed: EOF
+1655,false,295.950600,MQTT CONNECT failed: EOF
+1656,false,296.666300,MQTT CONNECT failed: read tcp 192.168.0.102:52214->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1657,false,303.925600,MQTT CONNECT failed: read tcp 192.168.0.102:52215->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1658,false,301.071600,MQTT CONNECT failed: EOF
+1659,false,299.251500,MQTT CONNECT failed: EOF
+1660,false,296.763800,MQTT CONNECT failed: read tcp 192.168.0.102:52218->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1661,false,300.075700,MQTT CONNECT failed: read tcp 192.168.0.102:52219->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1662,false,300.178900,MQTT CONNECT failed: read tcp 192.168.0.102:52220->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1663,false,298.551600,MQTT CONNECT failed: read tcp 192.168.0.102:52221->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1664,false,302.845600,MQTT CONNECT failed: EOF
+1665,false,298.582600,MQTT CONNECT failed: EOF
+1666,false,295.109000,MQTT CONNECT failed: EOF
+1667,false,296.663500,MQTT CONNECT failed: read tcp 192.168.0.102:52225->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1668,false,300.285700,MQTT CONNECT failed: read tcp 192.168.0.102:52226->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1669,false,299.400000,MQTT CONNECT failed: EOF
+1670,false,298.972700,MQTT CONNECT failed: read tcp 192.168.0.102:52228->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1671,false,296.170700,MQTT CONNECT failed: EOF
+1672,false,300.016500,MQTT CONNECT failed: EOF
+1673,false,300.275100,MQTT CONNECT failed: EOF
+1674,false,303.138600,MQTT CONNECT failed: read tcp 192.168.0.102:52232->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1675,false,298.750100,MQTT CONNECT failed: EOF
+1676,false,302.062600,MQTT CONNECT failed: EOF
+1677,false,299.119100,MQTT CONNECT failed: EOF
+1678,false,295.930100,MQTT CONNECT failed: EOF
+1679,false,297.588700,MQTT CONNECT failed: EOF
+1680,false,299.197200,MQTT CONNECT failed: EOF
+1681,false,302.567900,MQTT CONNECT failed: EOF
+1682,false,301.932200,MQTT CONNECT failed: EOF
+1683,false,299.826500,MQTT CONNECT failed: EOF
+1684,false,296.456500,MQTT CONNECT failed: read tcp 192.168.0.102:52242->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1685,false,299.005700,MQTT CONNECT failed: EOF
+1686,false,298.176600,MQTT CONNECT failed: read tcp 192.168.0.102:52244->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1687,false,298.760200,MQTT CONNECT failed: EOF
+1688,false,300.016600,MQTT CONNECT failed: EOF
+1689,false,295.984200,MQTT CONNECT failed: EOF
+1690,false,298.523700,MQTT CONNECT failed: EOF
+1691,false,300.115400,MQTT CONNECT failed: read tcp 192.168.0.102:52249->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1692,false,296.036700,MQTT CONNECT failed: EOF
+1693,false,298.778600,MQTT CONNECT failed: EOF
+1694,false,297.698700,MQTT CONNECT failed: EOF
+1695,false,301.327100,MQTT CONNECT failed: EOF
+1696,false,299.244500,MQTT CONNECT failed: read tcp 192.168.0.102:52254->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1697,false,296.703500,MQTT CONNECT failed: EOF
+1698,false,299.945700,MQTT CONNECT failed: EOF
+1699,false,299.547400,MQTT CONNECT failed: read tcp 192.168.0.102:52257->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1700,false,296.880200,MQTT CONNECT failed: read tcp 192.168.0.102:52258->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1701,false,298.806200,MQTT CONNECT failed: EOF
+1702,false,297.694200,MQTT CONNECT failed: EOF
+1703,false,299.515300,MQTT CONNECT failed: read tcp 192.168.0.102:52261->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1704,false,295.346400,MQTT CONNECT failed: EOF
+1705,false,301.932100,MQTT CONNECT failed: EOF
+1706,false,296.000300,MQTT CONNECT failed: EOF
+1707,false,298.622100,MQTT CONNECT failed: EOF
+1708,false,298.825400,MQTT CONNECT failed: EOF
+1709,false,298.538600,MQTT CONNECT failed: EOF
+1710,false,298.982700,MQTT CONNECT failed: EOF
+1711,false,296.730100,MQTT CONNECT failed: EOF
+1712,false,296.313000,MQTT CONNECT failed: EOF
+1713,false,297.285200,MQTT CONNECT failed: read tcp 192.168.0.102:52271->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1714,false,299.998500,MQTT CONNECT failed: read tcp 192.168.0.102:52272->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1715,false,296.176800,MQTT CONNECT failed: read tcp 192.168.0.102:52273->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1716,false,300.415700,MQTT CONNECT failed: EOF
+1717,false,301.831100,MQTT CONNECT failed: EOF
+1718,false,299.249600,MQTT CONNECT failed: EOF
+1719,false,298.093200,MQTT CONNECT failed: read tcp 192.168.0.102:52277->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1720,false,300.008400,MQTT CONNECT failed: read tcp 192.168.0.102:52278->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1721,false,299.039000,MQTT CONNECT failed: EOF
+1722,false,296.142400,MQTT CONNECT failed: read tcp 192.168.0.102:52280->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1723,false,297.559000,MQTT CONNECT failed: read tcp 192.168.0.102:52281->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1724,false,298.955800,MQTT CONNECT failed: read tcp 192.168.0.102:52282->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1725,false,295.188300,MQTT CONNECT failed: read tcp 192.168.0.102:52283->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1726,false,295.027200,MQTT CONNECT failed: EOF
+1727,false,295.300900,MQTT CONNECT failed: read tcp 192.168.0.102:52285->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1728,false,303.649600,MQTT CONNECT failed: read tcp 192.168.0.102:52286->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1729,false,296.559600,MQTT CONNECT failed: read tcp 192.168.0.102:52287->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1730,false,298.831200,MQTT CONNECT failed: EOF
+1731,false,296.184700,MQTT CONNECT failed: read tcp 192.168.0.102:52289->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1732,false,296.855700,MQTT CONNECT failed: read tcp 192.168.0.102:52290->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1733,false,296.800400,MQTT CONNECT failed: read tcp 192.168.0.102:52291->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1734,false,301.958300,MQTT CONNECT failed: EOF
+1735,false,299.090200,MQTT CONNECT failed: EOF
+1736,false,297.903800,MQTT CONNECT failed: EOF
+1737,false,295.931900,MQTT CONNECT failed: read tcp 192.168.0.102:52295->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1738,false,298.900600,MQTT CONNECT failed: read tcp 192.168.0.102:52296->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1739,false,296.323700,MQTT CONNECT failed: read tcp 192.168.0.102:52297->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1740,false,295.853200,MQTT CONNECT failed: read tcp 192.168.0.102:52298->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1741,false,298.640200,MQTT CONNECT failed: read tcp 192.168.0.102:52299->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1742,false,296.156700,MQTT CONNECT failed: EOF
+1743,false,298.092000,MQTT CONNECT failed: EOF
+1744,false,298.991600,MQTT CONNECT failed: read tcp 192.168.0.102:52302->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1745,false,295.663000,MQTT CONNECT failed: EOF
+1746,false,295.873200,MQTT CONNECT failed: read tcp 192.168.0.102:52304->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1747,false,298.729000,MQTT CONNECT failed: EOF
+1748,false,296.262700,MQTT CONNECT failed: EOF
+1749,false,296.136700,MQTT CONNECT failed: read tcp 192.168.0.102:52307->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1750,false,299.213700,MQTT CONNECT failed: EOF
+1751,false,299.278700,MQTT CONNECT failed: read tcp 192.168.0.102:52309->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1752,false,296.569900,MQTT CONNECT failed: read tcp 192.168.0.102:52310->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1753,false,299.067900,MQTT CONNECT failed: read tcp 192.168.0.102:52311->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1754,false,298.687000,MQTT CONNECT failed: EOF
+1755,false,300.258000,MQTT CONNECT failed: read tcp 192.168.0.102:52313->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1756,false,296.752600,MQTT CONNECT failed: EOF
+1757,false,297.245900,MQTT CONNECT failed: EOF
+1758,false,301.289200,MQTT CONNECT failed: EOF
+1759,false,303.571500,MQTT CONNECT failed: read tcp 192.168.0.102:52317->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1760,false,294.663400,MQTT CONNECT failed: EOF
+1761,false,296.192100,MQTT CONNECT failed: read tcp 192.168.0.102:52319->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1762,false,300.172400,MQTT CONNECT failed: EOF
+1763,false,296.403500,MQTT CONNECT failed: read tcp 192.168.0.102:52321->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1764,false,299.964700,MQTT CONNECT failed: read tcp 192.168.0.102:52322->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1765,false,298.607300,MQTT CONNECT failed: EOF
+1766,false,298.219900,MQTT CONNECT failed: read tcp 192.168.0.102:52324->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1767,false,302.002800,MQTT CONNECT failed: read tcp 192.168.0.102:52325->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1768,false,301.526700,MQTT CONNECT failed: EOF
+1769,false,296.201200,MQTT CONNECT failed: read tcp 192.168.0.102:52327->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1770,false,302.006600,MQTT CONNECT failed: EOF
+1771,false,295.286200,MQTT CONNECT failed: EOF
+1772,false,295.796800,MQTT CONNECT failed: EOF
+1773,false,296.233400,MQTT CONNECT failed: read tcp 192.168.0.102:52331->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1774,false,296.128600,MQTT CONNECT failed: EOF
+1775,false,295.356600,MQTT CONNECT failed: EOF
+1776,false,302.249400,MQTT CONNECT failed: EOF
+1777,false,302.616200,MQTT CONNECT failed: EOF
+1778,false,296.135700,MQTT CONNECT failed: EOF
+1779,false,296.105200,MQTT CONNECT failed: read tcp 192.168.0.102:52337->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1780,false,296.452000,MQTT CONNECT failed: EOF
+1781,false,300.001200,MQTT CONNECT failed: read tcp 192.168.0.102:52340->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1782,false,303.742500,MQTT CONNECT failed: EOF
+1783,false,296.041100,MQTT CONNECT failed: EOF
+1784,false,298.861300,MQTT CONNECT failed: EOF
+1785,false,300.263500,MQTT CONNECT failed: EOF
+1786,false,296.465100,MQTT CONNECT failed: EOF
+1787,false,295.559400,MQTT CONNECT failed: EOF
+1788,false,298.523900,MQTT CONNECT failed: read tcp 192.168.0.102:52347->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1789,false,294.068900,MQTT CONNECT failed: EOF
+1790,false,300.076500,MQTT CONNECT failed: EOF
+1791,false,296.486000,MQTT CONNECT failed: EOF
+1792,false,299.819200,MQTT CONNECT failed: read tcp 192.168.0.102:52351->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1793,false,298.474100,MQTT CONNECT failed: EOF
+1794,false,296.618600,MQTT CONNECT failed: EOF
+1795,false,299.744600,MQTT CONNECT failed: EOF
+1796,false,304.058100,MQTT CONNECT failed: read tcp 192.168.0.102:52355->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1797,false,296.196700,MQTT CONNECT failed: read tcp 192.168.0.102:52357->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1798,false,298.892600,MQTT CONNECT failed: EOF
+1799,false,299.077400,MQTT CONNECT failed: read tcp 192.168.0.102:52359->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1800,false,298.594300,MQTT CONNECT failed: EOF
+1801,false,299.049900,MQTT CONNECT failed: EOF
+1802,false,299.032500,MQTT CONNECT failed: EOF
+1803,false,298.642800,MQTT CONNECT failed: EOF
+1804,false,300.309400,MQTT CONNECT failed: read tcp 192.168.0.102:52364->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1805,false,296.087400,MQTT CONNECT failed: EOF
+1806,false,298.292100,MQTT CONNECT failed: EOF
+1807,false,299.691500,MQTT CONNECT failed: read tcp 192.168.0.102:52368->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1808,false,296.059500,MQTT CONNECT failed: read tcp 192.168.0.102:52369->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1809,false,295.363800,MQTT CONNECT failed: EOF
+1810,false,300.413300,MQTT CONNECT failed: read tcp 192.168.0.102:52371->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1811,false,304.338000,MQTT CONNECT failed: read tcp 192.168.0.102:52372->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1812,false,299.567000,MQTT CONNECT failed: EOF
+1813,false,298.258400,MQTT CONNECT failed: EOF
+1814,false,301.462500,MQTT CONNECT failed: EOF
+1815,false,300.392500,MQTT CONNECT failed: read tcp 192.168.0.102:52376->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1816,false,295.256100,MQTT CONNECT failed: EOF
+1817,false,298.062400,MQTT CONNECT failed: read tcp 192.168.0.102:52378->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1818,false,296.314400,MQTT CONNECT failed: read tcp 192.168.0.102:52379->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1819,false,297.893000,MQTT CONNECT failed: EOF
+1820,false,300.375200,MQTT CONNECT failed: EOF
+1821,false,298.806300,MQTT CONNECT failed: EOF
+1822,false,300.411000,MQTT CONNECT failed: EOF
+1823,false,296.757400,MQTT CONNECT failed: EOF
+1824,false,298.659200,MQTT CONNECT failed: EOF
+1825,false,299.631800,MQTT CONNECT failed: EOF
+1826,false,296.675700,MQTT CONNECT failed: EOF
+1827,false,295.899700,MQTT CONNECT failed: EOF
+1828,false,295.576300,MQTT CONNECT failed: EOF
+1829,false,299.919300,MQTT CONNECT failed: EOF
+1830,false,299.274000,MQTT CONNECT failed: read tcp 192.168.0.102:52391->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1831,false,296.056400,MQTT CONNECT failed: EOF
+1832,false,295.978300,MQTT CONNECT failed: read tcp 192.168.0.102:52393->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1833,false,295.619000,MQTT CONNECT failed: EOF
+1834,false,303.834300,MQTT CONNECT failed: EOF
+1835,false,299.488800,MQTT CONNECT failed: EOF
+1836,false,298.418100,MQTT CONNECT failed: EOF
+1837,false,299.799300,MQTT CONNECT failed: read tcp 192.168.0.102:52398->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1838,false,299.602400,MQTT CONNECT failed: read tcp 192.168.0.102:52399->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1839,false,296.385100,MQTT CONNECT failed: EOF
+1840,false,297.143300,MQTT CONNECT failed: EOF
+1841,false,295.644600,MQTT CONNECT failed: EOF
+1842,false,298.888900,MQTT CONNECT failed: EOF
+1843,false,295.561100,MQTT CONNECT failed: read tcp 192.168.0.102:52404->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1844,false,299.404200,MQTT CONNECT failed: read tcp 192.168.0.102:52405->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1845,false,295.773200,MQTT CONNECT failed: read tcp 192.168.0.102:52406->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1846,false,296.014200,MQTT CONNECT failed: read tcp 192.168.0.102:52407->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1847,false,295.612500,MQTT CONNECT failed: EOF
+1848,false,296.246300,MQTT CONNECT failed: read tcp 192.168.0.102:52409->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1849,false,301.799200,MQTT CONNECT failed: EOF
+1850,false,299.340600,MQTT CONNECT failed: read tcp 192.168.0.102:52411->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1851,false,298.694500,MQTT CONNECT failed: read tcp 192.168.0.102:52412->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1852,false,296.132100,MQTT CONNECT failed: read tcp 192.168.0.102:52413->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1853,false,296.774600,MQTT CONNECT failed: read tcp 192.168.0.102:52414->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1854,false,304.003500,MQTT CONNECT failed: read tcp 192.168.0.102:52415->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1855,false,299.515000,MQTT CONNECT failed: read tcp 192.168.0.102:52416->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1856,false,300.458900,MQTT CONNECT failed: EOF
+1857,false,304.853700,MQTT CONNECT failed: read tcp 192.168.0.102:52418->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1858,false,296.031600,MQTT CONNECT failed: read tcp 192.168.0.102:52419->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1859,false,295.496400,MQTT CONNECT failed: read tcp 192.168.0.102:52420->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1860,false,298.702700,MQTT CONNECT failed: read tcp 192.168.0.102:52421->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1861,false,299.035500,MQTT CONNECT failed: read tcp 192.168.0.102:52422->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1862,false,300.673200,MQTT CONNECT failed: read tcp 192.168.0.102:52423->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1863,false,295.959800,MQTT CONNECT failed: read tcp 192.168.0.102:52424->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1864,false,299.623300,MQTT CONNECT failed: EOF
+1865,false,296.473700,MQTT CONNECT failed: read tcp 192.168.0.102:52426->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1866,false,295.722500,MQTT CONNECT failed: read tcp 192.168.0.102:52427->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1867,false,296.124900,MQTT CONNECT failed: EOF
+1868,false,300.065800,MQTT CONNECT failed: EOF
+1869,false,296.631700,MQTT CONNECT failed: read tcp 192.168.0.102:52430->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1870,false,299.895400,MQTT CONNECT failed: read tcp 192.168.0.102:52431->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1871,false,296.374000,MQTT CONNECT failed: EOF
+1872,false,299.430300,MQTT CONNECT failed: read tcp 192.168.0.102:52433->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1873,false,304.178200,MQTT CONNECT failed: read tcp 192.168.0.102:52434->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1874,false,294.848700,MQTT CONNECT failed: read tcp 192.168.0.102:52435->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1875,false,295.164400,MQTT CONNECT failed: EOF
+1876,false,299.707200,MQTT CONNECT failed: EOF
+1877,false,299.026700,MQTT CONNECT failed: read tcp 192.168.0.102:52438->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1878,false,295.783700,MQTT CONNECT failed: EOF
+1879,false,299.936200,MQTT CONNECT failed: read tcp 192.168.0.102:52440->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1880,false,303.446600,MQTT CONNECT failed: read tcp 192.168.0.102:52441->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1881,false,296.266700,MQTT CONNECT failed: EOF
+1882,false,303.191800,MQTT CONNECT failed: EOF
+1883,false,300.022500,MQTT CONNECT failed: read tcp 192.168.0.102:52444->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1884,false,299.140700,MQTT CONNECT failed: EOF
+1885,false,299.030500,MQTT CONNECT failed: read tcp 192.168.0.102:52446->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1886,false,303.668000,MQTT CONNECT failed: EOF
+1887,false,300.184100,MQTT CONNECT failed: read tcp 192.168.0.102:52448->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1888,false,300.133300,MQTT CONNECT failed: read tcp 192.168.0.102:52449->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1889,false,300.241200,MQTT CONNECT failed: read tcp 192.168.0.102:52450->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1890,false,295.940700,MQTT CONNECT failed: read tcp 192.168.0.102:52451->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1891,false,296.812600,MQTT CONNECT failed: read tcp 192.168.0.102:52452->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1892,false,295.950800,MQTT CONNECT failed: EOF
+1893,false,299.293900,MQTT CONNECT failed: read tcp 192.168.0.102:52454->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1894,false,301.848200,MQTT CONNECT failed: EOF
+1895,false,296.366900,MQTT CONNECT failed: read tcp 192.168.0.102:52456->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1896,false,298.260800,MQTT CONNECT failed: EOF
+1897,false,299.383200,MQTT CONNECT failed: EOF
+1898,false,299.358700,MQTT CONNECT failed: read tcp 192.168.0.102:52459->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1899,false,300.048600,MQTT CONNECT failed: read tcp 192.168.0.102:52460->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1900,false,296.127000,MQTT CONNECT failed: read tcp 192.168.0.102:52461->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1901,false,295.862800,MQTT CONNECT failed: EOF
+1902,false,299.966700,MQTT CONNECT failed: EOF
+1903,false,299.591900,MQTT CONNECT failed: read tcp 192.168.0.102:52464->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1904,false,299.244800,MQTT CONNECT failed: EOF
+1905,false,295.962200,MQTT CONNECT failed: read tcp 192.168.0.102:52466->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1906,false,295.019300,MQTT CONNECT failed: EOF
+1907,false,299.290200,MQTT CONNECT failed: EOF
+1908,false,299.410300,MQTT CONNECT failed: read tcp 192.168.0.102:52469->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1909,false,295.806100,MQTT CONNECT failed: EOF
+1910,false,297.131900,MQTT CONNECT failed: EOF
+1911,false,296.624700,MQTT CONNECT failed: EOF
+1912,false,299.303600,MQTT CONNECT failed: EOF
+1913,false,296.029400,MQTT CONNECT failed: read tcp 192.168.0.102:52474->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1914,false,295.925900,MQTT CONNECT failed: EOF
+1915,false,299.881100,MQTT CONNECT failed: read tcp 192.168.0.102:52476->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1916,false,296.298200,MQTT CONNECT failed: read tcp 192.168.0.102:52477->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1917,false,299.697000,MQTT CONNECT failed: EOF
+1918,false,296.668900,MQTT CONNECT failed: read tcp 192.168.0.102:52479->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1919,false,300.029300,MQTT CONNECT failed: EOF
+1920,false,294.942700,MQTT CONNECT failed: read tcp 192.168.0.102:52481->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1921,false,295.495700,MQTT CONNECT failed: read tcp 192.168.0.102:52482->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1922,false,299.014300,MQTT CONNECT failed: read tcp 192.168.0.102:52483->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1923,false,295.714800,MQTT CONNECT failed: EOF
+1924,false,298.321500,MQTT CONNECT failed: read tcp 192.168.0.102:52485->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1925,false,296.767500,MQTT CONNECT failed: read tcp 192.168.0.102:52486->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1926,false,299.489800,MQTT CONNECT failed: read tcp 192.168.0.102:52487->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1927,false,296.354800,MQTT CONNECT failed: read tcp 192.168.0.102:52488->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1928,false,295.555100,MQTT CONNECT failed: EOF
+1929,false,302.593000,MQTT CONNECT failed: EOF
+1930,false,300.076400,MQTT CONNECT failed: read tcp 192.168.0.102:52491->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1931,false,303.671100,MQTT CONNECT failed: read tcp 192.168.0.102:52492->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1932,false,299.485700,MQTT CONNECT failed: read tcp 192.168.0.102:52493->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1933,false,299.767900,MQTT CONNECT failed: read tcp 192.168.0.102:52494->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1934,false,299.325000,MQTT CONNECT failed: read tcp 192.168.0.102:52495->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1935,false,298.593700,MQTT CONNECT failed: read tcp 192.168.0.102:52496->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1936,false,298.226700,MQTT CONNECT failed: read tcp 192.168.0.102:52497->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1937,false,300.271900,MQTT CONNECT failed: EOF
+1938,false,298.369100,MQTT CONNECT failed: EOF
+1939,false,299.417100,MQTT CONNECT failed: read tcp 192.168.0.102:52500->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1940,false,299.050100,MQTT CONNECT failed: EOF
+1941,false,299.162100,MQTT CONNECT failed: EOF
+1942,false,300.061100,MQTT CONNECT failed: read tcp 192.168.0.102:52503->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1943,false,295.677300,MQTT CONNECT failed: read tcp 192.168.0.102:52504->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1944,false,298.796100,MQTT CONNECT failed: EOF
+1945,false,300.720600,MQTT CONNECT failed: read tcp 192.168.0.102:52506->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1946,false,296.766300,MQTT CONNECT failed: read tcp 192.168.0.102:52507->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1947,false,299.172300,MQTT CONNECT failed: read tcp 192.168.0.102:52508->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1948,false,296.991500,MQTT CONNECT failed: EOF
+1949,false,295.688600,MQTT CONNECT failed: EOF
+1950,false,296.099100,MQTT CONNECT failed: read tcp 192.168.0.102:52511->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1951,false,299.377900,MQTT CONNECT failed: read tcp 192.168.0.102:52512->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1952,false,296.599700,MQTT CONNECT failed: EOF
+1953,false,299.542600,MQTT CONNECT failed: EOF
+1954,false,296.717900,MQTT CONNECT failed: read tcp 192.168.0.102:52515->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1955,false,296.939200,MQTT CONNECT failed: EOF
+1956,false,296.150800,MQTT CONNECT failed: EOF
+1957,false,302.730500,MQTT CONNECT failed: read tcp 192.168.0.102:52518->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1958,false,298.857400,MQTT CONNECT failed: read tcp 192.168.0.102:52519->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1959,false,299.167800,MQTT CONNECT failed: read tcp 192.168.0.102:52520->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1960,false,300.219100,MQTT CONNECT failed: read tcp 192.168.0.102:52521->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1961,false,297.073000,MQTT CONNECT failed: read tcp 192.168.0.102:52522->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1962,false,299.471300,MQTT CONNECT failed: read tcp 192.168.0.102:52523->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1963,false,295.161800,MQTT CONNECT failed: EOF
+1964,false,296.337500,MQTT CONNECT failed: read tcp 192.168.0.102:52525->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1965,false,299.459600,MQTT CONNECT failed: read tcp 192.168.0.102:52526->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1966,false,298.633300,MQTT CONNECT failed: EOF
+1967,false,295.327200,MQTT CONNECT failed: EOF
+1968,false,299.749700,MQTT CONNECT failed: read tcp 192.168.0.102:52529->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1969,false,296.407800,MQTT CONNECT failed: read tcp 192.168.0.102:52530->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1970,false,295.908900,MQTT CONNECT failed: read tcp 192.168.0.102:52531->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1971,false,296.100000,MQTT CONNECT failed: read tcp 192.168.0.102:52532->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1972,false,298.792100,MQTT CONNECT failed: EOF
+1973,false,303.225200,MQTT CONNECT failed: read tcp 192.168.0.102:52534->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1974,false,298.866300,MQTT CONNECT failed: EOF
+1975,false,296.620000,MQTT CONNECT failed: read tcp 192.168.0.102:52536->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1976,false,295.954200,MQTT CONNECT failed: read tcp 192.168.0.102:52537->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1977,false,296.758900,MQTT CONNECT failed: EOF
+1978,false,296.099500,MQTT CONNECT failed: read tcp 192.168.0.102:52539->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1979,false,295.439200,MQTT CONNECT failed: read tcp 192.168.0.102:52540->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1980,false,296.298200,MQTT CONNECT failed: read tcp 192.168.0.102:52541->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1981,false,294.939700,MQTT CONNECT failed: EOF
+1982,false,299.514200,MQTT CONNECT failed: read tcp 192.168.0.102:52543->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1983,false,297.080200,MQTT CONNECT failed: EOF
+1984,false,297.126100,MQTT CONNECT failed: EOF
+1985,false,296.977200,MQTT CONNECT failed: read tcp 192.168.0.102:52546->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1986,false,299.738700,MQTT CONNECT failed: read tcp 192.168.0.102:52547->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1987,false,296.251900,MQTT CONNECT failed: read tcp 192.168.0.102:52548->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1988,false,298.706600,MQTT CONNECT failed: read tcp 192.168.0.102:52549->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1989,false,299.925900,MQTT CONNECT failed: EOF
+1990,false,295.156900,MQTT CONNECT failed: read tcp 192.168.0.102:52551->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1991,false,298.699700,MQTT CONNECT failed: read tcp 192.168.0.102:52552->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1992,false,298.688100,MQTT CONNECT failed: EOF
+1993,false,298.229700,MQTT CONNECT failed: read tcp 192.168.0.102:52554->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1994,false,299.172900,MQTT CONNECT failed: read tcp 192.168.0.102:52555->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1995,false,296.733100,MQTT CONNECT failed: read tcp 192.168.0.102:52556->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1996,false,295.909500,MQTT CONNECT failed: EOF
+1997,false,296.480400,MQTT CONNECT failed: read tcp 192.168.0.102:52558->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+1998,false,295.889500,MQTT CONNECT failed: EOF
+1999,false,296.486000,MQTT CONNECT failed: EOF
+2000,false,300.251300,MQTT CONNECT failed: EOF
+2001,false,296.012300,MQTT CONNECT failed: EOF
+2002,false,295.666200,MQTT CONNECT failed: read tcp 192.168.0.102:52563->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2003,false,296.477000,MQTT CONNECT failed: read tcp 192.168.0.102:52564->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2004,false,299.074600,MQTT CONNECT failed: read tcp 192.168.0.102:52565->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2005,false,295.725500,MQTT CONNECT failed: read tcp 192.168.0.102:52566->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2006,false,299.460600,MQTT CONNECT failed: read tcp 192.168.0.102:52567->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2007,false,299.498800,MQTT CONNECT failed: read tcp 192.168.0.102:52568->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2008,false,303.847400,MQTT CONNECT failed: read tcp 192.168.0.102:52569->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2009,false,300.236100,MQTT CONNECT failed: EOF
+2010,false,295.996700,MQTT CONNECT failed: read tcp 192.168.0.102:52571->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2011,false,303.077300,MQTT CONNECT failed: read tcp 192.168.0.102:52572->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2012,false,296.087400,MQTT CONNECT failed: read tcp 192.168.0.102:52573->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2013,false,297.593000,MQTT CONNECT failed: read tcp 192.168.0.102:52574->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2014,false,296.155800,MQTT CONNECT failed: read tcp 192.168.0.102:52575->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2015,false,298.331300,MQTT CONNECT failed: EOF
+2016,false,301.587800,MQTT CONNECT failed: read tcp 192.168.0.102:52577->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2017,false,295.935200,MQTT CONNECT failed: read tcp 192.168.0.102:52578->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2018,false,300.183100,MQTT CONNECT failed: read tcp 192.168.0.102:52579->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2019,false,299.786600,MQTT CONNECT failed: read tcp 192.168.0.102:52580->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2020,false,295.857100,MQTT CONNECT failed: read tcp 192.168.0.102:52581->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2021,false,299.734700,MQTT CONNECT failed: EOF
+2022,false,295.814500,MQTT CONNECT failed: read tcp 192.168.0.102:52583->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2023,false,299.794500,MQTT CONNECT failed: read tcp 192.168.0.102:52584->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2024,false,299.018800,MQTT CONNECT failed: read tcp 192.168.0.102:52585->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2025,false,296.429900,MQTT CONNECT failed: EOF
+2026,false,298.931800,MQTT CONNECT failed: EOF
+2027,false,300.403000,MQTT CONNECT failed: read tcp 192.168.0.102:52588->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2028,false,296.845300,MQTT CONNECT failed: read tcp 192.168.0.102:52589->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2029,false,296.320000,MQTT CONNECT failed: EOF
+2030,false,295.670400,MQTT CONNECT failed: read tcp 192.168.0.102:52591->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2031,false,303.515600,MQTT CONNECT failed: read tcp 192.168.0.102:52592->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2032,false,297.355600,MQTT CONNECT failed: EOF
+2033,false,296.543900,MQTT CONNECT failed: read tcp 192.168.0.102:52594->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2034,false,303.806700,MQTT CONNECT failed: read tcp 192.168.0.102:52595->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2035,false,296.363200,MQTT CONNECT failed: read tcp 192.168.0.102:52596->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2036,false,296.594000,MQTT CONNECT failed: EOF
+2037,false,300.147500,MQTT CONNECT failed: read tcp 192.168.0.102:52598->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2038,false,299.276600,MQTT CONNECT failed: EOF
+2039,false,298.987500,MQTT CONNECT failed: read tcp 192.168.0.102:52600->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2040,false,298.853900,MQTT CONNECT failed: read tcp 192.168.0.102:52601->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2041,false,296.173400,MQTT CONNECT failed: read tcp 192.168.0.102:52602->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2042,false,295.871400,MQTT CONNECT failed: read tcp 192.168.0.102:52603->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2043,false,298.635300,MQTT CONNECT failed: read tcp 192.168.0.102:52604->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2044,false,304.848500,MQTT CONNECT failed: read tcp 192.168.0.102:52605->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2045,false,298.695400,MQTT CONNECT failed: read tcp 192.168.0.102:52606->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2046,false,296.358500,MQTT CONNECT failed: read tcp 192.168.0.102:52607->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2047,false,302.217400,MQTT CONNECT failed: EOF
+2048,false,300.145000,MQTT CONNECT failed: read tcp 192.168.0.102:52609->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2049,false,295.939700,MQTT CONNECT failed: read tcp 192.168.0.102:52610->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2050,false,301.428300,MQTT CONNECT failed: read tcp 192.168.0.102:52611->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2051,false,301.695500,MQTT CONNECT failed: EOF
+2052,false,296.927000,MQTT CONNECT failed: read tcp 192.168.0.102:52613->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2053,false,298.144500,MQTT CONNECT failed: EOF
+2054,false,301.981500,MQTT CONNECT failed: EOF
+2055,false,299.095700,MQTT CONNECT failed: read tcp 192.168.0.102:52616->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2056,false,298.159300,MQTT CONNECT failed: read tcp 192.168.0.102:52617->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2057,false,297.594800,MQTT CONNECT failed: read tcp 192.168.0.102:52618->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2058,false,299.040900,MQTT CONNECT failed: read tcp 192.168.0.102:52619->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2059,false,299.486700,MQTT CONNECT failed: read tcp 192.168.0.102:52620->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2060,false,303.158800,MQTT CONNECT failed: read tcp 192.168.0.102:52621->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2061,false,295.767500,MQTT CONNECT failed: read tcp 192.168.0.102:52622->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2062,false,296.058500,MQTT CONNECT failed: EOF
+2063,false,296.588300,MQTT CONNECT failed: read tcp 192.168.0.102:52624->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2064,false,296.543400,MQTT CONNECT failed: read tcp 192.168.0.102:52625->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2065,false,300.255500,MQTT CONNECT failed: read tcp 192.168.0.102:52627->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2066,false,299.587300,MQTT CONNECT failed: EOF
+2067,false,297.065800,MQTT CONNECT failed: read tcp 192.168.0.102:52629->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2068,false,296.914000,MQTT CONNECT failed: EOF
+2069,false,298.270800,MQTT CONNECT failed: read tcp 192.168.0.102:52631->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2070,false,296.610600,MQTT CONNECT failed: read tcp 192.168.0.102:52632->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2071,false,296.432500,MQTT CONNECT failed: read tcp 192.168.0.102:52633->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2072,false,301.485700,MQTT CONNECT failed: EOF
+2073,false,295.218100,MQTT CONNECT failed: read tcp 192.168.0.102:52635->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2074,false,304.361100,MQTT CONNECT failed: read tcp 192.168.0.102:52636->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2075,false,295.565600,MQTT CONNECT failed: read tcp 192.168.0.102:52637->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2076,false,300.282600,MQTT CONNECT failed: read tcp 192.168.0.102:52638->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2077,false,295.116500,MQTT CONNECT failed: EOF
+2078,false,299.080100,MQTT CONNECT failed: read tcp 192.168.0.102:52640->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2079,false,300.030800,MQTT CONNECT failed: read tcp 192.168.0.102:52641->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2080,false,295.950100,MQTT CONNECT failed: read tcp 192.168.0.102:52642->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2081,false,303.220700,MQTT CONNECT failed: EOF
+2082,false,296.675700,MQTT CONNECT failed: read tcp 192.168.0.102:52644->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2083,false,301.546300,MQTT CONNECT failed: read tcp 192.168.0.102:52645->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2084,false,296.392000,MQTT CONNECT failed: read tcp 192.168.0.102:52646->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2085,false,299.124400,MQTT CONNECT failed: read tcp 192.168.0.102:52647->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2086,false,298.956100,MQTT CONNECT failed: EOF
+2087,false,300.376200,MQTT CONNECT failed: read tcp 192.168.0.102:52649->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2088,false,296.273100,MQTT CONNECT failed: read tcp 192.168.0.102:52650->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2089,false,298.668900,MQTT CONNECT failed: EOF
+2090,false,304.038600,MQTT CONNECT failed: read tcp 192.168.0.102:52652->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2091,false,298.484200,MQTT CONNECT failed: read tcp 192.168.0.102:52653->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2092,false,300.077000,MQTT CONNECT failed: read tcp 192.168.0.102:52654->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2093,false,300.478800,MQTT CONNECT failed: read tcp 192.168.0.102:52655->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2094,false,301.766900,MQTT CONNECT failed: read tcp 192.168.0.102:52656->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2095,false,296.875700,MQTT CONNECT failed: read tcp 192.168.0.102:52657->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2096,false,296.974300,MQTT CONNECT failed: read tcp 192.168.0.102:52658->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2097,false,298.600700,MQTT CONNECT failed: read tcp 192.168.0.102:52659->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2098,false,303.235300,MQTT CONNECT failed: read tcp 192.168.0.102:52660->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2099,false,295.336600,MQTT CONNECT failed: read tcp 192.168.0.102:52661->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2100,false,299.617800,MQTT CONNECT failed: EOF
+2101,false,301.365600,MQTT CONNECT failed: EOF
+2102,false,295.958600,MQTT CONNECT failed: read tcp 192.168.0.102:52664->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2103,false,303.699200,MQTT CONNECT failed: read tcp 192.168.0.102:52665->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2104,false,295.969800,MQTT CONNECT failed: read tcp 192.168.0.102:52666->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2105,false,303.758900,MQTT CONNECT failed: read tcp 192.168.0.102:52667->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2106,false,295.529900,MQTT CONNECT failed: read tcp 192.168.0.102:52668->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2107,false,296.793700,MQTT CONNECT failed: read tcp 192.168.0.102:52669->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2108,false,296.657200,MQTT CONNECT failed: read tcp 192.168.0.102:52670->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2109,false,296.263000,MQTT CONNECT failed: read tcp 192.168.0.102:52671->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2110,false,303.496000,MQTT CONNECT failed: read tcp 192.168.0.102:52672->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2111,false,304.267400,MQTT CONNECT failed: read tcp 192.168.0.102:52673->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2112,false,296.111700,MQTT CONNECT failed: read tcp 192.168.0.102:52674->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2113,false,298.965000,MQTT CONNECT failed: read tcp 192.168.0.102:52675->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2114,false,300.365600,MQTT CONNECT failed: read tcp 192.168.0.102:52676->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2115,false,298.872200,MQTT CONNECT failed: read tcp 192.168.0.102:52677->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2116,false,295.413800,MQTT CONNECT failed: read tcp 192.168.0.102:52678->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2117,false,296.623200,MQTT CONNECT failed: read tcp 192.168.0.102:52679->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2118,false,296.753600,MQTT CONNECT failed: read tcp 192.168.0.102:52680->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2119,false,297.688100,MQTT CONNECT failed: EOF
+2120,false,296.032100,MQTT CONNECT failed: read tcp 192.168.0.102:52682->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2121,false,295.900600,MQTT CONNECT failed: read tcp 192.168.0.102:52683->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2122,false,300.102900,MQTT CONNECT failed: read tcp 192.168.0.102:52684->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2123,false,295.861400,MQTT CONNECT failed: read tcp 192.168.0.102:52685->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2124,false,298.838900,MQTT CONNECT failed: read tcp 192.168.0.102:52686->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2125,false,303.592000,MQTT CONNECT failed: read tcp 192.168.0.102:52687->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2126,false,304.074900,MQTT CONNECT failed: read tcp 192.168.0.102:52688->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2127,false,298.342000,MQTT CONNECT failed: read tcp 192.168.0.102:52689->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2128,false,295.537200,MQTT CONNECT failed: EOF
+2129,false,296.368400,MQTT CONNECT failed: read tcp 192.168.0.102:52692->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2130,false,298.803100,MQTT CONNECT failed: read tcp 192.168.0.102:52693->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2131,false,299.081500,MQTT CONNECT failed: EOF
+2132,false,298.928700,MQTT CONNECT failed: read tcp 192.168.0.102:52695->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2133,false,298.373700,MQTT CONNECT failed: read tcp 192.168.0.102:52696->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2134,false,297.855500,MQTT CONNECT failed: EOF
+2135,false,296.104600,MQTT CONNECT failed: read tcp 192.168.0.102:52698->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2136,false,296.402200,MQTT CONNECT failed: read tcp 192.168.0.102:52699->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2137,false,295.909400,MQTT CONNECT failed: read tcp 192.168.0.102:52700->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2138,false,298.865300,MQTT CONNECT failed: read tcp 192.168.0.102:52701->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2139,false,296.125700,MQTT CONNECT failed: read tcp 192.168.0.102:52702->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2140,false,297.007400,MQTT CONNECT failed: read tcp 192.168.0.102:52703->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2141,false,299.042800,MQTT CONNECT failed: read tcp 192.168.0.102:52704->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2142,false,296.029100,MQTT CONNECT failed: EOF
+2143,false,303.841100,MQTT CONNECT failed: EOF
+2144,false,301.770100,MQTT CONNECT failed: EOF
+2145,false,295.592200,MQTT CONNECT failed: read tcp 192.168.0.102:52708->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2146,false,296.059800,MQTT CONNECT failed: read tcp 192.168.0.102:52709->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2147,false,297.230800,MQTT CONNECT failed: read tcp 192.168.0.102:52711->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2148,false,298.572500,MQTT CONNECT failed: EOF
+2149,false,299.049300,MQTT CONNECT failed: read tcp 192.168.0.102:52713->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2150,false,299.366100,MQTT CONNECT failed: EOF
+2151,false,300.139800,MQTT CONNECT failed: read tcp 192.168.0.102:52715->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2152,false,296.236400,MQTT CONNECT failed: read tcp 192.168.0.102:52716->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2153,false,299.949900,MQTT CONNECT failed: EOF
+2154,false,297.047600,MQTT CONNECT failed: read tcp 192.168.0.102:52718->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2155,false,296.253400,MQTT CONNECT failed: read tcp 192.168.0.102:52719->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2156,false,299.745600,MQTT CONNECT failed: read tcp 192.168.0.102:52720->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2157,false,300.551900,MQTT CONNECT failed: EOF
+2158,false,301.979700,MQTT CONNECT failed: read tcp 192.168.0.102:52722->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2159,false,298.713000,MQTT CONNECT failed: read tcp 192.168.0.102:52723->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2160,false,299.852600,MQTT CONNECT failed: read tcp 192.168.0.102:52724->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2161,false,295.630500,MQTT CONNECT failed: read tcp 192.168.0.102:52725->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2162,false,299.683900,MQTT CONNECT failed: read tcp 192.168.0.102:52726->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2163,false,296.075900,MQTT CONNECT failed: read tcp 192.168.0.102:52727->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2164,false,303.330900,MQTT CONNECT failed: read tcp 192.168.0.102:52728->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2165,false,301.820000,MQTT CONNECT failed: EOF
+2166,false,303.670900,MQTT CONNECT failed: read tcp 192.168.0.102:52730->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2167,false,298.808600,MQTT CONNECT failed: read tcp 192.168.0.102:52731->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2168,false,296.934600,MQTT CONNECT failed: read tcp 192.168.0.102:52732->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2169,false,296.473300,MQTT CONNECT failed: read tcp 192.168.0.102:52733->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2170,false,295.634100,MQTT CONNECT failed: read tcp 192.168.0.102:52734->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2171,false,300.355200,MQTT CONNECT failed: read tcp 192.168.0.102:52735->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2172,false,296.132800,MQTT CONNECT failed: read tcp 192.168.0.102:52736->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2173,false,297.154400,MQTT CONNECT failed: read tcp 192.168.0.102:52737->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2174,false,296.846000,MQTT CONNECT failed: read tcp 192.168.0.102:52738->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2175,false,298.702800,MQTT CONNECT failed: read tcp 192.168.0.102:52739->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2176,false,295.953500,MQTT CONNECT failed: EOF
+2177,false,296.421000,MQTT CONNECT failed: read tcp 192.168.0.102:52741->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2178,false,300.338000,MQTT CONNECT failed: read tcp 192.168.0.102:52742->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2179,false,300.439700,MQTT CONNECT failed: read tcp 192.168.0.102:52743->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2180,false,296.584700,MQTT CONNECT failed: read tcp 192.168.0.102:52744->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2181,false,303.351600,MQTT CONNECT failed: read tcp 192.168.0.102:52745->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2182,false,295.668500,MQTT CONNECT failed: EOF
+2183,false,299.613600,MQTT CONNECT failed: read tcp 192.168.0.102:52747->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2184,false,297.036400,MQTT CONNECT failed: read tcp 192.168.0.102:52748->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2185,false,299.021800,MQTT CONNECT failed: read tcp 192.168.0.102:52749->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2186,false,297.648200,MQTT CONNECT failed: read tcp 192.168.0.102:52750->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2187,false,303.564300,MQTT CONNECT failed: read tcp 192.168.0.102:52751->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2188,false,300.173600,MQTT CONNECT failed: read tcp 192.168.0.102:52752->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2189,false,296.207100,MQTT CONNECT failed: read tcp 192.168.0.102:52753->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2190,false,299.384500,MQTT CONNECT failed: read tcp 192.168.0.102:52754->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2191,false,298.839100,MQTT CONNECT failed: read tcp 192.168.0.102:52755->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2192,false,301.837500,MQTT CONNECT failed: EOF
+2193,false,298.705100,MQTT CONNECT failed: read tcp 192.168.0.102:52757->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2194,false,299.903900,MQTT CONNECT failed: read tcp 192.168.0.102:52758->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2195,false,304.739200,MQTT CONNECT failed: read tcp 192.168.0.102:52759->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2196,false,298.528600,MQTT CONNECT failed: read tcp 192.168.0.102:52760->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2197,false,298.448500,MQTT CONNECT failed: EOF
+2198,false,299.342900,MQTT CONNECT failed: read tcp 192.168.0.102:52762->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2199,false,298.853000,MQTT CONNECT failed: read tcp 192.168.0.102:52763->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2200,false,296.607900,MQTT CONNECT failed: read tcp 192.168.0.102:52764->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2201,false,303.816800,MQTT CONNECT failed: EOF
+2202,false,296.329000,MQTT CONNECT failed: read tcp 192.168.0.102:52766->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2203,false,300.109500,MQTT CONNECT failed: read tcp 192.168.0.102:52767->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2204,false,296.248200,MQTT CONNECT failed: read tcp 192.168.0.102:52768->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2205,false,299.959000,MQTT CONNECT failed: read tcp 192.168.0.102:52769->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2206,false,299.628700,MQTT CONNECT failed: read tcp 192.168.0.102:52770->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2207,false,295.412600,MQTT CONNECT failed: read tcp 192.168.0.102:52771->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2208,false,304.127100,MQTT CONNECT failed: read tcp 192.168.0.102:52772->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2209,false,296.567800,MQTT CONNECT failed: read tcp 192.168.0.102:52773->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2210,false,297.002100,MQTT CONNECT failed: EOF
+2211,false,295.116900,MQTT CONNECT failed: EOF
+2212,false,296.467400,MQTT CONNECT failed: read tcp 192.168.0.102:52776->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2213,false,297.483900,MQTT CONNECT failed: read tcp 192.168.0.102:52777->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2214,false,295.403200,MQTT CONNECT failed: EOF
+2215,false,297.015900,MQTT CONNECT failed: read tcp 192.168.0.102:52779->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2216,false,301.017000,MQTT CONNECT failed: read tcp 192.168.0.102:52780->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2217,false,296.141300,MQTT CONNECT failed: read tcp 192.168.0.102:52781->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2218,false,296.116800,MQTT CONNECT failed: EOF
+2219,false,295.581000,MQTT CONNECT failed: read tcp 192.168.0.102:52783->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2220,false,299.774000,MQTT CONNECT failed: read tcp 192.168.0.102:52784->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2221,false,301.364900,MQTT CONNECT failed: EOF
+2222,false,299.633400,MQTT CONNECT failed: read tcp 192.168.0.102:52786->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2223,false,300.256100,MQTT CONNECT failed: read tcp 192.168.0.102:52787->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2224,false,301.762000,MQTT CONNECT failed: EOF
+2225,false,299.212200,MQTT CONNECT failed: read tcp 192.168.0.102:52789->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2226,false,296.464500,MQTT CONNECT failed: read tcp 192.168.0.102:52790->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2227,false,300.425800,MQTT CONNECT failed: EOF
+2228,false,298.597400,MQTT CONNECT failed: read tcp 192.168.0.102:52792->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2229,false,300.011700,MQTT CONNECT failed: read tcp 192.168.0.102:52793->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2230,false,298.909100,MQTT CONNECT failed: read tcp 192.168.0.102:52794->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2231,false,296.754600,MQTT CONNECT failed: read tcp 192.168.0.102:52795->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2232,false,298.852300,MQTT CONNECT failed: EOF
+2233,false,298.589000,MQTT CONNECT failed: EOF
+2234,false,299.558300,MQTT CONNECT failed: read tcp 192.168.0.102:52798->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2235,false,299.556500,MQTT CONNECT failed: EOF
+2236,false,296.081800,MQTT CONNECT failed: read tcp 192.168.0.102:52800->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2237,false,300.342900,MQTT CONNECT failed: read tcp 192.168.0.102:52801->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2238,false,300.405800,MQTT CONNECT failed: EOF
+2239,false,295.638400,MQTT CONNECT failed: read tcp 192.168.0.102:52803->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2240,false,298.951000,MQTT CONNECT failed: read tcp 192.168.0.102:52804->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2241,false,295.896100,MQTT CONNECT failed: read tcp 192.168.0.102:52805->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2242,false,296.514500,MQTT CONNECT failed: read tcp 192.168.0.102:52806->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2243,false,296.580300,MQTT CONNECT failed: EOF
+2244,false,299.012400,MQTT CONNECT failed: read tcp 192.168.0.102:52808->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2245,false,296.113700,MQTT CONNECT failed: read tcp 192.168.0.102:52809->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2246,false,295.976700,MQTT CONNECT failed: read tcp 192.168.0.102:52810->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2247,false,298.364200,MQTT CONNECT failed: EOF
+2248,false,298.066600,MQTT CONNECT failed: EOF
+2249,false,299.791000,MQTT CONNECT failed: read tcp 192.168.0.102:52813->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2250,false,298.722600,MQTT CONNECT failed: read tcp 192.168.0.102:52814->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2251,false,296.480000,MQTT CONNECT failed: EOF
+2252,false,298.819800,MQTT CONNECT failed: read tcp 192.168.0.102:52816->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2253,false,295.996100,MQTT CONNECT failed: EOF
+2254,false,297.005000,MQTT CONNECT failed: read tcp 192.168.0.102:52818->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2255,false,299.110500,MQTT CONNECT failed: read tcp 192.168.0.102:52819->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2256,false,303.419300,MQTT CONNECT failed: read tcp 192.168.0.102:52820->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2257,false,299.392700,MQTT CONNECT failed: read tcp 192.168.0.102:52821->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2258,false,300.146400,MQTT CONNECT failed: EOF
+2259,false,301.861500,MQTT CONNECT failed: EOF
+2260,false,297.150700,MQTT CONNECT failed: EOF
+2261,false,300.007100,MQTT CONNECT failed: read tcp 192.168.0.102:52825->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2262,false,299.443000,MQTT CONNECT failed: EOF
+2263,false,298.744100,MQTT CONNECT failed: read tcp 192.168.0.102:52827->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2264,false,295.828800,MQTT CONNECT failed: read tcp 192.168.0.102:52828->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2265,false,299.206800,MQTT CONNECT failed: EOF
+2266,false,295.180000,MQTT CONNECT failed: EOF
+2267,false,295.786900,MQTT CONNECT failed: read tcp 192.168.0.102:52831->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2268,false,297.453500,MQTT CONNECT failed: EOF
+2269,false,303.160900,MQTT CONNECT failed: read tcp 192.168.0.102:52833->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2270,false,296.233600,MQTT CONNECT failed: EOF
+2271,false,296.570900,MQTT CONNECT failed: read tcp 192.168.0.102:52835->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2272,false,295.749300,MQTT CONNECT failed: EOF
+2273,false,298.498500,MQTT CONNECT failed: EOF
+2274,false,296.749300,MQTT CONNECT failed: EOF
+2275,false,299.055700,MQTT CONNECT failed: EOF
+2276,false,296.871000,MQTT CONNECT failed: read tcp 192.168.0.102:52840->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2277,false,296.619200,MQTT CONNECT failed: EOF
+2278,false,296.505300,MQTT CONNECT failed: read tcp 192.168.0.102:52842->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2279,false,296.600500,MQTT CONNECT failed: read tcp 192.168.0.102:52843->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2280,false,302.438900,MQTT CONNECT failed: read tcp 192.168.0.102:52844->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2281,false,295.958500,MQTT CONNECT failed: read tcp 192.168.0.102:52845->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2282,false,300.122100,MQTT CONNECT failed: EOF
+2283,false,296.352700,MQTT CONNECT failed: read tcp 192.168.0.102:52847->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2284,false,299.456500,MQTT CONNECT failed: EOF
+2285,false,294.767700,MQTT CONNECT failed: EOF
+2286,false,298.821600,MQTT CONNECT failed: read tcp 192.168.0.102:52850->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2287,false,298.609400,MQTT CONNECT failed: EOF
+2288,false,296.729600,MQTT CONNECT failed: read tcp 192.168.0.102:52852->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2289,false,299.233500,MQTT CONNECT failed: read tcp 192.168.0.102:52853->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2290,false,303.683400,MQTT CONNECT failed: EOF
+2291,false,296.003000,MQTT CONNECT failed: EOF
+2292,false,303.249100,MQTT CONNECT failed: EOF
+2293,false,299.368000,MQTT CONNECT failed: EOF
+2294,false,299.653200,MQTT CONNECT failed: EOF
+2295,false,299.762100,MQTT CONNECT failed: EOF
+2296,false,296.087200,MQTT CONNECT failed: read tcp 192.168.0.102:52860->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2297,false,296.414600,MQTT CONNECT failed: EOF
+2298,false,300.242300,MQTT CONNECT failed: read tcp 192.168.0.102:52862->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2299,false,299.495700,MQTT CONNECT failed: read tcp 192.168.0.102:52863->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2300,false,296.200000,MQTT CONNECT failed: read tcp 192.168.0.102:52864->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2301,false,296.319500,MQTT CONNECT failed: read tcp 192.168.0.102:52865->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2302,false,296.449300,MQTT CONNECT failed: read tcp 192.168.0.102:52866->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2303,false,303.148000,MQTT CONNECT failed: read tcp 192.168.0.102:52867->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2304,false,297.898300,MQTT CONNECT failed: EOF
+2305,false,300.162800,MQTT CONNECT failed: read tcp 192.168.0.102:52869->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2306,false,294.417700,MQTT CONNECT failed: read tcp 192.168.0.102:52870->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2307,false,295.936000,MQTT CONNECT failed: EOF
+2308,false,299.786000,MQTT CONNECT failed: EOF
+2309,false,299.558800,MQTT CONNECT failed: read tcp 192.168.0.102:52873->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2310,false,299.804000,MQTT CONNECT failed: EOF
+2311,false,295.481500,MQTT CONNECT failed: read tcp 192.168.0.102:52875->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2312,false,298.570500,MQTT CONNECT failed: EOF
+2313,false,298.549100,MQTT CONNECT failed: EOF
+2314,false,295.795400,MQTT CONNECT failed: read tcp 192.168.0.102:52878->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2315,false,300.421000,MQTT CONNECT failed: EOF
+2316,false,302.866100,MQTT CONNECT failed: read tcp 192.168.0.102:52880->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2317,false,299.278000,MQTT CONNECT failed: EOF
+2318,false,295.945400,MQTT CONNECT failed: read tcp 192.168.0.102:52882->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2319,false,298.821100,MQTT CONNECT failed: EOF
+2320,false,298.877900,MQTT CONNECT failed: EOF
+2321,false,298.501900,MQTT CONNECT failed: EOF
+2322,false,299.988500,MQTT CONNECT failed: read tcp 192.168.0.102:52886->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2323,false,299.227200,MQTT CONNECT failed: read tcp 192.168.0.102:52887->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2324,false,295.895300,MQTT CONNECT failed: EOF
+2325,false,296.437700,MQTT CONNECT failed: read tcp 192.168.0.102:52889->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2326,false,298.098600,MQTT CONNECT failed: EOF
+2327,false,303.887000,MQTT CONNECT failed: read tcp 192.168.0.102:52891->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2328,false,295.819600,MQTT CONNECT failed: EOF
+2329,false,297.110900,MQTT CONNECT failed: read tcp 192.168.0.102:52893->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2330,false,296.051600,MQTT CONNECT failed: EOF
+2331,false,296.073300,MQTT CONNECT failed: EOF
+2332,false,295.814000,MQTT CONNECT failed: read tcp 192.168.0.102:52896->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2333,false,298.522700,MQTT CONNECT failed: read tcp 192.168.0.102:52897->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2334,false,296.450800,MQTT CONNECT failed: EOF
+2335,false,296.185700,MQTT CONNECT failed: EOF
+2336,false,299.001400,MQTT CONNECT failed: EOF
+2337,false,296.160200,MQTT CONNECT failed: read tcp 192.168.0.102:52901->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2338,false,301.060900,MQTT CONNECT failed: read tcp 192.168.0.102:52902->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2339,false,293.760300,MQTT CONNECT failed: EOF
+2340,false,296.927900,MQTT CONNECT failed: EOF
+2341,false,303.104300,MQTT CONNECT failed: EOF
+2342,false,295.437500,MQTT CONNECT failed: EOF
+2343,false,299.777900,MQTT CONNECT failed: read tcp 192.168.0.102:52907->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2344,false,297.120000,MQTT CONNECT failed: read tcp 192.168.0.102:52908->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2345,false,300.161400,MQTT CONNECT failed: read tcp 192.168.0.102:52909->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2346,false,295.894100,MQTT CONNECT failed: read tcp 192.168.0.102:52910->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2347,false,295.822300,MQTT CONNECT failed: read tcp 192.168.0.102:52911->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2348,false,296.698900,MQTT CONNECT failed: EOF
+2349,false,299.893100,MQTT CONNECT failed: read tcp 192.168.0.102:52913->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2350,false,298.227000,MQTT CONNECT failed: read tcp 192.168.0.102:52914->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2351,false,296.237500,MQTT CONNECT failed: read tcp 192.168.0.102:52915->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2352,false,300.536000,MQTT CONNECT failed: read tcp 192.168.0.102:52916->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2353,false,296.369100,MQTT CONNECT failed: read tcp 192.168.0.102:52917->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2354,false,296.732500,MQTT CONNECT failed: EOF
+2355,false,295.364900,MQTT CONNECT failed: EOF
+2356,false,299.838600,MQTT CONNECT failed: EOF
+2357,false,304.546100,MQTT CONNECT failed: read tcp 192.168.0.102:52921->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2358,false,297.727500,MQTT CONNECT failed: read tcp 192.168.0.102:52922->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2359,false,296.062000,MQTT CONNECT failed: EOF
+2360,false,299.878100,MQTT CONNECT failed: EOF
+2361,false,299.142900,MQTT CONNECT failed: read tcp 192.168.0.102:52925->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2362,false,295.922500,MQTT CONNECT failed: EOF
+2363,false,300.209200,MQTT CONNECT failed: EOF
+2364,false,295.678300,MQTT CONNECT failed: EOF
+2365,false,304.195400,MQTT CONNECT failed: read tcp 192.168.0.102:52929->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2366,false,299.289000,MQTT CONNECT failed: EOF
+2367,false,300.325600,MQTT CONNECT failed: EOF
+2368,false,296.878000,MQTT CONNECT failed: EOF
+2369,false,299.811400,MQTT CONNECT failed: read tcp 192.168.0.102:52933->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2370,false,296.854600,MQTT CONNECT failed: read tcp 192.168.0.102:52934->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2371,false,300.648800,MQTT CONNECT failed: EOF
+2372,false,295.679800,MQTT CONNECT failed: EOF
+2373,false,295.110000,MQTT CONNECT failed: read tcp 192.168.0.102:52937->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2374,false,296.588000,MQTT CONNECT failed: read tcp 192.168.0.102:52938->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2375,false,296.088200,MQTT CONNECT failed: read tcp 192.168.0.102:52939->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2376,false,296.600000,MQTT CONNECT failed: EOF
+2377,false,304.476200,MQTT CONNECT failed: read tcp 192.168.0.102:52941->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2378,false,296.274600,MQTT CONNECT failed: read tcp 192.168.0.102:52942->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2379,false,299.876000,MQTT CONNECT failed: EOF
+2380,false,309.448300,MQTT CONNECT failed: read tcp 192.168.0.102:52944->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2381,false,299.403300,MQTT CONNECT failed: read tcp 192.168.0.102:52945->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2382,false,298.897100,MQTT CONNECT failed: read tcp 192.168.0.102:52946->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2383,false,295.783600,MQTT CONNECT failed: EOF
+2384,false,300.248800,MQTT CONNECT failed: EOF
+2385,false,299.289200,MQTT CONNECT failed: read tcp 192.168.0.102:52949->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2386,false,300.633300,MQTT CONNECT failed: read tcp 192.168.0.102:52950->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2387,false,304.174400,MQTT CONNECT failed: read tcp 192.168.0.102:52951->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2388,false,298.786100,MQTT CONNECT failed: EOF
+2389,false,304.334500,MQTT CONNECT failed: read tcp 192.168.0.102:52953->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2390,false,300.017400,MQTT CONNECT failed: read tcp 192.168.0.102:52954->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2391,false,295.085000,MQTT CONNECT failed: read tcp 192.168.0.102:52955->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2392,false,300.003500,MQTT CONNECT failed: read tcp 192.168.0.102:52956->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2393,false,300.429300,MQTT CONNECT failed: EOF
+2394,false,299.977300,MQTT CONNECT failed: EOF
+2395,false,296.058500,MQTT CONNECT failed: EOF
+2396,false,300.543400,MQTT CONNECT failed: EOF
+2397,false,300.037800,MQTT CONNECT failed: read tcp 192.168.0.102:52961->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2398,false,298.305200,MQTT CONNECT failed: read tcp 192.168.0.102:52962->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2399,false,295.805900,MQTT CONNECT failed: EOF
+2400,false,299.027100,MQTT CONNECT failed: read tcp 192.168.0.102:52964->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2401,false,303.953400,MQTT CONNECT failed: EOF
+2402,false,299.007600,MQTT CONNECT failed: read tcp 192.168.0.102:52966->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2403,false,295.990200,MQTT CONNECT failed: read tcp 192.168.0.102:52967->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2404,false,304.333700,MQTT CONNECT failed: read tcp 192.168.0.102:52968->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2405,false,303.355000,MQTT CONNECT failed: read tcp 192.168.0.102:52969->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2406,false,299.145800,MQTT CONNECT failed: read tcp 192.168.0.102:52970->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2407,false,295.822900,MQTT CONNECT failed: read tcp 192.168.0.102:52971->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2408,false,296.951900,MQTT CONNECT failed: read tcp 192.168.0.102:52972->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2409,false,300.233200,MQTT CONNECT failed: EOF
+2410,false,300.789400,MQTT CONNECT failed: read tcp 192.168.0.102:52974->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2411,false,299.794200,MQTT CONNECT failed: read tcp 192.168.0.102:52975->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2412,false,295.545300,MQTT CONNECT failed: read tcp 192.168.0.102:52976->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2413,false,300.280600,MQTT CONNECT failed: read tcp 192.168.0.102:52977->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2414,false,295.386500,MQTT CONNECT failed: EOF
+2415,false,296.722600,MQTT CONNECT failed: read tcp 192.168.0.102:52979->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2416,false,302.855300,MQTT CONNECT failed: read tcp 192.168.0.102:52980->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2417,false,299.992900,MQTT CONNECT failed: read tcp 192.168.0.102:52981->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2418,false,303.253600,MQTT CONNECT failed: read tcp 192.168.0.102:52982->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2419,false,298.786000,MQTT CONNECT failed: EOF
+2420,false,299.487300,MQTT CONNECT failed: EOF
+2421,false,300.738500,MQTT CONNECT failed: read tcp 192.168.0.102:52985->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2422,false,298.607900,MQTT CONNECT failed: read tcp 192.168.0.102:52986->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2423,false,302.114500,MQTT CONNECT failed: read tcp 192.168.0.102:52987->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2424,false,299.877200,MQTT CONNECT failed: read tcp 192.168.0.102:52988->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2425,false,303.887100,MQTT CONNECT failed: read tcp 192.168.0.102:52989->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2426,false,303.139000,MQTT CONNECT failed: read tcp 192.168.0.102:52990->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2427,false,302.992300,MQTT CONNECT failed: read tcp 192.168.0.102:52991->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2428,false,300.493500,MQTT CONNECT failed: EOF
+2429,false,296.350300,MQTT CONNECT failed: EOF
+2430,false,295.964800,MQTT CONNECT failed: read tcp 192.168.0.102:52994->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2431,false,299.996500,MQTT CONNECT failed: read tcp 192.168.0.102:52995->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2432,false,296.474700,MQTT CONNECT failed: read tcp 192.168.0.102:52996->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2433,false,303.515400,MQTT CONNECT failed: read tcp 192.168.0.102:52997->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2434,false,301.904000,MQTT CONNECT failed: read tcp 192.168.0.102:52998->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2435,false,299.405400,MQTT CONNECT failed: read tcp 192.168.0.102:52999->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2436,false,298.742100,MQTT CONNECT failed: read tcp 192.168.0.102:53000->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2437,false,296.471600,MQTT CONNECT failed: EOF
+2438,false,303.131700,MQTT CONNECT failed: read tcp 192.168.0.102:53002->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2439,false,300.401400,MQTT CONNECT failed: read tcp 192.168.0.102:53003->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2440,false,299.802200,MQTT CONNECT failed: read tcp 192.168.0.102:53004->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2441,false,300.228000,MQTT CONNECT failed: EOF
+2442,false,296.438300,MQTT CONNECT failed: read tcp 192.168.0.102:53006->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2443,false,300.519400,MQTT CONNECT failed: EOF
+2444,false,299.973000,MQTT CONNECT failed: EOF
+2445,false,301.955800,MQTT CONNECT failed: EOF
+2446,false,299.711800,MQTT CONNECT failed: read tcp 192.168.0.102:53010->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2447,false,298.318400,MQTT CONNECT failed: read tcp 192.168.0.102:53011->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2448,false,295.806900,MQTT CONNECT failed: EOF
+2449,false,295.648600,MQTT CONNECT failed: read tcp 192.168.0.102:53013->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2450,false,295.332900,MQTT CONNECT failed: EOF
+2451,false,296.024900,MQTT CONNECT failed: read tcp 192.168.0.102:53015->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2452,false,299.928500,MQTT CONNECT failed: read tcp 192.168.0.102:53016->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2453,false,296.431100,MQTT CONNECT failed: read tcp 192.168.0.102:53017->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2454,false,296.805400,MQTT CONNECT failed: read tcp 192.168.0.102:53018->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2455,false,295.995500,MQTT CONNECT failed: read tcp 192.168.0.102:53019->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2456,false,299.531300,MQTT CONNECT failed: read tcp 192.168.0.102:53020->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2457,false,300.274000,MQTT CONNECT failed: read tcp 192.168.0.102:53021->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2458,false,298.910800,MQTT CONNECT failed: read tcp 192.168.0.102:53022->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2459,false,296.395600,MQTT CONNECT failed: read tcp 192.168.0.102:53023->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2460,false,296.159700,MQTT CONNECT failed: read tcp 192.168.0.102:53024->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2461,false,299.706700,MQTT CONNECT failed: EOF
+2462,false,299.067200,MQTT CONNECT failed: EOF
+2463,false,296.552200,MQTT CONNECT failed: EOF
+2464,false,295.977000,MQTT CONNECT failed: read tcp 192.168.0.102:53028->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2465,false,299.569600,MQTT CONNECT failed: read tcp 192.168.0.102:53029->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2466,false,301.455900,MQTT CONNECT failed: EOF
+2467,false,301.843500,MQTT CONNECT failed: EOF
+2468,false,296.869700,MQTT CONNECT failed: read tcp 192.168.0.102:53032->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2469,false,298.939800,MQTT CONNECT failed: read tcp 192.168.0.102:53033->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2470,false,296.926900,MQTT CONNECT failed: read tcp 192.168.0.102:53034->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2471,false,299.269100,MQTT CONNECT failed: read tcp 192.168.0.102:53035->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2472,false,298.522500,MQTT CONNECT failed: read tcp 192.168.0.102:53036->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2473,false,294.834100,MQTT CONNECT failed: read tcp 192.168.0.102:53037->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2474,false,298.691500,MQTT CONNECT failed: read tcp 192.168.0.102:53038->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2475,false,298.512300,MQTT CONNECT failed: read tcp 192.168.0.102:53039->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2476,false,298.734800,MQTT CONNECT failed: read tcp 192.168.0.102:53040->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2477,false,300.375800,MQTT CONNECT failed: read tcp 192.168.0.102:53041->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2478,false,299.232200,MQTT CONNECT failed: read tcp 192.168.0.102:53042->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2479,false,298.968900,MQTT CONNECT failed: read tcp 192.168.0.102:53043->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2480,false,296.072300,MQTT CONNECT failed: read tcp 192.168.0.102:53044->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2481,false,298.347500,MQTT CONNECT failed: EOF
+2482,false,300.240000,MQTT CONNECT failed: read tcp 192.168.0.102:53046->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2483,false,296.913600,MQTT CONNECT failed: EOF
+2484,false,299.638700,MQTT CONNECT failed: read tcp 192.168.0.102:53048->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2485,false,295.973200,MQTT CONNECT failed: EOF
+2486,false,296.000200,MQTT CONNECT failed: read tcp 192.168.0.102:53050->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2487,false,303.170900,MQTT CONNECT failed: EOF
+2488,false,296.413800,MQTT CONNECT failed: read tcp 192.168.0.102:53052->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2489,false,296.788800,MQTT CONNECT failed: read tcp 192.168.0.102:53053->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2490,false,300.624800,MQTT CONNECT failed: EOF
+2491,false,300.250200,MQTT CONNECT failed: read tcp 192.168.0.102:53055->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2492,false,296.300900,MQTT CONNECT failed: read tcp 192.168.0.102:53056->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2493,false,300.275100,MQTT CONNECT failed: read tcp 192.168.0.102:53057->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2494,false,296.969300,MQTT CONNECT failed: read tcp 192.168.0.102:53058->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2495,false,298.113400,MQTT CONNECT failed: read tcp 192.168.0.102:53059->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2496,false,299.444200,MQTT CONNECT failed: read tcp 192.168.0.102:53060->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2497,false,296.512500,MQTT CONNECT failed: EOF
+2498,false,299.991800,MQTT CONNECT failed: read tcp 192.168.0.102:53062->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
+2499,false,298.193600,MQTT CONNECT failed: read tcp 192.168.0.102:53063->3.149.235.134:1883: wsarecv: An existing connection was forcibly closed by the remote host.
