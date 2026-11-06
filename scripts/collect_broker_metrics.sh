@@ -1,64 +1,104 @@
-#!/usr/bin/env bash
-set -euo pipefail
+#!/bin/bash
 
-# Lightweight broker-side metrics collection using tools already installed in the benchmark AMI.
-# Usage:
-#   EMQX:      ./collect_broker_metrics.sh emqx 90 1 ~/metrics/emqx-run-01
-#   Mosquitto: ./collect_broker_metrics.sh mosquitto 90 1 ~/metrics/mosquitto-run-01
+DURATION=${1:-90}
+INTERVAL=1
+OUTDIR=${2:-"$HOME/tcc-metrics/run-$(date -u +%Y%m%dT%H%M%SZ)"}
 
-BROKER="${1:-}"
-DURATION="${2:-90}"
-INTERVAL="${3:-1}"
-OUT="${4:-$HOME/tcc-metrics/$(date -u +%Y%m%dT%H%M%SZ)}"
+mkdir -p "$OUTDIR"
 
-if [[ "$BROKER" != "emqx" && "$BROKER" != "mosquitto" ]]; then
-  echo "Usage: $0 <emqx|mosquitto> [duration_seconds] [interval_seconds] [output_dir]" >&2
-  exit 2
-fi
+echo "Coletando métricas por ${DURATION}s em:"
+echo "$OUTDIR"
 
-mkdir -p "$OUT"
-COUNT=$(( DURATION / INTERVAL ))
-if (( COUNT < 1 )); then COUNT=1; fi
+echo "started_at_utc=$(date -u --iso-8601=seconds)" > "$OUTDIR/metadata.txt"
+echo "hostname=$(hostname)" >> "$OUTDIR/metadata.txt"
+echo "duration_seconds=$DURATION" >> "$OUTDIR/metadata.txt"
+echo "kernel=$(uname -r)" >> "$OUTDIR/metadata.txt"
 
-if [[ "$BROKER" == "emqx" ]]; then
-  PROCESS_PATTERN="beam.smp"
-  SERVICE="emqx"
+# ---------------------------------------------------------
+# Identifica broker e PID principal através do systemd
+# ---------------------------------------------------------
+
+if systemctl is-active --quiet emqx; then
+    BROKER="emqx"
+    BROKER_PID=$(systemctl show -p MainPID --value emqx)
+elif systemctl is-active --quiet mosquitto; then
+    BROKER="mosquitto"
+    BROKER_PID=$(systemctl show -p MainPID --value mosquitto)
 else
-  PROCESS_PATTERN="mosquitto"
-  SERVICE="mosquitto"
+    echo "ERRO: nenhum broker suportado está ativo."
+    exit 1
 fi
 
-{
-  echo "timestamp_utc=$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-  echo "broker=$BROKER"
-  echo "hostname=$(hostname)"
-  echo "duration_seconds=$DURATION"
-  echo "interval_seconds=$INTERVAL"
-  echo "kernel=$(uname -r)"
-  echo "service=$SERVICE"
-  systemctl is-active "$SERVICE" || true
-  systemctl status "$SERVICE" --no-pager || true
-} > "$OUT/metadata.txt"
+echo "broker=$BROKER" >> "$OUTDIR/metadata.txt"
+echo "broker_pid=$BROKER_PID" >> "$OUTDIR/metadata.txt"
 
-# System CPU, memory and network statistics.
-sar -u "$INTERVAL" "$COUNT" > "$OUT/sar_cpu.txt" & P1=$!
-sar -r "$INTERVAL" "$COUNT" > "$OUT/sar_memory.txt" & P2=$!
-sar -n DEV "$INTERVAL" "$COUNT" > "$OUT/sar_network.txt" & P3=$!
+echo "Broker detectado: $BROKER"
+echo "PID: $BROKER_PID"
 
-# Broker process CPU/RSS/faults. EMQX runs mainly inside the Erlang beam.smp process.
-pidstat -u -r -h -C "$PROCESS_PATTERN" "$INTERVAL" "$COUNT" > "$OUT/pidstat_broker.txt" & P4=$!
+# ---------------------------------------------------------
+# CPU total da EC2
+# ---------------------------------------------------------
 
-# Established TCP connections whose local port is 1883.
+sar -u "$INTERVAL" "$DURATION" \
+    > "$OUTDIR/cpu.txt" &
+PID_CPU=$!
+
+# ---------------------------------------------------------
+# Memória total da EC2
+# ---------------------------------------------------------
+
+sar -r "$INTERVAL" "$DURATION" \
+    > "$OUTDIR/memory.txt" &
+PID_MEM=$!
+
+# ---------------------------------------------------------
+# Rede
+# ---------------------------------------------------------
+
+sar -n DEV "$INTERVAL" "$DURATION" \
+    > "$OUTDIR/network.txt" &
+PID_NET=$!
+
+# ---------------------------------------------------------
+# CPU e memória do processo principal do broker
+# ---------------------------------------------------------
+
+pidstat -u -r -p "$BROKER_PID" "$INTERVAL" "$DURATION" \
+    > "$OUTDIR/process.txt" &
+PID_PROCESS=$!
+
+# ---------------------------------------------------------
+# Número de conexões MQTT estabelecidas
+# ---------------------------------------------------------
+
 (
-  echo "timestamp_utc,connections_1883"
-  for ((i=0; i<COUNT; i++)); do
-    TS=$(date -u +%Y-%m-%dT%H:%M:%S.%3NZ)
-    N=$(ss -Htn state established | awk '$4 ~ /:1883$/ {n++} END {print n+0}')
-    echo "$TS,$N"
-    sleep "$INTERVAL"
-  done
-) > "$OUT/connections.csv" & P5=$!
+    echo "timestamp_utc,connections"
 
-wait "$P1" "$P2" "$P3" "$P4" "$P5"
+    for ((i=0; i<DURATION; i++)); do
+        TS=$(date -u +"%Y-%m-%dT%H:%M:%S.%3NZ")
 
-echo "Metrics saved to: $OUT"
+        COUNT=$(ss -tan state established \
+            '( sport = :1883 )' \
+            | tail -n +2 \
+            | wc -l)
+
+        echo "$TS,$COUNT"
+
+        sleep "$INTERVAL"
+    done
+) > "$OUTDIR/connections.csv" &
+PID_CONN=$!
+
+wait "$PID_CPU"
+wait "$PID_MEM"
+wait "$PID_NET"
+wait "$PID_PROCESS"
+wait "$PID_CONN"
+
+echo "finished_at_utc=$(date -u --iso-8601=seconds)" \
+    >> "$OUTDIR/metadata.txt"
+
+echo
+echo "Coleta concluída."
+echo "Resultados:"
+echo "$OUTDIR"

@@ -2,7 +2,6 @@
 *.log
 *.pem
 .env
-mqttbench
 mqttbench.exe
 
 # Config local/sensível
@@ -11,6 +10,7 @@ mqttbench.conf
 # Dados brutos grandes
 results/**/messages.csv
 results/**/messages.csv.gz
+results/
 
 # IDE
 .vscode/
