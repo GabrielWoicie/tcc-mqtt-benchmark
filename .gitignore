@@ -1,8 +1,8 @@
-*.exe
+#*.exe
 *.log
 *.pem
 .env
-mqttbench.exe
+#mqttbench.exe
 
 # Config local/sensível
 mqttbench.conf
