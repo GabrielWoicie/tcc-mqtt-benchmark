@@ -39,8 +39,8 @@ Teste a ajuda:
 
 ## Configuração por arquivo (recomendado)
 
-Edite [`mqttbench.conf`](mqttbench.conf), que explica cada parâmetro em comentários.
-Substitua `IP_PUBLICO_EMQX` pelo IP do broker e ajuste os valores. Depois, na pasta
+Copie [`mqttbench copy.example`](mqttbench%20copy.example) para `mqttbench.conf` e edite a cópia.
+Preencha o endereço do broker e ajuste os demais valores. Depois, na pasta
 do projeto, execute:
 
 ```powershell
