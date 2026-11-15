@@ -1,8 +1,12 @@
 # Plano experimental inicial — TCC MQTT
 
+Este plano define os critérios da etapa pela Internet. A matriz executada,
+os ensaios complementares na AWS e seus resultados estão documentados no
+[índice de experimentos](experimentos-tcc.md).
+
 ## Arquitetura
 
-- Gerador de carga: computador local do pesquisador.
+- Gerador de carga: computador Windows local.
 - Broker EMQX: EC2 `tcc-emqx`.
 - Broker Mosquitto: EC2 `tcc-mosquitto`.
 - Ambas as EC2 derivadas da mesma AMI e com a mesma configuração de hardware e sistema operacional.
@@ -16,7 +20,7 @@
 - Média, mínimo, máximo, p50, p95 e p99 da latência.
 - Throughput efetivo de publicação e recebimento (mensagens/s).
 - Taxa de entrega.
-- Mensagens perdidas.
+- Mensagens não observadas pelo coletor durante a execução.
 - Duplicatas observadas.
 
 ### 2. Consumo de recursos
@@ -63,7 +67,7 @@ Antes da matriz final, executar em cada broker:
 | 100 | 1 | 1 msg/s | 256 B | 10 s | 60 s |
 | 100 | 2 | 1 msg/s | 256 B | 10 s | 60 s |
 
-A fase piloto serve para validar o simulador, a coleta de recursos e o procedimento. A matriz final será definida depois de observar onde começam a aparecer diferenças relevantes e limites do gerador/broker.
+A fase piloto valida o simulador, a coleta de recursos e o procedimento antes da matriz oficial. A matriz consolidada usa C100/C500/C1000 em mensagens com QoS 1, C500 com QoS 0/1/2 e C500/C1000/C2500 no modo de conexões, com três repetições por condição e broker.
 
 ## Observação sobre latência
 

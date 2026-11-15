@@ -1,0 +1,7 @@
+started_at_utc=2026-11-07T03:44:06+00:00
+hostname=ip-172-31-12-115
+duration_seconds=200
+kernel=7.0.0-1014-aws
+broker=emqx
+broker_pid=559
+finished_at_utc=2026-11-07T03:47:34+00:00

@@ -10,7 +10,7 @@ mqttbench.conf
 # Dados brutos grandes
 results/**/messages.csv
 results/**/messages.csv.gz
-results/
+# Resumos, configurações efetivas e connections.csv podem ser versionados.
 
 # IDE
 .vscode/

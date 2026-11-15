@@ -1,0 +1,1447 @@
+Linux 7.0.0-1014-aws (tcc-mosquitto) 	11/07/26 	_x86_64_	(2 CPU)
+
+13:47:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:35      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:47:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:35      111       573      0.00      0.00   21464    9200   0.47  mosquitto
+
+13:47:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:36      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:47:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:36      111       573     41.00      0.00   21596    9328   0.48  mosquitto
+
+13:47:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:37      111       573    0.00    2.00    0.00    1.00    2.00     0  mosquitto
+
+13:47:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:37      111       573    123.00      0.00   22124    9712   0.50  mosquitto
+
+13:47:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:38      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:47:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:38      111       573    124.00      0.00   22652   10352   0.53  mosquitto
+
+13:47:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:39      111       573    1.00    2.00    0.00    0.00    3.00     0  mosquitto
+
+13:47:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:39      111       573    124.00      0.00   23048   10736   0.55  mosquitto
+
+13:47:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:40      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:47:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:40      111       573    125.00      0.00   23576   11376   0.58  mosquitto
+
+13:47:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:41      111       573    1.00    1.00    0.00    0.00    2.00     1  mosquitto
+
+13:47:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:41      111       573    124.00      0.00   24104   11888   0.61  mosquitto
+
+13:47:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:42      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:47:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:42      111       573    125.00      0.00   24632   12272   0.63  mosquitto
+
+13:47:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:43      111       573    1.00    1.00    0.00    0.00    2.00     0  mosquitto
+
+13:47:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:43      111       573    120.00      0.00   25028   12656   0.65  mosquitto
+
+13:47:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:44      111       573    1.00    2.00    0.00    0.00    3.00     1  mosquitto
+
+13:47:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:44      111       573    124.00      0.00   25560   13168   0.67  mosquitto
+
+13:47:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:45      111       573    0.00    2.00    0.00    0.00    2.00     0  mosquitto
+
+13:47:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:45      111       573    124.00      0.00   26088   13680   0.70  mosquitto
+
+13:47:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:46      111       573    0.00    1.00    0.00    0.00    1.00     0  mosquitto
+
+13:47:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:46      111       573    124.00      0.00   26616   14320   0.73  mosquitto
+
+13:47:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:47      111       573    1.00    2.00    0.00    0.00    3.00     0  mosquitto
+
+13:47:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:47      111       573    125.00      0.00   27012   14704   0.75  mosquitto
+
+13:47:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:48      111       573    0.00    2.00    0.00    1.00    2.00     0  mosquitto
+
+13:47:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:48      111       573    124.00      0.00   27540   15216   0.78  mosquitto
+
+13:47:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:49      111       573    1.00    2.00    0.00    0.00    3.00     1  mosquitto
+
+13:47:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:49      111       573    114.00      0.00   28068   15728   0.81  mosquitto
+
+13:47:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:50      111       573    1.00    2.00    0.00    0.00    3.00     1  mosquitto
+
+13:47:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:50      111       573    125.00      0.00   28464   16240   0.83  mosquitto
+
+13:47:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:51      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:47:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:51      111       573    126.00      0.00   28992   16624   0.85  mosquitto
+
+13:47:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:52      111       573    1.00    2.00    0.00    0.00    3.00     0  mosquitto
+
+13:47:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:52      111       573    124.00      0.00   29520   17136   0.88  mosquitto
+
+13:47:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:53      111       573    0.00    1.00    0.00    0.00    1.00     0  mosquitto
+
+13:47:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:53      111       573    124.00      0.00   30048   17648   0.90  mosquitto
+
+13:47:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:54      111       573    1.00    1.00    0.00    0.00    2.00     0  mosquitto
+
+13:47:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:54      111       573    124.00      0.00   30576   18160   0.93  mosquitto
+
+13:47:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:55      111       573    1.00    2.00    0.00    0.00    3.00     1  mosquitto
+
+13:47:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:55      111       573    124.00      0.00   30972   18800   0.96  mosquitto
+
+13:47:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:56      111       573    0.00    1.00    0.00    0.00    1.00     0  mosquitto
+
+13:47:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:56      111       573    125.00      0.00   31500   19184   0.98  mosquitto
+
+13:47:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:57      111       573    1.00    2.00    0.00    0.00    3.00     0  mosquitto
+
+13:47:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:57      111       573    124.00      0.00   32028   19568   1.00  mosquitto
+
+13:47:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:58      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:47:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:58      111       573    124.00      0.00   32556   20080   1.03  mosquitto
+
+13:47:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:47:59      111       573    1.00    1.00    0.00    0.00    2.00     0  mosquitto
+
+13:47:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:47:59      111       573    126.00      0.00   32952   20592   1.06  mosquitto
+
+13:47:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:00      111       573    1.00    4.00    0.00    1.00    5.00     1  mosquitto
+
+13:47:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:00      111       573    125.00      0.00   33480   21232   1.09  mosquitto
+
+13:48:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:01      111       573    1.00    1.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:01      111       573    117.00      0.00   34016   21616   1.11  mosquitto
+
+13:48:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:02      111       573    3.00    6.00    0.00    0.00    9.00     1  mosquitto
+
+13:48:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:02      111       573    109.00      0.00   34412   22128   1.13  mosquitto
+
+13:48:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:03      111       573    1.00    4.00    0.00    0.00    5.00     1  mosquitto
+
+13:48:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:03      111       573    125.00      0.00   34940   22512   1.15  mosquitto
+
+13:48:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:04      111       573    1.00    1.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:04      111       573    124.00      0.00   35468   23024   1.18  mosquitto
+
+13:48:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:05      111       573    1.00    2.00    0.00    0.00    3.00     1  mosquitto
+
+13:48:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:05      111       573    124.00      0.00   35864   23536   1.21  mosquitto
+
+13:48:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:06      111       573    0.00    1.00    0.00    0.00    1.00     1  mosquitto
+
+13:48:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:06      111       573    124.00      0.00   36392   24176   1.24  mosquitto
+
+13:48:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:07      111       573    1.00    1.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:07      111       573    126.00      0.00   36920   24560   1.26  mosquitto
+
+13:48:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:08      111       573    1.00    2.00    0.00    0.00    3.00     1  mosquitto
+
+13:48:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:08      111       573    124.00      0.00   37448   25072   1.28  mosquitto
+
+13:48:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:09      111       573    1.00    2.00    0.00    0.00    3.00     0  mosquitto
+
+13:48:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:09      111       573    123.00      0.00   37844   25584   1.31  mosquitto
+
+13:48:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:10      111       573    2.00    2.00    0.00    0.00    4.00     1  mosquitto
+
+13:48:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:10      111       573    124.00      0.00   38372   26096   1.34  mosquitto
+
+13:48:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:11      111       573    0.00    3.00    0.00    1.00    3.00     1  mosquitto
+
+13:48:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:11      111       573    124.00      0.00   38900   26608   1.36  mosquitto
+
+13:48:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:12      111       573    1.00    2.00    0.00    0.00    3.00     1  mosquitto
+
+13:48:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:12      111       573    125.00      0.00   39428   26992   1.38  mosquitto
+
+13:48:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:13      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:13      111       573    125.00      0.00   39824   27632   1.42  mosquitto
+
+13:48:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:14      111       573    1.00    1.00    0.00    0.00    2.00     0  mosquitto
+
+13:48:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:14      111       573    123.00      0.00   40352   28144   1.44  mosquitto
+
+13:48:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:15      111       573    1.00    2.00    0.00    0.00    3.00     0  mosquitto
+
+13:48:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:15      111       573    125.00      0.00   40880   28528   1.46  mosquitto
+
+13:48:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:16      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:16      111       573    125.00      0.00   41408   29040   1.49  mosquitto
+
+13:48:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:17      111       573    0.00    2.00    0.00    0.00    2.00     0  mosquitto
+
+13:48:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:17      111       573    124.00      0.00   41936   29552   1.51  mosquitto
+
+13:48:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:18      111       573    2.00    1.00    0.00    1.00    3.00     1  mosquitto
+
+13:48:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:18      111       573    124.00      0.00   42332   30064   1.54  mosquitto
+
+13:48:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:19      111       573    1.00    1.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:19      111       573    128.00      0.00   42860   30576   1.57  mosquitto
+
+13:48:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:20      111       573    0.00    2.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:20      111       573    125.00      0.00   43388   31088   1.59  mosquitto
+
+13:48:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:21      111       573    1.00    1.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:21      111       573    128.00      0.00   43940   31472   1.61  mosquitto
+
+13:48:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:22      111       573    1.00    2.00    0.00    0.00    3.00     0  mosquitto
+
+13:48:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:22      111       573    124.00      0.00   44336   31984   1.64  mosquitto
+
+13:48:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:23      111       573    0.00    2.00    0.00    0.00    2.00     0  mosquitto
+
+13:48:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:23      111       573    124.00      0.00   44864   32496   1.66  mosquitto
+
+13:48:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:24      111       573    0.00    1.00    0.00    0.00    1.00     1  mosquitto
+
+13:48:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:24      111       573    105.00      0.00   45260   33008   1.69  mosquitto
+
+13:48:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:25      111       573    0.00    1.00    0.00    0.00    1.00     0  mosquitto
+
+13:48:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:25      111       573     83.00      0.00   45656   33392   1.71  mosquitto
+
+13:48:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:26      111       573    1.00    1.00    0.00    0.00    2.00     1  mosquitto
+
+13:48:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:26      111       573    124.00      0.00   46184   33776   1.73  mosquitto
+
+13:48:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:27      111       573    5.00   10.00    0.00    0.00   15.00     0  mosquitto
+
+13:48:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:27      111       573     75.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:28      111       573   10.00   14.00    0.00    1.00   24.00     1  mosquitto
+
+13:48:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:28      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:29      111       573    7.00   15.00    0.00    1.00   22.00     0  mosquitto
+
+13:48:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:29      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:30      111       573    9.00   16.00    0.00    0.00   25.00     0  mosquitto
+
+13:48:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:30      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:31      111       573    9.00   15.00    0.00    0.00   24.00     1  mosquitto
+
+13:48:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:31      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:32      111       573    7.00   14.00    0.00    1.00   21.00     0  mosquitto
+
+13:48:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:32      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:33      111       573    9.00   15.00    0.00    0.00   24.00     1  mosquitto
+
+13:48:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:33      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:34      111       573    9.00   14.00    0.00    1.00   23.00     1  mosquitto
+
+13:48:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:34      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:35      111       573    9.00   16.00    0.00    0.00   25.00     1  mosquitto
+
+13:48:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:35      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:36      111       573    9.00   17.00    0.00    0.00   26.00     0  mosquitto
+
+13:48:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:36      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:37      111       573    6.00   17.00    0.00    1.00   23.00     1  mosquitto
+
+13:48:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:37      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:38      111       573   10.00   16.00    0.00    1.00   26.00     0  mosquitto
+
+13:48:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:38      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:39      111       573    8.00   16.00    0.00    0.00   24.00     0  mosquitto
+
+13:48:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:39      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:40      111       573    7.00   19.00    0.00    1.00   26.00     0  mosquitto
+
+13:48:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:40      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:41      111       573   11.00   16.00    0.00    0.00   27.00     0  mosquitto
+
+13:48:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:41      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:42      111       573    8.00   18.00    0.00    1.00   26.00     0  mosquitto
+
+13:48:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:42      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:43      111       573    9.00   18.00    0.00    0.00   27.00     0  mosquitto
+
+13:48:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:43      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:44      111       573   10.00   16.00    0.00    1.00   26.00     0  mosquitto
+
+13:48:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:44      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:45      111       573    8.00   18.00    0.00    1.00   26.00     1  mosquitto
+
+13:48:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:45      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:46      111       573    9.00   20.00    0.00    0.00   29.00     1  mosquitto
+
+13:48:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:46      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:47      111       573    7.00   15.00    0.00    1.00   22.00     1  mosquitto
+
+13:48:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:47      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:48      111       573   10.00   13.00    0.00    0.00   23.00     0  mosquitto
+
+13:48:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:48      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:49      111       573    7.00   16.00    0.00    1.00   23.00     0  mosquitto
+
+13:48:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:49      111       573      0.00      0.00   46448   34032   1.74  mosquitto
+
+13:48:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:50      111       573   12.00   18.00    0.00    1.00   30.00     0  mosquitto
+
+13:48:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:50      111       573     12.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:51      111       573    8.00   17.00    0.00    0.00   25.00     0  mosquitto
+
+13:48:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:51      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:52      111       573    9.00   15.00    0.00    1.00   24.00     0  mosquitto
+
+13:48:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:52      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:53      111       573   10.00   14.00    0.00    0.00   24.00     0  mosquitto
+
+13:48:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:53      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:54      111       573    8.00   16.00    0.00    1.00   24.00     0  mosquitto
+
+13:48:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:54      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:55      111       573    8.00   18.00    0.00    1.00   26.00     0  mosquitto
+
+13:48:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:55      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:56      111       573    8.00   16.00    0.00    0.00   24.00     0  mosquitto
+
+13:48:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:56      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:57      111       573    9.00   14.00    0.00    1.00   23.00     0  mosquitto
+
+13:48:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:57      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:58      111       573    8.00   18.00    0.00    0.00   26.00     1  mosquitto
+
+13:48:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:58      111       573      0.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:48:59      111       573   12.00   21.00    0.00    1.00   33.00     0  mosquitto
+
+13:48:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:48:59      111       573      8.00      0.00   46448   34160   1.75  mosquitto
+
+13:48:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:00      111       573   15.00   27.00    0.00    1.00   42.00     1  mosquitto
+
+13:48:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:00      111       573     23.00      0.00   46580   34288   1.76  mosquitto
+
+13:49:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:01      111       573   11.00   20.00    0.00    2.00   31.00     1  mosquitto
+
+13:49:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:01      111       573      0.00      0.00   46580   34288   1.76  mosquitto
+
+13:49:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:02      111       573   26.00   52.00    0.00    4.00   78.00     0  mosquitto
+
+13:49:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:02      111       573     18.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:03      111       573   14.00   29.00    0.00    1.00   43.00     1  mosquitto
+
+13:49:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:03      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:04      111       573   12.00   15.00    0.00    0.00   27.00     0  mosquitto
+
+13:49:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:04      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:05      111       573   12.00   15.00    0.00    1.00   27.00     1  mosquitto
+
+13:49:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:05      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:06      111       573   10.00   18.00    0.00    1.00   28.00     0  mosquitto
+
+13:49:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:06      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:07      111       573    8.91   16.83    0.00    0.00   25.74     0  mosquitto
+
+13:49:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:07      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:08      111       573    7.00   20.00    0.00    1.00   27.00     0  mosquitto
+
+13:49:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:08      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:09      111       573   12.00   16.00    0.00    0.00   28.00     0  mosquitto
+
+13:49:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:09      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:10      111       573    8.00   18.00    0.00    1.00   26.00     0  mosquitto
+
+13:49:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:10      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:11      111       573    9.00   17.00    0.00    1.00   26.00     1  mosquitto
+
+13:49:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:11      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:12      111       573    7.00   16.00    0.00    0.00   23.00     1  mosquitto
+
+13:49:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:12      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:13      111       573   11.00   15.00    0.00    1.00   26.00     0  mosquitto
+
+13:49:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:13      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:14      111       573   10.00   19.00    0.00    1.00   29.00     1  mosquitto
+
+13:49:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:14      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:15      111       573    9.00   17.00    0.00    0.00   26.00     1  mosquitto
+
+13:49:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:15      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:16      111       573   10.00   16.00    0.00    1.00   26.00     0  mosquitto
+
+13:49:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:16      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:17      111       573   10.00   14.00    0.00    0.00   24.00     1  mosquitto
+
+13:49:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:17      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:18      111       573   10.00   16.00    0.00    1.00   26.00     1  mosquitto
+
+13:49:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:18      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:19      111       573   13.00   26.00    0.00    1.00   39.00     0  mosquitto
+
+13:49:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:19      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:20      111       573   14.00   30.00    0.00    1.00   44.00     0  mosquitto
+
+13:49:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:20      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:21      111       573    8.00   16.00    0.00    1.00   24.00     1  mosquitto
+
+13:49:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:21      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:22      111       573    8.00   17.00    0.00    1.00   25.00     1  mosquitto
+
+13:49:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:22      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:23      111       573   10.00   20.00    0.00    0.00   30.00     1  mosquitto
+
+13:49:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:23      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:24      111       573    9.00   17.00    0.00    1.00   26.00     0  mosquitto
+
+13:49:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:24      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:25      111       573    9.00   18.00    0.00    1.00   27.00     1  mosquitto
+
+13:49:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:25      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:26      111       573   10.00   18.00    0.00    0.00   28.00     0  mosquitto
+
+13:49:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:26      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:27      111       573    8.00   17.00    0.00    1.00   25.00     0  mosquitto
+
+13:49:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:27      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:28      111       573   10.00   16.00    0.00    1.00   26.00     1  mosquitto
+
+13:49:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:28      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:29      111       573    8.00   16.00    0.00    0.00   24.00     1  mosquitto
+
+13:49:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:29      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:30      111       573   12.00   22.00    0.00    1.00   34.00     1  mosquitto
+
+13:49:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:30      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:31      111       573   10.00   17.00    0.00    1.00   27.00     1  mosquitto
+
+13:49:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:31      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:32      111       573    9.00   16.00    0.00    0.00   25.00     0  mosquitto
+
+13:49:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:32      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:33      111       573    8.00   16.00    0.00    0.00   24.00     1  mosquitto
+
+13:49:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:33      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:34      111       573    7.00   15.00    0.00    1.00   22.00     0  mosquitto
+
+13:49:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:34      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:35      111       573    6.00   17.00    0.00    0.00   23.00     0  mosquitto
+
+13:49:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:35      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:36      111       573   10.00   21.00    0.00    1.00   31.00     0  mosquitto
+
+13:49:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:36      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:37      111       573    6.00    9.00    0.00    1.00   15.00     0  mosquitto
+
+13:49:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:37      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:38      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:38      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:39      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:39      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:40      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:40      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:41      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:41      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:42      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:42      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:43      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:43      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:44      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:44      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:45      111       573    0.00    1.00    0.00    0.00    1.00     0  mosquitto
+
+13:49:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:45      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:46      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:46      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:47      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:47      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:48      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:48      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:49      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:49      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:50      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:50      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:51      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:51      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:52      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:52      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:53      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:49:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:53      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:54      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:54      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:55      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:55      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:56      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:56      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:57      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:57      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:58      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:58      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:49:59      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:49:59      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:49:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:00      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:49:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:00      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:01      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:01      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:02      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:02      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:03      111       573    1.00    0.00    0.00    0.00    1.00     1  mosquitto
+
+13:50:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:03      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:04      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:04      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:05      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:05      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:06      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:06      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:07      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:07      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:08      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:08      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:09      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:09      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:10      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:10      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:11      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:11      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:12      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:12      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:13      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:13      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:14      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:14      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:15      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:15      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:16      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:16      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:17      111       573    0.00    1.00    0.00    0.00    1.00     0  mosquitto
+
+13:50:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:17      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:18      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:18      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:19      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:19      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:20      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:20      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:21      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:21      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:22      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:22      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:23      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:23      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:24      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:24      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:25      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:25      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:26      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:26      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:27      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:27      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:28      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:28      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:29      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:29      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:30      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:30      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:31      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:31      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:32      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:32      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:33      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:33      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:34      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:34      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:35      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:35      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:36      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:36      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:37      111       573    2.00   10.00    0.00    0.00   12.00     0  mosquitto
+
+13:50:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:37      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:38      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:38      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:39      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:39      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:40      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:40      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:41      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:41      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:42      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:42      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:43      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:43      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:44      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:44      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:45      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:45      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:46      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:46      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:47      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:47      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:48      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:48      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:49      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:49      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:50      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:50      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:51      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:51      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:52      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:52      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:53      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:53      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:54      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:54      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:55      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:55      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:56      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:56      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:57      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:57      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:58      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:58      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:50:59      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:50:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:50:59      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:50:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:00      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:50:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:00      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:01      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:01      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:02      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:02      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:03      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:03      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:04      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:04      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:05      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:05      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:06      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:06      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:07      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:07      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:08      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:08      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:09      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:09      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:10      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:10      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:11      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:11      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:12      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:12      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:13      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:13      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:14      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:14      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:15      111       573    0.00    1.00    0.00    0.00    1.00     1  mosquitto
+
+13:51:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:15      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:16      111       573    1.00    0.00    0.00    0.00    1.00     1  mosquitto
+
+13:51:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:16      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:17      111       573    0.00    0.00    0.00    0.00    0.00     1  mosquitto
+
+13:51:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:17      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:18      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:18      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:19      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:19      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:20      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:20      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:21      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:21      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:22      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:22      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:23      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:23      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:24      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:24      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:25      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:25      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:26      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:26      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:27      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:27      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:28      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:28      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:29      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:29      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:30      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:30      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:31      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:31      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:32      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:32      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:33      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:33      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+13:51:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:51:34      111       573    0.00    0.00    0.00    0.00    0.00     0  mosquitto
+
+13:51:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:51:34      111       573      0.00      0.00   46712   34416   1.76  mosquitto
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:      111       573    2.96    5.65    0.00    0.22    8.61     -  mosquitto
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:      111       573     26.26      0.00   43860   31545   1.62  mosquitto

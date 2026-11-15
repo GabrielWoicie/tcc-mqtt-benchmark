@@ -1,0 +1,32 @@
+{
+  "scenario_id": "STRESS-CONN-EMQX-C15000-R1",
+  "repetition": 1,
+  "publish_pattern": "",
+  "tool_version": "0.3.0",
+  "mode": "connections",
+  "broker_name": "emqx",
+  "broker_url": "mqtt://172.31.12.115:1883",
+  "mqtt_version": "5.0",
+  "clients_requested": 15000,
+  "clients_connected": 15000,
+  "connection_failures": 0,
+  "requested_connect_rate_per_s": 100,
+  "actual_successful_connect_rate_per_s": 98.25504718163783,
+  "connection_window_seconds": 152.663913257,
+  "hold_seconds": 60,
+  "connection_latency": {
+    "count": 15000,
+    "min_ms": 0.925413,
+    "avg_ms": 1.604626,
+    "p50_ms": 1.382156,
+    "p95_ms": 3.15323,
+    "p99_ms": 4.515826,
+    "max_ms": 42.177992
+  },
+  "started_at_utc": "2026-11-06T18:54:10.592525499Z",
+  "finished_at_utc": "2026-11-06T18:57:43.695415567Z",
+  "generator_os": "linux",
+  "generator_arch": "amd64",
+  "go_version": "go1.26.4",
+  "result_directory": "results/STRESS-CONN-EMQX-C15000-R1_emqx_20261106T185410592289919Z"
+}

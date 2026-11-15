@@ -1,0 +1,5 @@
+# Preserve os bytes dos dados relacionados em docs/integridade-artefatos.csv.
+results/STRESS-MSG-*-AWS-*/* -text
+results/STRESS-CONN-*-C50000-*/* -text
+broker-metrics/** -text
+generator-metrics/** -text

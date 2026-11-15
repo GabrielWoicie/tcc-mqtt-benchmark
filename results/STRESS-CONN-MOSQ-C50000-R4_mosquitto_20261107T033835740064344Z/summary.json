@@ -1,0 +1,32 @@
+{
+  "scenario_id": "STRESS-CONN-MOSQ-C50000-R4",
+  "repetition": 1,
+  "publish_pattern": "",
+  "tool_version": "0.3.0",
+  "mode": "connections",
+  "broker_name": "mosquitto",
+  "broker_url": "mqtt://172.31.13.183:1883",
+  "mqtt_version": "5.0",
+  "clients_requested": 50000,
+  "clients_connected": 50000,
+  "connection_failures": 0,
+  "requested_connect_rate_per_s": 1000,
+  "actual_successful_connect_rate_per_s": 417.48005947350526,
+  "connection_window_seconds": 119.766199284,
+  "hold_seconds": 60,
+  "connection_latency": {
+    "count": 50000,
+    "min_ms": 0.358329,
+    "avg_ms": 24.611812,
+    "p50_ms": 0.891068,
+    "p95_ms": 91.435127,
+    "p99_ms": 158.515761,
+    "max_ms": 426.959372
+  },
+  "started_at_utc": "2026-11-07T03:38:35.740291476Z",
+  "finished_at_utc": "2026-11-07T03:41:37.08322404Z",
+  "generator_os": "linux",
+  "generator_arch": "amd64",
+  "go_version": "go1.26.4",
+  "result_directory": "results/STRESS-CONN-MOSQ-C50000-R4_mosquitto_20261107T033835740064344Z"
+}

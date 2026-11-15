@@ -1,0 +1,2 @@
+broker,qos,clients_connected,rate_per_client,payload_bytes,duration_s,publish_success,received_unique,lost,duplicates,delivery_rate_pct,publish_throughput_msg_s,receive_throughput_msg_s,latency_avg_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,latency_max_ms,tool_version,scenario_id,repetition,publish_pattern
+emqx,1,4031,1,256,60,241860,13599,228261,0,5.622674,4031.000000,226.650000,573.563021,354.026400,1847.247209,4333.227856,4906.876300,0.3.0,STRESS-MSG-EMQX-C5000-Q1-R1,1,staggered

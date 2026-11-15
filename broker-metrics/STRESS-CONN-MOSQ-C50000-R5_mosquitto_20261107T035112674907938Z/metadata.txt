@@ -1,0 +1,7 @@
+started_at_utc=2026-11-07T03:51:11+00:00
+hostname=tcc-mosquitto
+duration_seconds=200
+kernel=7.0.0-1014-aws
+broker=mosquitto
+broker_pid=578
+finished_at_utc=2026-11-07T03:54:43+00:00

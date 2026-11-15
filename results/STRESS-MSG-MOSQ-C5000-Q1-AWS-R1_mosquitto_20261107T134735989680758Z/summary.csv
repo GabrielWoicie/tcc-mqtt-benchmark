@@ -1,0 +1,2 @@
+broker,qos,clients_connected,rate_per_client,payload_bytes,duration_s,publish_success,received_unique,lost,duplicates,delivery_rate_pct,publish_throughput_msg_s,receive_throughput_msg_s,latency_avg_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,latency_max_ms,tool_version,scenario_id,repetition,publish_pattern
+mosquitto,1,5000,1,256,60,300000,300000,0,0,100.000000,5000.000000,5000.000000,0.842294,0.370434,0.743176,17.133193,79.434105,0.3.0,STRESS-MSG-MOSQ-C5000-Q1-AWS-R1,1,staggered

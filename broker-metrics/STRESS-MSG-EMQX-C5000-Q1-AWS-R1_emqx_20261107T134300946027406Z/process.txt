@@ -1,0 +1,1447 @@
+Linux 7.0.0-1014-aws (tcc-emqx-benchmark) 	11/07/26 	_x86_64_	(2 CPU)
+
+13:42:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:00      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:42:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:00      111       571      1.00      0.00 2383040  251060  12.86  beam.smp
+
+13:43:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:01      111       571   14.00    3.00    0.00    0.00   17.00     1  beam.smp
+
+13:43:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:01      111       571     35.00      0.00 2383552  251060  12.86  beam.smp
+
+13:43:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:02      111       571   42.00    8.00    0.00    0.00   50.00     1  beam.smp
+
+13:43:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:02      111       571    286.00      0.00 2388672  252084  12.92  beam.smp
+
+13:43:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:03      111       571   22.00    5.00    0.00    0.00   27.00     1  beam.smp
+
+13:43:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:03      111       571    437.00      0.00 2391232  253748  13.00  beam.smp
+
+13:43:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:04      111       571   11.00    2.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:04      111       571    463.00      0.00 2393280  255540  13.09  beam.smp
+
+13:43:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:05      111       571    8.00    2.00    0.00    0.00   10.00     1  beam.smp
+
+13:43:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:05      111       571    486.00      0.00 2394304  257460  13.19  beam.smp
+
+13:43:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:06      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:06      111       571    457.00      0.00 2402496  259252  13.28  beam.smp
+
+13:43:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:07      111       571    9.00    2.00    0.00    0.00   11.00     1  beam.smp
+
+13:43:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:07      111       571    484.00      0.00 2402496  261172  13.38  beam.smp
+
+13:43:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:08      111       571    7.00    2.00    0.00    0.00    9.00     1  beam.smp
+
+13:43:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:08      111       571    439.00      0.00 2403520  262836  13.47  beam.smp
+
+13:43:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:09      111       571    9.00    2.00    0.00    0.00   11.00     1  beam.smp
+
+13:43:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:09      111       571    442.00      0.00 2408640  264500  13.55  beam.smp
+
+13:43:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:10      111       571    9.00    1.00    0.00    0.00   10.00     1  beam.smp
+
+13:43:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:10      111       571    467.00      0.00 2408640  266292  13.64  beam.smp
+
+13:43:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:11      111       571    8.00    2.00    0.00    0.00   10.00     1  beam.smp
+
+13:43:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:11      111       571    492.00      0.00 2408640  268212  13.74  beam.smp
+
+13:43:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:12      111       571    7.92    1.98    0.00    0.00    9.90     1  beam.smp
+
+13:43:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:12      111       571    391.09      0.00 2414784  269748  13.82  beam.smp
+
+13:43:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:13      111       571    9.00    1.00    0.00    0.00   10.00     1  beam.smp
+
+13:43:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:13      111       571    451.00      0.00 2414784  271540  13.91  beam.smp
+
+13:43:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:14      111       571    7.00    2.00    0.00    0.00    9.00     1  beam.smp
+
+13:43:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:14      111       571    417.00      0.00 2414784  273204  14.00  beam.smp
+
+13:43:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:15      111       571   10.00    1.00    0.00    0.00   11.00     1  beam.smp
+
+13:43:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:15      111       571    409.00      0.00 2420928  274740  14.08  beam.smp
+
+13:43:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:16      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:16      111       571    561.00      0.00 2420928  276916  14.19  beam.smp
+
+13:43:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:17      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:17      111       571    568.00      0.00 2420928  279092  14.30  beam.smp
+
+13:43:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:18      111       571   10.00    3.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:18      111       571    170.00      0.00 2420928  279732  14.33  beam.smp
+
+13:43:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:19      111       571    7.00    6.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:19      111       571    149.00      0.00 2420928  280244  14.36  beam.smp
+
+13:43:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:20      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:20      111       571    232.00      0.00 2420928  281140  14.40  beam.smp
+
+13:43:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:21      111       571   12.00    1.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:21      111       571    473.00      0.00 2420928  282932  14.50  beam.smp
+
+13:43:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:22      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:22      111       571    300.00      0.00 2420928  284084  14.56  beam.smp
+
+13:43:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:23      111       571   10.00    1.00    0.00    0.00   11.00     1  beam.smp
+
+13:43:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:23      111       571    265.00      0.00 2420928  285108  14.61  beam.smp
+
+13:43:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:24      111       571    9.00    1.00    0.00    0.00   10.00     1  beam.smp
+
+13:43:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:24      111       571    235.00      0.00 2420928  286004  14.65  beam.smp
+
+13:43:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:25      111       571   12.00    2.00    0.00    0.00   14.00     1  beam.smp
+
+13:43:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:25      111       571    129.00      0.00 2420928  286388  14.67  beam.smp
+
+13:43:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:26      111       571    9.00    1.00    0.00    0.00   10.00     1  beam.smp
+
+13:43:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:26      111       571    459.00      0.00 2431168  288180  14.77  beam.smp
+
+13:43:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:27      111       571    9.00    1.00    0.00    0.00   10.00     1  beam.smp
+
+13:43:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:27      111       571    585.00      0.00 2431168  290484  14.88  beam.smp
+
+13:43:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:28      111       571   11.00    1.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:28      111       571    606.00      0.00 2431168  292916  15.01  beam.smp
+
+13:43:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:29      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:29      111       571    521.00      0.00 2437312  294964  15.11  beam.smp
+
+13:43:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:30      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:30      111       571    416.00      0.00 2437312  296500  15.19  beam.smp
+
+13:43:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:31      111       571   11.00    1.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:31      111       571    151.00      0.00 2437312  297012  15.22  beam.smp
+
+13:43:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:32      111       571   10.00    3.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:32      111       571    161.00      0.00 2437312  297652  15.25  beam.smp
+
+13:43:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:33      111       571    9.00    3.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:33      111       571    151.00      0.00 2437312  298164  15.28  beam.smp
+
+13:43:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:34      111       571   11.00    4.00    0.00    0.00   15.00     1  beam.smp
+
+13:43:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:34      111       571    157.00      0.00 2437312  298804  15.31  beam.smp
+
+13:43:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:35      111       571   11.00    2.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:35      111       571    156.00      0.00 2437312  299316  15.34  beam.smp
+
+13:43:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:36      111       571   11.00    2.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:36      111       571    152.00      0.00 2437312  299956  15.37  beam.smp
+
+13:43:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:37      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:37      111       571    598.00      0.00 2445504  302260  15.49  beam.smp
+
+13:43:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:38      111       571    9.00    2.00    0.00    0.00   11.00     1  beam.smp
+
+13:43:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:38      111       571    767.00      0.00 2445504  305332  15.64  beam.smp
+
+13:43:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:39      111       571   10.00    3.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:39      111       571    749.00      0.00 2445504  308276  15.79  beam.smp
+
+13:43:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:40      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:40      111       571    468.00      0.00 2445504  310068  15.89  beam.smp
+
+13:43:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:41      111       571   11.00    1.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:41      111       571    153.00      0.00 2445504  310580  15.91  beam.smp
+
+13:43:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:42      111       571   14.00    3.00    0.00    0.00   17.00     1  beam.smp
+
+13:43:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:42      111       571    726.00      0.00 2454720  313396  16.06  beam.smp
+
+13:43:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:43      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:43      111       571    757.00      0.00 2458816  316468  16.21  beam.smp
+
+13:43:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:44      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:43:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:44      111       571    697.00      0.00 2458816  319156  16.35  beam.smp
+
+13:43:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:45      111       571   12.00    2.00    0.00    0.00   14.00     1  beam.smp
+
+13:43:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:45      111       571    368.00      0.00 2462912  320564  16.42  beam.smp
+
+13:43:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:46      111       571   13.00    0.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:46      111       571    138.00      0.00 2462912  321076  16.45  beam.smp
+
+13:43:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:47      111       571   14.00    0.00    0.00    0.00   14.00     1  beam.smp
+
+13:43:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:47      111       571    133.00      0.00 2462912  321588  16.48  beam.smp
+
+13:43:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:48      111       571   14.00    0.00    0.00    0.00   14.00     1  beam.smp
+
+13:43:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:48      111       571    137.00      0.00 2462912  322100  16.50  beam.smp
+
+13:43:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:49      111       571   12.00    1.00    0.00    0.00   13.00     1  beam.smp
+
+13:43:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:49      111       571     72.00      0.00 2462912  322228  16.51  beam.smp
+
+13:43:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:50      111       571   10.00    1.00    0.00    0.00   11.00     1  beam.smp
+
+13:43:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:50      111       571     55.00      0.00 2462912  322484  16.52  beam.smp
+
+13:43:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:51      111       571   14.00    0.00    0.00    0.00   14.00     1  beam.smp
+
+13:43:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:51      111       571     90.00      0.00 2462912  322740  16.54  beam.smp
+
+13:43:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:52      111       571   92.00   32.00    0.00    0.00  124.00     1  beam.smp
+
+13:43:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:52      111       571   9899.00      0.00 2516672  362292  18.56  beam.smp
+
+13:43:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:53      111       571  100.00   43.00    0.00    0.00  143.00     1  beam.smp
+
+13:43:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:53      111       571  16368.00      0.00 2624192  427572  21.91  beam.smp
+
+13:43:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:54      111       571   95.00   39.00    0.00    0.00  134.00     1  beam.smp
+
+13:43:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:54      111       571   5270.00      0.00 2636480  448180  22.96  beam.smp
+
+13:43:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:55      111       571   98.00   40.00    0.00    0.00  138.00     1  beam.smp
+
+13:43:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:55      111       571   5478.00      0.00 2652864  469684  24.06  beam.smp
+
+13:43:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:56      111       571   95.00   42.00    0.00    0.00  137.00     1  beam.smp
+
+13:43:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:56      111       571   1739.00      0.00 2652864  476468  24.41  beam.smp
+
+13:43:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:57      111       571   92.00   40.00    0.00    0.00  132.00     1  beam.smp
+
+13:43:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:57      111       571    388.00      0.00 2652864  478132  24.50  beam.smp
+
+13:43:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:58      111       571   93.00   40.00    0.00    0.00  133.00     1  beam.smp
+
+13:43:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:58      111       571     81.00      0.00 2652864  478388  24.51  beam.smp
+
+13:43:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:43:59      111       571   93.00   41.00    0.00    0.00  134.00     1  beam.smp
+
+13:43:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:43:59      111       571     92.00      0.00 2652864  478772  24.53  beam.smp
+
+13:43:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:00      111       571  106.00   42.00    0.00    0.00  148.00     1  beam.smp
+
+13:43:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:00      111       571   1198.00      0.00 2659024  483356  24.77  beam.smp
+
+13:44:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:01      111       571  104.00   38.00    0.00    0.00  142.00     1  beam.smp
+
+13:44:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:01      111       571    199.00      0.00 2657388  482384  24.72  beam.smp
+
+13:44:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:02      111       571  135.00   44.00    0.00    0.00  179.00     1  beam.smp
+
+13:44:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:02      111       571   5679.00      0.00 2682328  501972  25.72  beam.smp
+
+13:44:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:03      111       571  106.00   40.00    0.00    0.00  146.00     1  beam.smp
+
+13:44:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:03      111       571    841.00      0.00 2681288  501800  25.71  beam.smp
+
+13:44:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:04      111       571   98.00   37.00    0.00    0.00  135.00     1  beam.smp
+
+13:44:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:04      111       571    549.00      0.00 2679500  502404  25.74  beam.smp
+
+13:44:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:05      111       571   92.00   38.00    0.00    0.00  130.00     1  beam.smp
+
+13:44:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:05      111       571    208.00      0.00 2675472  500624  25.65  beam.smp
+
+13:44:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:06      111       571   91.00   35.00    0.00    0.00  126.00     1  beam.smp
+
+13:44:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:06      111       571    137.00      0.00 2672608  498696  25.55  beam.smp
+
+13:44:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:07      111       571  105.00   31.00    0.00    0.00  136.00     1  beam.smp
+
+13:44:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:07      111       571    307.00      0.00 2672736  497976  25.51  beam.smp
+
+13:44:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:08      111       571   90.00   36.00    0.00    0.00  126.00     1  beam.smp
+
+13:44:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:08      111       571     97.00      0.00 2670592  496248  25.43  beam.smp
+
+13:44:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:09      111       571   90.00   33.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:09      111       571     79.00      0.00 2664080  495120  25.37  beam.smp
+
+13:44:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:10      111       571   89.00   34.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:10      111       571     66.00      0.00 2663104  494436  25.33  beam.smp
+
+13:44:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:11      111       571   88.00   34.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:11      111       571     69.00      0.00 2663104  494564  25.34  beam.smp
+
+13:44:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:12      111       571   83.00   37.00    0.00    0.00  120.00     1  beam.smp
+
+13:44:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:12      111       571     58.00      0.00 2663104  494820  25.35  beam.smp
+
+13:44:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:13      111       571   87.00   35.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:13      111       571     64.00      0.00 2663104  495204  25.37  beam.smp
+
+13:44:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:14      111       571   89.00   35.00    0.00    0.00  124.00     1  beam.smp
+
+13:44:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:14      111       571    114.00      0.00 2663692  495588  25.39  beam.smp
+
+13:44:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:15      111       571   87.13   36.63    0.00    0.00  123.76     1  beam.smp
+
+13:44:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:15      111       571     69.31      0.00 2663104  495844  25.41  beam.smp
+
+13:44:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:16      111       571   85.00   37.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:16      111       571    157.00      0.00 2665152  496356  25.43  beam.smp
+
+13:44:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:17      111       571   85.00   35.00    0.00    0.00  120.00     1  beam.smp
+
+13:44:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:17      111       571    256.00      0.00 2665152  497380  25.48  beam.smp
+
+13:44:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:18      111       571   90.00   32.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:18      111       571    173.00      0.00 2669248  498020  25.52  beam.smp
+
+13:44:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:19      111       571   85.00   36.00    0.00    0.00  121.00     1  beam.smp
+
+13:44:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:19      111       571    130.00      0.00 2669248  498660  25.55  beam.smp
+
+13:44:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:20      111       571   86.00   37.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:20      111       571    128.00      0.00 2669248  499044  25.57  beam.smp
+
+13:44:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:21      111       571   87.00   35.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:21      111       571    110.00      0.00 2669248  499428  25.59  beam.smp
+
+13:44:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:22      111       571   88.00   39.00    0.00    0.00  127.00     1  beam.smp
+
+13:44:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:22      111       571     99.00      0.00 2669248  499940  25.62  beam.smp
+
+13:44:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:23      111       571  104.00   31.00    0.00    0.00  135.00     1  beam.smp
+
+13:44:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:23      111       571    205.00      0.00 2669248  500708  25.65  beam.smp
+
+13:44:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:24      111       571   85.00   36.00    0.00    0.00  121.00     1  beam.smp
+
+13:44:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:24      111       571     88.00      0.00 2669248  501092  25.67  beam.smp
+
+13:44:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:25      111       571   84.00   37.00    0.00    0.00  121.00     1  beam.smp
+
+13:44:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:25      111       571    137.00      0.00 2669248  501604  25.70  beam.smp
+
+13:44:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:26      111       571   81.00   38.00    0.00    0.00  119.00     1  beam.smp
+
+13:44:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:26      111       571   2217.00      0.00 2677584  509668  26.11  beam.smp
+
+13:44:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:27      111       571   87.00   38.00    0.00    0.00  125.00     1  beam.smp
+
+13:44:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:27      111       571    484.00      0.00 2678028  511328  26.20  beam.smp
+
+13:44:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:28      111       571   89.00   37.00    0.00    0.00  126.00     1  beam.smp
+
+13:44:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:28      111       571    148.00      0.00 2677440  511668  26.22  beam.smp
+
+13:44:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:29      111       571   90.00   34.00    0.00    0.00  124.00     1  beam.smp
+
+13:44:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:29      111       571     66.00      0.00 2677440  511796  26.22  beam.smp
+
+13:44:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:30      111       571   84.00   39.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:30      111       571     82.00      0.00 2677440  512180  26.24  beam.smp
+
+13:44:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:31      111       571   83.00   38.00    0.00    0.00  121.00     1  beam.smp
+
+13:44:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:31      111       571     58.00      0.00 2677440  512308  26.25  beam.smp
+
+13:44:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:32      111       571   85.00   36.00    0.00    0.00  121.00     1  beam.smp
+
+13:44:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:32      111       571     62.00      0.00 2677440  512692  26.27  beam.smp
+
+13:44:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:33      111       571   88.00   35.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:33      111       571     60.00      0.00 2677440  512948  26.28  beam.smp
+
+13:44:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:34      111       571   85.00   36.00    0.00    0.00  121.00     1  beam.smp
+
+13:44:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:34      111       571     71.00      0.00 2677440  513204  26.29  beam.smp
+
+13:44:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:35      111       571   84.00   39.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:35      111       571     56.00      0.00 2677440  513460  26.31  beam.smp
+
+13:44:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:36      111       571   86.00   37.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:36      111       571     73.00      0.00 2677440  513716  26.32  beam.smp
+
+13:44:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:37      111       571   89.00   35.00    0.00    0.00  124.00     1  beam.smp
+
+13:44:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:37      111       571     74.00      0.00 2677440  513972  26.33  beam.smp
+
+13:44:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:38      111       571   89.00   37.00    0.00    0.00  126.00     1  beam.smp
+
+13:44:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:38      111       571     72.00      0.00 2677440  514228  26.35  beam.smp
+
+13:44:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:39      111       571  106.00   29.00    0.00    0.00  135.00     1  beam.smp
+
+13:44:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:39      111       571     92.00      0.00 2681536  514612  26.37  beam.smp
+
+13:44:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:40      111       571   90.00   39.00    0.00    0.00  129.00     1  beam.smp
+
+13:44:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:40      111       571     75.00      0.00 2681536  514996  26.39  beam.smp
+
+13:44:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:41      111       571   87.00   42.00    0.00    0.00  129.00     1  beam.smp
+
+13:44:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:41      111       571    144.00      0.00 2681536  515508  26.41  beam.smp
+
+13:44:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:42      111       571   94.00   39.00    0.00    0.00  133.00     1  beam.smp
+
+13:44:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:42      111       571    162.00      0.00 2681536  516148  26.45  beam.smp
+
+13:44:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:43      111       571   87.00   38.00    0.00    0.00  125.00     1  beam.smp
+
+13:44:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:43      111       571     94.00      0.00 2681536  516532  26.47  beam.smp
+
+13:44:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:44      111       571   83.00   39.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:44      111       571    234.00      0.00 2681536  517300  26.50  beam.smp
+
+13:44:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:45      111       571   91.00   39.00    0.00    0.00  130.00     1  beam.smp
+
+13:44:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:45      111       571    129.00      0.00 2681536  517940  26.54  beam.smp
+
+13:44:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:46      111       571   85.00   37.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:46      111       571     98.00      0.00 2681536  518324  26.56  beam.smp
+
+13:44:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:47      111       571   82.00   38.00    0.00    0.00  120.00     1  beam.smp
+
+13:44:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:47      111       571     62.00      0.00 2681536  518580  26.57  beam.smp
+
+13:44:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:48      111       571   85.00   37.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:48      111       571     73.00      0.00 2681536  518836  26.58  beam.smp
+
+13:44:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:49      111       571   89.00   37.00    0.00    0.00  126.00     1  beam.smp
+
+13:44:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:49      111       571     46.00      0.00 2681536  518964  26.59  beam.smp
+
+13:44:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:50      111       571   87.00   36.00    0.00    0.00  123.00     1  beam.smp
+
+13:44:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:50      111       571     65.00      0.00 2681536  519220  26.60  beam.smp
+
+13:44:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:51      111       571   89.00   35.00    0.00    0.00  124.00     1  beam.smp
+
+13:44:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:51      111       571     49.00      0.00 2681536  519604  26.62  beam.smp
+
+13:44:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:52      111       571   92.00   36.00    0.00    0.00  128.00     1  beam.smp
+
+13:44:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:52      111       571     81.00      0.00 2681536  519860  26.64  beam.smp
+
+13:44:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:53      111       571   86.00   36.00    0.00    0.00  122.00     1  beam.smp
+
+13:44:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:53      111       571     89.00      0.00 2681536  520116  26.65  beam.smp
+
+13:44:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:54      111       571   92.00   33.00    0.00    0.00  125.00     1  beam.smp
+
+13:44:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:54      111       571     96.00      0.00 2681536  520628  26.68  beam.smp
+
+13:44:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:55      111       571  100.00   33.00    0.00    0.00  133.00     1  beam.smp
+
+13:44:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:55      111       571    104.00      0.00 2681536  521012  26.69  beam.smp
+
+13:44:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:56      111       571   89.00   37.00    0.00    0.00  126.00     1  beam.smp
+
+13:44:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:56      111       571    128.00      0.00 2685632  521396  26.71  beam.smp
+
+13:44:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:57      111       571   91.00   34.00    0.00    0.00  125.00     1  beam.smp
+
+13:44:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:57      111       571    348.00      0.00 2685632  522932  26.79  beam.smp
+
+13:44:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:58      111       571   86.00   35.00    0.00    0.00  121.00     1  beam.smp
+
+13:44:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:58      111       571    193.00      0.00 2685632  523572  26.83  beam.smp
+
+13:44:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:44:59      111       571   83.00   37.00    0.00    0.00  120.00     1  beam.smp
+
+13:44:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:44:59      111       571    118.00      0.00 2685632  524084  26.85  beam.smp
+
+13:44:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:00      111       571  110.00   45.00    0.00    0.00  155.00     1  beam.smp
+
+13:44:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:00      111       571   2095.00      0.00 2695844  529568  27.13  beam.smp
+
+13:45:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:01      111       571  118.00   45.00    0.00    0.00  163.00     1  beam.smp
+
+13:45:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:01      111       571    317.00      0.00 2694060  529484  27.13  beam.smp
+
+13:45:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:02      111       571   47.00   19.00    0.00    0.00   66.00     1  beam.smp
+
+13:45:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:02      111       571   2764.00      0.00 2704384  536836  27.51  beam.smp
+
+13:45:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:03      111       571   13.00    5.00    0.00    0.00   18.00     1  beam.smp
+
+13:45:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:03      111       571      2.00      0.00 2701644  534700  27.40  beam.smp
+
+13:45:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:04      111       571   14.00    4.00    0.00    0.00   18.00     1  beam.smp
+
+13:45:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:04      111       571      2.00      0.00 2697376  531036  27.21  beam.smp
+
+13:45:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:05      111       571   12.00    5.00    0.00    0.00   17.00     1  beam.smp
+
+13:45:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:05      111       571      0.00      0.00 2696176  529848  27.15  beam.smp
+
+13:45:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:06      111       571   13.00    4.00    0.00    0.00   17.00     1  beam.smp
+
+13:45:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:06      111       571      4.00      0.00 2695588  529848  27.15  beam.smp
+
+13:45:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:07      111       571    7.00    1.00    0.00    0.00    8.00     1  beam.smp
+
+13:45:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:07      111       571      1.00      0.00 2694636  528892  27.10  beam.smp
+
+13:45:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:08      111       571    8.00    2.00    0.00    0.00   10.00     1  beam.smp
+
+13:45:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:08      111       571      1.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:09      111       571   10.00    2.00    0.00    0.00   12.00     1  beam.smp
+
+13:45:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:09      111       571      1.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:10      111       571   11.00    0.00    0.00    0.00   11.00     1  beam.smp
+
+13:45:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:10      111       571      6.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:11      111       571   16.00    0.00    0.00    0.00   16.00     1  beam.smp
+
+13:45:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:11      111       571     11.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:12      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:12      111       571      3.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:13      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:13      111       571      0.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:14      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:14      111       571      1.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:15      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:15      111       571      2.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:16      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:16      111       571      0.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:17      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:17      111       571      1.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:18      111       571    3.00    0.00    0.00    0.00    3.00     1  beam.smp
+
+13:45:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:18      111       571      0.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:19      111       571    4.00    0.00    0.00    0.00    4.00     1  beam.smp
+
+13:45:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:19      111       571      0.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:20      111       571    4.00    0.00    0.00    0.00    4.00     1  beam.smp
+
+13:45:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:20      111       571      2.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:21      111       571    3.00    0.00    0.00    0.00    3.00     1  beam.smp
+
+13:45:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:21      111       571      5.00      0.00 2693684  527944  27.05  beam.smp
+
+13:45:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:22      111       571    3.00    0.00    0.00    0.00    3.00     1  beam.smp
+
+13:45:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:22      111       571      3.00      0.00 2687448  525768  26.94  beam.smp
+
+13:45:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:23      111       571    2.00    0.00    0.00    0.00    2.00     1  beam.smp
+
+13:45:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:23      111       571      4.00      0.00 2685632  525768  26.94  beam.smp
+
+13:45:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:24      111       571    4.00    0.00    0.00    0.00    4.00     1  beam.smp
+
+13:45:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:24      111       571      2.00      0.00 2685632  525768  26.94  beam.smp
+
+13:45:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:25      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:25      111       571      8.00      0.00 2685632  525768  26.94  beam.smp
+
+13:45:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:26      111       571   13.00    0.00    0.00    0.00   13.00     1  beam.smp
+
+13:45:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:26      111       571      8.00      0.00 2685632  525768  26.94  beam.smp
+
+13:45:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:27      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:27      111       571      1.00      0.00 2677440  519416  26.61  beam.smp
+
+13:45:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:28      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:28      111       571      0.00      0.00 2677440  519416  26.61  beam.smp
+
+13:45:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:29      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:29      111       571      1.00      0.00 2675392  517372  26.51  beam.smp
+
+13:45:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:30      111       571   10.00    0.00    0.00    0.00   10.00     1  beam.smp
+
+13:45:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:30      111       571      8.00      0.00 2675392  517372  26.51  beam.smp
+
+13:45:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:31      111       571    8.00    0.00    0.00    0.00    8.00     1  beam.smp
+
+13:45:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:31      111       571      2.00      0.00 2675392  517372  26.51  beam.smp
+
+13:45:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:32      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:32      111       571      3.00      0.00 2671296  513788  26.32  beam.smp
+
+13:45:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:33      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:33      111       571      0.00      0.00 2667200  509884  26.12  beam.smp
+
+13:45:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:34      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:34      111       571      0.00      0.00 2667200  509884  26.12  beam.smp
+
+13:45:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:35      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:35      111       571      0.00      0.00 2656960  499740  25.60  beam.smp
+
+13:45:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:36      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:36      111       571     18.00      0.00 2650816  493728  25.30  beam.smp
+
+13:45:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:37      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:37      111       571     72.00      0.00 2642624  486924  24.95  beam.smp
+
+13:45:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:38      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:38      111       571    120.00      0.00 2642624  487436  24.97  beam.smp
+
+13:45:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:39      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:39      111       571    108.00      0.00 2634432  481196  24.65  beam.smp
+
+13:45:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:40      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:40      111       571     83.00      0.00 2626240  474388  24.31  beam.smp
+
+13:45:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:41      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:41      111       571     56.00      0.00 2613952  464080  23.78  beam.smp
+
+13:45:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:42      111       571   11.00    0.00    0.00    0.00   11.00     1  beam.smp
+
+13:45:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:42      111       571     69.00      0.00 2601664  453200  23.22  beam.smp
+
+13:45:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:43      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:43      111       571     36.00      0.00 2585280  439768  22.53  beam.smp
+
+13:45:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:44      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:44      111       571     33.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:45      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:45      111       571     37.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:46      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:46      111       571     11.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:47      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:47      111       571      0.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:48      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:48      111       571      0.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:49      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:49      111       571      0.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:50      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:50      111       571      1.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:51      111       571    7.00    0.00    0.00    0.00    7.00     1  beam.smp
+
+13:45:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:51      111       571      0.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:52      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:52      111       571      2.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:53      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:53      111       571      3.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:54      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:54      111       571      2.00      0.00 2568896  424860  21.77  beam.smp
+
+13:45:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:55      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:55      111       571      3.00      0.00 2568896  424988  21.77  beam.smp
+
+13:45:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:56      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:56      111       571      2.00      0.00 2568896  424988  21.77  beam.smp
+
+13:45:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:57      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:57      111       571      0.00      0.00 2568896  424988  21.77  beam.smp
+
+13:45:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:58      111       571    5.00    0.00    0.00    0.00    5.00     1  beam.smp
+
+13:45:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:58      111       571      1.00      0.00 2568896  425116  21.78  beam.smp
+
+13:45:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:45:59      111       571    6.00    0.00    0.00    0.00    6.00     1  beam.smp
+
+13:45:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:45:59      111       571      1.00      0.00 2568896  425116  21.78  beam.smp
+
+13:45:59      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:00      111       571   11.00    0.00    0.00    0.00   11.00     1  beam.smp
+
+13:45:59      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:00      111       571      1.00      0.00 2568896  425116  21.78  beam.smp
+
+13:46:00      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:01      111       571   13.00    0.00    0.00    0.00   13.00     1  beam.smp
+
+13:46:00      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:01      111       571      2.00      0.00 2560704  418468  21.44  beam.smp
+
+13:46:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:02      111       571  125.00    0.00    0.00    0.00  125.00     1  beam.smp
+
+13:46:01      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:02      111       571    224.00      0.00 2554196  410672  21.04  beam.smp
+
+13:46:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:03      111       571   30.00    0.00    0.00    0.00   30.00     1  beam.smp
+
+13:46:02      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:03      111       571    238.00      0.00 2553332  410000  21.01  beam.smp
+
+13:46:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:04      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:03      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:04      111       571      0.00      0.00 2550260  406928  20.85  beam.smp
+
+13:46:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:05      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:04      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:05      111       571      0.00      0.00 2547188  404116  20.71  beam.smp
+
+13:46:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:06      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:05      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:06      111       571      0.00      0.00 2544996  401932  20.59  beam.smp
+
+13:46:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:07      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:06      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:07      111       571      0.00      0.00 2542884  399884  20.49  beam.smp
+
+13:46:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:08      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:07      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:08      111       571      0.00      0.00 2540836  397836  20.38  beam.smp
+
+13:46:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:09      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:08      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:09      111       571      0.00      0.00 2532644  389644  19.96  beam.smp
+
+13:46:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:10      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:09      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:10      111       571      0.00      0.00 2532548  389644  19.96  beam.smp
+
+13:46:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:11      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:10      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:11      111       571      0.00      0.00 2531960  389428  19.95  beam.smp
+
+13:46:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:12      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:11      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:12      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:12      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:13      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:12      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:13      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:13      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:14      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:13      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:14      111       571      1.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:14      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:15      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:14      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:15      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:15      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:16      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:15      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:16      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:16      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:17      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:16      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:17      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:17      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:18      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:17      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:18      111       571      1.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:18      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:19      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:18      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:19      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:19      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:20      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:19      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:20      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:20      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:21      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:20      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:21      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:22      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:21      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:22      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:23      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:22      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:23      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:24      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:23      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:24      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:25      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:24      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:25      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:26      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:25      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:26      111       571      0.00      0.00 2531816  389288  19.95  beam.smp
+
+13:46:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:27      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:26      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:27      111       571      0.00      0.00 2526696  385792  19.77  beam.smp
+
+13:46:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:28      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:27      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:28      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:29      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:28      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:29      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:30      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:29      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:30      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:31      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:30      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:31      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:32      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:31      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:32      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:33      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:32      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:33      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:33      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:34      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:33      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:34      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:34      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:35      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:34      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:35      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:35      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:36      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:35      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:36      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:36      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:37      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:36      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:37      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:37      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:38      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:37      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:38      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:38      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:39      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:38      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:39      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:39      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:40      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:39      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:40      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:40      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:41      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:40      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:41      111       571      0.00      0.00 2524648  383744  19.66  beam.smp
+
+13:46:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:42      111       571    2.00    0.00    0.00    0.00    2.00     1  beam.smp
+
+13:46:41      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:42      111       571      2.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:43      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:42      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:43      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:44      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:43      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:44      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:45      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:44      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:45      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:46      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:45      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:46      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:47      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:46      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:47      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:48      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:47      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:48      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:49      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:48      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:49      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:50      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:49      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:50      111       571      0.00      0.00 2520552  379648  19.45  beam.smp
+
+13:46:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:51      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:50      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:51      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:52      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:51      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:52      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:52      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:53      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:52      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:53      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:53      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:54      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:53      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:54      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:54      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:55      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:54      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:55      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:55      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:56      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:55      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:56      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:56      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:57      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:56      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:57      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:57      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:58      111       571    1.00    0.00    0.00    0.00    1.00     1  beam.smp
+
+13:46:57      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:58      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+13:46:58      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+13:46:59      111       571    0.00    0.00    0.00    0.00    0.00     1  beam.smp
+
+13:46:58      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+13:46:59      111       571      0.00      0.00 2512360  373220  19.12  beam.smp
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:      111       571   31.70   11.40    0.00    0.00   43.11     -  beam.smp
+
+Average:      UID       PID  minflt/s  majflt/s     VSZ     RSS   %MEM  Command
+Average:      111       571    339.90      0.00 2576676  424181  21.73  beam.smp

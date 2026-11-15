@@ -9,6 +9,8 @@ O projeto usa **MQTT 5.0** por meio do cliente oficial Eclipse Paho para Go (`gi
 
 O consumo de CPU/RAM/rede do broker é coletado separadamente na própria EC2 com `scripts/collect_broker_metrics.sh`, evitando misturar métricas do gerador com métricas do servidor.
 
+O [índice de experimentos e resultados do TCC](docs/experimentos-tcc.md) reúne a documentação dos ensaios, com método, resultados, limitações e links para as execuções usadas em cada análise.
+
 ## Requisitos no Windows
 
 - Go 1.21 ou superior.
@@ -149,37 +151,49 @@ As conexões bem-sucedidas ficam abertas durante `--hold` para permitir medir CP
 
 ## 3. Coleta de CPU/RAM/rede na EC2
 
-Copie `scripts/collect_broker_metrics.sh` para cada EC2 ou crie o arquivo manualmente.
+Na EC2 do broker, execute a partir da raiz do repositório. O script requer
+`sar` e `pidstat` (pacote `sysstat`), `ss` e um serviço systemd ativo chamado
+`emqx` ou `mosquitto`.
 
 EMQX:
 
 ```bash
-chmod +x collect_broker_metrics.sh
-./collect_broker_metrics.sh emqx 90 1 ~/tcc-metrics/emqx-piloto-qos0
+bash scripts/collect_broker_metrics.sh 90 ./metricas/ensaio-emqx
 ```
 
 Mosquitto:
 
 ```bash
-chmod +x collect_broker_metrics.sh
-./collect_broker_metrics.sh mosquitto 90 1 ~/tcc-metrics/mosquitto-piloto-qos0
+bash scripts/collect_broker_metrics.sh 90 ./metricas/ensaio-mosquitto
 ```
 
-Para um teste de `10 s warm-up + 60 s medição + 5 s drain`, 90 segundos dão margem para iniciar o coletor antes do benchmark.
+Os argumentos são **duração em segundos** e **pasta de saída**. O broker é
+detectado automaticamente pelo systemd (EMQX tem prioridade se ambos estiverem
+ativos); o intervalo é fixo em 1 s. Se o script for copiado separadamente,
+ajuste somente o caminho do script no comando.
+
+Dimensione a coleta incluindo a abertura das conexões, warmup, medição,
+drenagem ou hold e margem para iniciar o coletor antes do benchmark. Os 90 s
+acima são um exemplo para cargas pequenas. No C2500 corrigido pela Internet,
+o procedimento registrado usou 120 s; os ensaios AWS têm durações próprias
+no [índice](docs/experimentos-tcc.md). Para reproduzir uma coleta específica,
+use `duration_seconds` de seu `metadata.txt`, conferindo também
+`started_at_utc` e `finished_at_utc`; o tempo de parede pode exceder a duração
+solicitada por causa do custo da amostragem.
 
 O script gera:
 
-- `sar_cpu.txt`
-- `sar_memory.txt`
-- `sar_network.txt`
-- `pidstat_broker.txt`
+- `cpu.txt`
+- `memory.txt`
+- `network.txt`
+- `process.txt`
 - `connections.csv`
 - `metadata.txt`
 
 Depois copie para o computador:
 
 ```powershell
-scp -i "C:\caminho\tcc-iot-key.pem" -r ubuntu@IP_DA_EC2:~/tcc-metrics .\broker-metrics\
+scp -i "C:\caminho\tcc-iot-key.pem" -r ubuntu@IP_DA_EC2:~/tcc-mqtt-benchmark/metricas/ensaio-emqx .\broker-metrics\
 ```
 
 ## 4. Resultados do simulador
@@ -221,9 +235,9 @@ Execute o mesmo depois contra o Mosquitto.
 - Fazer primeiro a fase piloto; não começar diretamente com milhares de conexões.
 - Intercalar a ordem dos brokers nas repetições finais para reduzir viés temporal de rede (ex.: EMQX → Mosquitto → Mosquitto → EMQX).
 
-## Próximo passo
+## Documentação experimental
 
-Execute primeiro o piloto de 100 clientes. Só depois de validar os resultados definimos a matriz final (100/250/500/1000 clientes, taxas e duração), evitando criar dezenas de testes sem necessidade científica.
+A matriz oficial contém 48 execuções pela Internet, com três repetições por condição. Os ensaios exploratórios na rede privada AWS e os diagnósticos são analisados separadamente. Consulte o [índice de experimentos](docs/experimentos-tcc.md) para localizar os resultados e os arquivos de cada execução, e o [plano experimental](docs/benchmark-plan.md) para os critérios do procedimento.
 
 ## Versão 0.2.0
 

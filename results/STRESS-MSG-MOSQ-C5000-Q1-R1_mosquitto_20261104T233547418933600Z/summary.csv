@@ -1,0 +1,2 @@
+broker,qos,clients_connected,rate_per_client,payload_bytes,duration_s,publish_success,received_unique,lost,duplicates,delivery_rate_pct,publish_throughput_msg_s,receive_throughput_msg_s,latency_avg_ms,latency_p50_ms,latency_p95_ms,latency_p99_ms,latency_max_ms,tool_version,scenario_id,repetition,publish_pattern
+mosquitto,1,4031,1,256,60,241860,7555,234305,0,3.123708,4031.000000,125.916667,7875.720101,7861.018200,8040.072760,8180.018336,8309.120200,0.3.0,STRESS-MSG-MOSQ-C5000-Q1-R1,1,staggered
